@@ -1,0 +1,25 @@
+generations:
+  - name: "First Generation (B5)"
+    start_year: 1997
+    end_year: 2001
+    description: "The original Audi S4 was based on the B5 A4 platform, featuring a twin-turbocharged 2.7L V6 engine producing 261 HP, paired with a six-speed manual transmission or five-speed Tiptronic automatic and quattro all-wheel drive. Available in sedan and Avant (wagon) body styles, it featured subtle exterior enhancements, sport suspension, and larger brakes compared to the standard A4. The B5 S4 established the blueprint for future S4 models, offering impressive performance in a practical, understated package."
+
+  - name: "Second Generation (B6)"
+    start_year: 2003
+    end_year: 2005
+    description: "The B6 S4 represented a significant change with the introduction of a naturally aspirated 4.2L V8 engine producing 339 HP. Available in sedan, Avant, and new cabriolet body styles, it maintained the understated performance character of the S4 line while delivering enhanced performance. The V8 engine provided a distinctive exhaust note and smooth power delivery compared to the previous turbocharged V6."
+
+  - name: "Third Generation (B7)"
+    start_year: 2005
+    end_year: 2008
+    description: "The B7 S4 was an evolution of the B6, retaining the 4.2L V8 engine while featuring updated styling with Audi's then-new single-frame grille. It continued to be offered in sedan, Avant, and cabriolet body styles. While mechanically similar to its predecessor, it received chassis refinements and technology updates."
+
+  - name: "Fourth Generation (B8)"
+    start_year: 2009
+    end_year: 2016
+    description: "The B8 S4 returned to forced induction with a supercharged 3.0L V6 engine producing 333 HP. Built on the new MLB platform, it featured a more sophisticated quattro system with the optional sports differential for improved handling. Available in sedan and Avant body styles (though the Avant was not offered in all markets), it introduced new technology including Audi Drive Select to adjust vehicle dynamics. A facelift in 2012 updated the styling and technology offerings."
+
+  - name: "Fifth Generation (B9)"
+    start_year: 2016
+    end_year: null
+    description: "The current B9 S4 switched to turbocharging with a 3.0L V6 producing 349 HP (later 341 HP in some markets). Initially paired exclusively with an eight-speed automatic transmission, it represents a focus on everyday usability with enhanced performance. The exterior features subtle S-specific enhancements while the interior blends sportiness with Audi's latest technology including the Virtual Cockpit digital instrument cluster. A facelift in 2019 updated the styling and technology. Throughout its evolution, the S4 has maintained its position as a balanced performance sedan combining impressive capabilities with practical everyday usability."
