@@ -1,0 +1,25 @@
+command_id: 7E0.7E8.2211BE
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8056211BE0000
+  expected_values:
+    AUDI_EOT: 0
+- response: 7E8056211BE0001
+  expected_values:
+    AUDI_EOT: 1
+- response: 7E8056211BE0002
+  expected_values:
+    AUDI_EOT: 2
+- response: 7E8056211BE0003
+  expected_values:
+    AUDI_EOT: 3
+- response: 7E8056211BEFFFD
+  expected_values:
+    AUDI_EOT: 65533
+- response: 7E8056211BEFFFE
+  expected_values:
+    AUDI_EOT: 65534
+- response: 7E8056211BEFFFF
+  expected_values:
+    AUDI_EOT: 65535

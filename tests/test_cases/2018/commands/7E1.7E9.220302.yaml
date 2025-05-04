@@ -1,0 +1,37 @@
+command_id: 7E1.7E9.220302
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: '7E9056203021969'
+  expected_values:
+    AUDI_DRIVE_TIME: 1626.25
+- response: 7E905620302196A
+  expected_values:
+    AUDI_DRIVE_TIME: 1626.5
+- response: 7E905620302196B
+  expected_values:
+    AUDI_DRIVE_TIME: 1626.75
+- response: 7E905620302196C
+  expected_values:
+    AUDI_DRIVE_TIME: 1627
+- response: 7E905620302196D
+  expected_values:
+    AUDI_DRIVE_TIME: 1627.25
+- response: 7E905620302196E
+  expected_values:
+    AUDI_DRIVE_TIME: 1627.5
+- response: 7E905620302196F
+  expected_values:
+    AUDI_DRIVE_TIME: 1627.75
+- response: '7E9056203021971'
+  expected_values:
+    AUDI_DRIVE_TIME: 1628.25
+- response: '7E9056203021972'
+  expected_values:
+    AUDI_DRIVE_TIME: 1628.5
+- response: '7E9056203021973'
+  expected_values:
+    AUDI_DRIVE_TIME: 1628.75
+- response: '7E9056203021974'
+  expected_values:
+    AUDI_DRIVE_TIME: 1629
