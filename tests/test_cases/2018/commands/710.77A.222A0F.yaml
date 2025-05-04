@@ -1,0 +1,34 @@
+command_id: 710.77A.222A0F
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 77A04622A0F1A
+  expected_values:
+    AUDI_SSB_AH: 26
+- response: 77A04622A0F1B
+  expected_values:
+    AUDI_SSB_AH: 27
+- response: 77A04622A0F1C
+  expected_values:
+    AUDI_SSB_AH: 28
+- response: 77A04622A0F1D
+  expected_values:
+    AUDI_SSB_AH: 29
+- response: 77A04622A0F1E
+  expected_values:
+    AUDI_SSB_AH: 30
+- response: 77A04622A0F1F
+  expected_values:
+    AUDI_SSB_AH: 31
+- response: 77A04622A0F20
+  expected_values:
+    AUDI_SSB_AH: 32
+- response: 77A04622A0F21
+  expected_values:
+    AUDI_SSB_AH: 33
+- response: 77A04622A0F22
+  expected_values:
+    AUDI_SSB_AH: 34
+- response: 77A04622A0F23
+  expected_values:
+    AUDI_SSB_AH: 35

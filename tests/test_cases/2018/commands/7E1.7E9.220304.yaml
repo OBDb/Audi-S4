@@ -1,0 +1,7 @@
+command_id: 7E1.7E9.220304
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E9046203041A
+  expected_values:
+    AUDI_DRIVE_TIME_SPORT: 10.4
