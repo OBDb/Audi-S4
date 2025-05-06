@@ -38,16 +38,25 @@ test_cases:
 - response: 77A05622A072022
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072027
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072028
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072041
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072043
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072044
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072047
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07205A
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072067
@@ -59,22 +68,52 @@ test_cases:
 - response: 77A05622A072077
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072081
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A07208D
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07208F
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A07209B
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A07209C
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07209F
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0720A3
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0720B4
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0720B7
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0720BE
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A0720C1
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0720C2
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0720C9
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0720CF
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0720D3
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0720D7
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A0720DF
@@ -83,13 +122,28 @@ test_cases:
 - response: 77A05622A0720E3
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0720E9
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0720EE
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0720FD
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072104
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072108
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A07210B
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07210C
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072115
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072117
@@ -104,7 +158,19 @@ test_cases:
 - response: 77A05622A07212B
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072131
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072136
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07213C
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072140
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072146
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072151
@@ -125,7 +191,25 @@ test_cases:
 - response: 77A05622A0721C0
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0721C1
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0721E4
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0721EB
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07221B
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072226
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072233
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072240
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A07224B
@@ -141,6 +225,9 @@ test_cases:
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A0722A6
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0722AC
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A0722C7
@@ -200,6 +287,24 @@ test_cases:
 - response: 77A05622A072300
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072301
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072303
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072304
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072309
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07230A
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07230F
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A07232C
   expected_values:
     AUDI_SSB_V: 69.54
@@ -209,10 +314,67 @@ test_cases:
 - response: 77A05622A07233D
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A07234B
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072368
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07236A
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07236B
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07236C
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07236D
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07236E
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07236F
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072371
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072372
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072399
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0723A7
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0723B2
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0723B7
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0723C5
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0723C6
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0723C9
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0723CE
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0723DE
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072423
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072428
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A07242C
@@ -230,6 +392,9 @@ test_cases:
 - response: 77A05622A072437
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072438
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072439
   expected_values:
     AUDI_SSB_V: 69.54
@@ -237,6 +402,9 @@ test_cases:
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A07243E
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072442
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072443
@@ -252,6 +420,9 @@ test_cases:
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A07244B
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07244C
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A07244D
@@ -314,6 +485,9 @@ test_cases:
 - response: 77A05622A072471
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072483
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072486
   expected_values:
     AUDI_SSB_V: 69.54
@@ -335,6 +509,18 @@ test_cases:
 - response: 77A05622A072564
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0725F9
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0726B3
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07270D
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07273B
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072790
   expected_values:
     AUDI_SSB_V: 69.54
@@ -342,6 +528,12 @@ test_cases:
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072804
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072839
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A07283A
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072852
@@ -638,28 +830,76 @@ test_cases:
 - response: 77A05622A072990
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0729B4
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729B7
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729BA
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729BD
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729BE
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0729C2
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729C3
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729C9
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729CA
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A0729CD
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0729D0
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729D2
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729D3
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0729D4
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729D5
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A0729D8
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0729DB
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0729DC
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0729DD
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0729DF
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729E0
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A0729E1
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A0729E2
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729E3
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A0729E4
@@ -677,22 +917,52 @@ test_cases:
 - response: 77A05622A0729EB
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0729ED
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0729EE
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A0729F0
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0729F1
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0729F3
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A0729F4
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729F5
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729F9
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729FB
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A0729FD
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A0729FF
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072A00
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072A01
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A02
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A03
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A05
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072A16
@@ -702,6 +972,9 @@ test_cases:
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072A19
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A1B
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072A1C
@@ -731,16 +1004,160 @@ test_cases:
 - response: 77A05622A072A2A
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072A2B
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A4A
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A4E
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A4F
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A50
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A55
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A5B
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A5D
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A64
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A67
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072A6B
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A6C
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A6E
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A6F
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A71
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A73
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A75
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A77
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A78
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072A80
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072A8B
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072A9F
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AA1
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072AA6
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072AAC
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AAF
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AB0
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AB5
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AB6
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AB8
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AB9
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072ABA
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072ABB
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072ABD
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072ABF
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AC0
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AC1
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AC2
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AC3
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AC4
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AC5
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AC6
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AC8
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072AC9
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072ACB
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072ACE
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AD1
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AD3
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AD4
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072AD9
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072ADB
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072ADD
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072AF1
@@ -761,10 +1178,34 @@ test_cases:
 - response: 77A05622A072B18
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072BB8
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072BBB
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072BC2
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072BD1
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072BE5
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072BE8
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072BF3
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072BF5
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C01
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C16
   expected_values:
     AUDI_SSB_V: 69.54
 - response: 77A05622A072C1D
@@ -773,6 +1214,54 @@ test_cases:
 - response: 77A05622A072C24
   expected_values:
     AUDI_SSB_V: 69.54
+- response: 77A05622A072C29
+  expected_values:
+    AUDI_SSB_V: 69.54
 - response: 77A05622A072C2E
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C34
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C37
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C3A
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C3E
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C45
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C50
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C52
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C54
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C57
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C58
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C59
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C60
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C61
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C66
+  expected_values:
+    AUDI_SSB_V: 69.54
+- response: 77A05622A072C70
   expected_values:
     AUDI_SSB_V: 69.54

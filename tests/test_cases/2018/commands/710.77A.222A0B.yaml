@@ -2,6 +2,27 @@ command_id: 710.77A.222A0B
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: 77A04622A0B32
+  expected_values:
+    AUDI_SSB_T: 10
+- response: 77A04622A0B33
+  expected_values:
+    AUDI_SSB_T: 11
+- response: 77A04622A0B34
+  expected_values:
+    AUDI_SSB_T: 12
+- response: 77A04622A0B35
+  expected_values:
+    AUDI_SSB_T: 13
+- response: 77A04622A0B36
+  expected_values:
+    AUDI_SSB_T: 14
+- response: 77A04622A0B37
+  expected_values:
+    AUDI_SSB_T: 15
+- response: 77A04622A0B38
+  expected_values:
+    AUDI_SSB_T: 16
 - response: 77A04622A0B39
   expected_values:
     AUDI_SSB_T: 17

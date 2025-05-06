@@ -236,3 +236,159 @@ test_cases:
 - response: 7E80562F4310744
   expected_values:
     AUDI_CLR_DIST: 1860
+- response: 7E80562F431074E
+  expected_values:
+    AUDI_CLR_DIST: 1870
+- response: 7E80562F431074F
+  expected_values:
+    AUDI_CLR_DIST: 1871
+- response: 7E80562F4310750
+  expected_values:
+    AUDI_CLR_DIST: 1872
+- response: 7E80562F4310751
+  expected_values:
+    AUDI_CLR_DIST: 1873
+- response: 7E80562F4310752
+  expected_values:
+    AUDI_CLR_DIST: 1874
+- response: 7E80562F4310753
+  expected_values:
+    AUDI_CLR_DIST: 1875
+- response: 7E80562F4310754
+  expected_values:
+    AUDI_CLR_DIST: 1876
+- response: 7E80562F4310755
+  expected_values:
+    AUDI_CLR_DIST: 1877
+- response: 7E80562F4310756
+  expected_values:
+    AUDI_CLR_DIST: 1878
+- response: 7E80562F4310757
+  expected_values:
+    AUDI_CLR_DIST: 1879
+- response: 7E80562F4310758
+  expected_values:
+    AUDI_CLR_DIST: 1880
+- response: 7E80562F4310759
+  expected_values:
+    AUDI_CLR_DIST: 1881
+- response: 7E80562F431075F
+  expected_values:
+    AUDI_CLR_DIST: 1887
+- response: 7E80562F4310760
+  expected_values:
+    AUDI_CLR_DIST: 1888
+- response: 7E80562F4310761
+  expected_values:
+    AUDI_CLR_DIST: 1889
+- response: 7E80562F4310762
+  expected_values:
+    AUDI_CLR_DIST: 1890
+- response: 7E80562F4310763
+  expected_values:
+    AUDI_CLR_DIST: 1891
+- response: 7E80562F4310764
+  expected_values:
+    AUDI_CLR_DIST: 1892
+- response: 7E80562F4310765
+  expected_values:
+    AUDI_CLR_DIST: 1893
+- response: 7E80562F4310766
+  expected_values:
+    AUDI_CLR_DIST: 1894
+- response: 7E80562F4310767
+  expected_values:
+    AUDI_CLR_DIST: 1895
+- response: 7E80562F4310768
+  expected_values:
+    AUDI_CLR_DIST: 1896
+- response: 7E80562F4310769
+  expected_values:
+    AUDI_CLR_DIST: 1897
+- response: 7E80562F4310770
+  expected_values:
+    AUDI_CLR_DIST: 1904
+- response: 7E80562F4310771
+  expected_values:
+    AUDI_CLR_DIST: 1905
+- response: 7E80562F4310772
+  expected_values:
+    AUDI_CLR_DIST: 1906
+- response: 7E80562F4310773
+  expected_values:
+    AUDI_CLR_DIST: 1907
+- response: 7E80562F4310774
+  expected_values:
+    AUDI_CLR_DIST: 1908
+- response: 7E80562F431077A
+  expected_values:
+    AUDI_CLR_DIST: 1914
+- response: 7E80562F431077B
+  expected_values:
+    AUDI_CLR_DIST: 1915
+- response: 7E80562F431077C
+  expected_values:
+    AUDI_CLR_DIST: 1916
+- response: 7E80562F431077D
+  expected_values:
+    AUDI_CLR_DIST: 1917
+- response: 7E80562F431077E
+  expected_values:
+    AUDI_CLR_DIST: 1918
+- response: 7E80562F431077F
+  expected_values:
+    AUDI_CLR_DIST: 1919
+- response: 7E80562F4310780
+  expected_values:
+    AUDI_CLR_DIST: 1920
+- response: 7E80562F4310781
+  expected_values:
+    AUDI_CLR_DIST: 1921
+- response: 7E80562F4310782
+  expected_values:
+    AUDI_CLR_DIST: 1922
+- response: 7E80562F4310783
+  expected_values:
+    AUDI_CLR_DIST: 1923
+- response: 7E80562F4310784
+  expected_values:
+    AUDI_CLR_DIST: 1924
+- response: 7E80562F4310785
+  expected_values:
+    AUDI_CLR_DIST: 1925
+- response: 7E80562F4310786
+  expected_values:
+    AUDI_CLR_DIST: 1926
+- response: 7E80562F4310787
+  expected_values:
+    AUDI_CLR_DIST: 1927
+- response: 7E80562F4310788
+  expected_values:
+    AUDI_CLR_DIST: 1928
+- response: 7E80562F4310789
+  expected_values:
+    AUDI_CLR_DIST: 1929
+- response: 7E80562F431078A
+  expected_values:
+    AUDI_CLR_DIST: 1930
+- response: 7E80562F431078B
+  expected_values:
+    AUDI_CLR_DIST: 1931
+- response: 7E80562F43107AC
+  expected_values:
+    AUDI_CLR_DIST: 1964
+- response: 7E80562F43107AD
+  expected_values:
+    AUDI_CLR_DIST: 1965
+- response: 7E80562F43107AE
+  expected_values:
+    AUDI_CLR_DIST: 1966
+- response: 7E80562F43107AF
+  expected_values:
+    AUDI_CLR_DIST: 1967
+- response: 7E80562F43107B0
+  expected_values:
+    AUDI_CLR_DIST: 1968
+- response: 7E80562F43107B1
+  expected_values:
+    AUDI_CLR_DIST: 1969

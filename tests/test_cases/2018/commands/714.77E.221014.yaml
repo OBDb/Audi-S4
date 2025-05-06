@@ -2,6 +2,24 @@ command_id: 714.77E.221014
 can_id_format: ELEVEN_BIT
 extended_addressing_enabled: false
 test_cases:
+- response: '77E0462101479'
+  expected_values:
+    AUDI_AAT: 71
+- response: 77E046210147A
+  expected_values:
+    AUDI_AAT: 72
+- response: 77E046210147B
+  expected_values:
+    AUDI_AAT: 73
+- response: 77E046210147C
+  expected_values:
+    AUDI_AAT: 74
+- response: 77E046210147D
+  expected_values:
+    AUDI_AAT: 75
+- response: 77E046210147E
+  expected_values:
+    AUDI_AAT: 76
 - response: 77E046210147F
   expected_values:
     AUDI_AAT: 77
