@@ -4,31 +4,25 @@ extended_addressing_enabled: false
 test_cases:
 - response: 7E90462210F01
   expected_values:
-    AUDI_GEAR_v2: 1
+    AUDI_GEAR: '1'
+    AUDI_GEAR_SHFT: REVERSE
 - response: 7E90462210F02
   expected_values:
-    AUDI_GEAR_v2: 2
+    AUDI_GEAR: '2'
+    AUDI_GEAR_SHFT: PARK
 - response: 7E90462210F03
   expected_values:
-    AUDI_GEAR_v2: 3
+    AUDI_GEAR: '3'
+    AUDI_GEAR_SHFT: DRIVE
 - response: 7E90462210F04
   expected_values:
-    AUDI_GEAR_v2: 4
+    AUDI_GEAR: '4'
 - response: 7E90462210F05
   expected_values:
-    AUDI_GEAR_v2: 5
+    AUDI_GEAR: '5'
 - response: 7E90462210F06
   expected_values:
-    AUDI_GEAR_v2: 6
+    AUDI_GEAR: '6'
 - response: 7E90462210F07
   expected_values:
-    AUDI_GEAR_v2: 7
-- response: 7E90462210F08
-  expected_values:
-    AUDI_GEAR_v2: 8
-- response: 7E90462210F09
-  expected_values:
-    AUDI_GEAR_v2: 9
-- response: 7E90462210F0A
-  expected_values:
-    AUDI_GEAR_v2: 10
+    AUDI_GEAR: '7'

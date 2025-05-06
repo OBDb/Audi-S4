@@ -6,109 +6,164 @@ test_cases:
     77A100A622AB6002800
     77A212807FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 40
+    AUDI_RANGE_V2: 40
 - response: |-
     77A100A622AB6002D00
     77A212D07FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 45
+    AUDI_RANGE_V2: 45
 - response: |-
     77A100A622AB6003200
     77A213207FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 50
+    AUDI_RANGE_V2: 50
 - response: |-
     77A100A622AB6003700
     77A213707FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 55
+    AUDI_RANGE_V2: 55
 - response: |-
     77A100A622AB6003C00
     77A213C07FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 60
+    AUDI_RANGE_V2: 60
 - response: |-
     77A100A622AB6004100
     77A214107FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 65
+    AUDI_RANGE_V2: 65
 - response: |-
     77A100A622AB6004600
     77A214607FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 70
+    AUDI_RANGE_V2: 70
+- response: |-
+    77A100A622AB6005000
+    77A215007FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 80
+- response: |-
+    77A100A622AB6005500
+    77A215507FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 85
 - response: |-
     77A100A622AB6005A00
     77A215A07FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 90
+    AUDI_RANGE_V2: 90
 - response: |-
     77A100A622AB6005F00
     77A215F07FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 95
+    AUDI_RANGE_V2: 95
 - response: |-
     77A100A622AB6006400
     77A216407FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 100
+    AUDI_RANGE_V2: 100
 - response: |-
     77A100A622AB6006900
     77A216907FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 105
+    AUDI_RANGE_V2: 105
 - response: |-
     77A100A622AB6006E00
     77A216E07FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 110
+    AUDI_RANGE_V2: 110
 - response: |-
     77A100A622AB6007300
     77A217307FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 115
+    AUDI_RANGE_V2: 115
 - response: |-
     77A100A622AB6007800
     77A217807FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 120
+    AUDI_RANGE_V2: 120
+- response: |-
+    77A100A622AB6007D00
+    77A217D07FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 125
+- response: |-
+    77A100A622AB6008200
+    77A218207FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 130
+- response: |-
+    77A100A622AB6008700
+    77A218707FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 135
+- response: |-
+    77A100A622AB6008C00
+    77A218C07FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 140
+- response: |-
+    77A100A622AB6009100
+    77A219107FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 145
+- response: |-
+    77A100A622AB6009600
+    77A219607FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 150
+- response: |-
+    77A100A622AB600A000
+    77A21A007FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 160
+- response: |-
+    77A100A622AB600A500
+    77A21A507FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 165
+- response: |-
+    77A100A622AB600AA00
+    77A21AA07FD01AAAAAA
+  expected_values:
+    AUDI_RANGE_V2: 170
 - response: |-
     77A100A622AB600AF00
     77A21AF07FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 175
+    AUDI_RANGE_V2: 175
 - response: |-
     77A100A622AB600B400
     77A21B407FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 180
+    AUDI_RANGE_V2: 180
 - response: |-
     77A100A622AB600B900
     77A21B907FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 185
+    AUDI_RANGE_V2: 185
 - response: |-
     77A100A622AB600BE00
     77A21BE07FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 190
+    AUDI_RANGE_V2: 190
 - response: |-
     77A100A622AB600C300
     77A21C307FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 195
+    AUDI_RANGE_V2: 195
 - response: |-
     77A100A622AB600C800
     77A21C807FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 200
+    AUDI_RANGE_V2: 200
 - response: |-
     77A100A622AB600E100
     77A21E107FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 225
+    AUDI_RANGE_V2: 225
 - response: |-
     77A100A622AB600E600
     77A21E607FD01AAAAAA
   expected_values:
-    AUDI_RANGE: 230
+    AUDI_RANGE_V2: 230

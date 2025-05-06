@@ -56,6 +56,9 @@ test_cases:
 - response: 7E80562F4422FD0
   expected_values:
     AUDI_VPWR: 12.24
+- response: 7E80562F4422FE4
+  expected_values:
+    AUDI_VPWR: 12.26
 - response: 7E80562F4422FF8
   expected_values:
     AUDI_VPWR: 12.28
@@ -77,12 +80,21 @@ test_cases:
 - response: 7E80562F4423070
   expected_values:
     AUDI_VPWR: 12.4
+- response: 7E80562F4423084
+  expected_values:
+    AUDI_VPWR: 12.42
 - response: 7E80562F4423098
   expected_values:
     AUDI_VPWR: 12.44
+- response: 7E80562F44230AC
+  expected_values:
+    AUDI_VPWR: 12.46
 - response: 7E80562F44230C0
   expected_values:
     AUDI_VPWR: 12.48
+- response: 7E80562F44230D4
+  expected_values:
+    AUDI_VPWR: 12.5
 - response: 7E80562F44230E8
   expected_values:
     AUDI_VPWR: 12.52
@@ -125,12 +137,24 @@ test_cases:
 - response: 7E80562F4423200
   expected_values:
     AUDI_VPWR: 12.8
+- response: 7E80562F4423214
+  expected_values:
+    AUDI_VPWR: 12.82
+- response: 7E80562F4423228
+  expected_values:
+    AUDI_VPWR: 12.84
+- response: 7E80562F442323C
+  expected_values:
+    AUDI_VPWR: 12.86
 - response: 7E80562F4423250
   expected_values:
     AUDI_VPWR: 12.88
 - response: 7E80562F4423264
   expected_values:
     AUDI_VPWR: 12.9
+- response: 7E80562F4423278
+  expected_values:
+    AUDI_VPWR: 12.92
 - response: 7E80562F442328C
   expected_values:
     AUDI_VPWR: 12.94
@@ -167,9 +191,18 @@ test_cases:
 - response: 7E80562F44233B8
   expected_values:
     AUDI_VPWR: 13.24
+- response: 7E80562F44233F4
+  expected_values:
+    AUDI_VPWR: 13.3
 - response: 7E80562F4423430
   expected_values:
     AUDI_VPWR: 13.36
+- response: 7E80562F4423480
+  expected_values:
+    AUDI_VPWR: 13.44
+- response: 7E80562F44235C0
+  expected_values:
+    AUDI_VPWR: 13.76
 - response: 7E80562F4423660
   expected_values:
     AUDI_VPWR: 13.92
@@ -260,9 +293,15 @@ test_cases:
 - response: 7E80562F442391C
   expected_values:
     AUDI_VPWR: 14.62
+- response: 7E80562F4423930
+  expected_values:
+    AUDI_VPWR: 14.64
 - response: 7E80562F4423944
   expected_values:
     AUDI_VPWR: 14.66
+- response: 7E80562F4423958
+  expected_values:
+    AUDI_VPWR: 14.68
 - response: 7E80562F442396C
   expected_values:
     AUDI_VPWR: 14.7
@@ -272,6 +311,9 @@ test_cases:
 - response: 7E80562F4423994
   expected_values:
     AUDI_VPWR: 14.74
+- response: 7E80562F44239A8
+  expected_values:
+    AUDI_VPWR: 14.76
 - response: 7E80562F44239BC
   expected_values:
     AUDI_VPWR: 14.78
@@ -281,18 +323,51 @@ test_cases:
 - response: 7E80562F44239E4
   expected_values:
     AUDI_VPWR: 14.82
+- response: 7E80562F4423A20
+  expected_values:
+    AUDI_VPWR: 14.88
+- response: 7E80562F4423A48
+  expected_values:
+    AUDI_VPWR: 14.92
+- response: 7E80562F4423A5C
+  expected_values:
+    AUDI_VPWR: 14.94
+- response: 7E80562F4423A70
+  expected_values:
+    AUDI_VPWR: 14.96
 - response: 7E80562F4423A98
   expected_values:
     AUDI_VPWR: 15
 - response: 7E80562F4423AAC
   expected_values:
     AUDI_VPWR: 15.02
+- response: 7E80562F4423AC0
+  expected_values:
+    AUDI_VPWR: 15.04
 - response: 7E80562F4423AD4
   expected_values:
     AUDI_VPWR: 15.06
 - response: 7E80562F4423AE8
   expected_values:
     AUDI_VPWR: 15.08
+- response: 7E80562F4423AFC
+  expected_values:
+    AUDI_VPWR: 15.1
 - response: 7E80562F4423B10
   expected_values:
     AUDI_VPWR: 15.12
+- response: 7E80562F4423B24
+  expected_values:
+    AUDI_VPWR: 15.14
+- response: 7E80562F4423B38
+  expected_values:
+    AUDI_VPWR: 15.16
+- response: 7E80562F4423B4C
+  expected_values:
+    AUDI_VPWR: 15.18
+- response: 7E80562F4423B60
+  expected_values:
+    AUDI_VPWR: 15.2
+- response: 7E80562F4423B74
+  expected_values:
+    AUDI_VPWR: 15.22
