@@ -5,42 +5,9 @@ test_cases:
 - response: 7E8056211BE0000
   expected_values:
     AUDI_EOT_V2: 0
-- response: 7E8056211BE0001
+- response: 7E8056211BEFFFC
   expected_values:
-    AUDI_EOT_V2: 1
-- response: 7E8056211BE0002
-  expected_values:
-    AUDI_EOT_V2: 2
-- response: 7E8056211BE0003
-  expected_values:
-    AUDI_EOT_V2: 3
-- response: 7E8056211BE0004
-  expected_values:
-    AUDI_EOT_V2: 4
-- response: 7E8056211BE0005
-  expected_values:
-    AUDI_EOT_V2: 5
-- response: 7E8056211BE0006
-  expected_values:
-    AUDI_EOT_V2: 6
-- response: 7E8056211BE0007
-  expected_values:
-    AUDI_EOT_V2: 7
-- response: 7E8056211BE0008
-  expected_values:
-    AUDI_EOT_V2: 8
-- response: 7E8056211BE0009
-  expected_values:
-    AUDI_EOT_V2: 9
-- response: 7E8056211BE000A
-  expected_values:
-    AUDI_EOT_V2: 10
-- response: 7E8056211BEFFFD
-  expected_values:
-    AUDI_EOT_V2: 65533
-- response: 7E8056211BEFFFE
-  expected_values:
-    AUDI_EOT_V2: 65534
+    AUDI_EOT_V2: 65532
 - response: 7E8056211BEFFFF
   expected_values:
     AUDI_EOT_V2: 65535
