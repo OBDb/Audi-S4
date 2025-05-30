@@ -1,0 +1,11 @@
+command_id: 713.222B1B
+test_cases:
+- response: 7E905622B1B0000
+  expected_values:
+    AUDI_TIRE_FL_SPD: 0
+- response: 7E905622B1B00FF
+  expected_values:
+    AUDI_TIRE_FL_SPD: 25.5
+- response: 7E905622B1B0504
+  expected_values:
+    AUDI_TIRE_FL_SPD: 128.4
