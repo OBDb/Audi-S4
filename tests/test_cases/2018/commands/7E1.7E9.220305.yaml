@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.220305
+test_cases:
+- response: '7E90462030509'
+  expected_values:
+    AUDI_DRIVE_TIME_MANUAL: 3.6
+- response: 7E9046203050A
+  expected_values:
+    AUDI_DRIVE_TIME_MANUAL: 4

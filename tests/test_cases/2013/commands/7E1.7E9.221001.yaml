@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.221001
+test_cases:
+- response: '7E9056210010000'
+  expected_values:
+    AUDI_TIRE_FR_SPD_V3: 0
+- response: 7E90562100101FF
+  expected_values:
+    AUDI_TIRE_FR_SPD_V3: 51.1
+- response: '7E9056210010503'
+  expected_values:
+    AUDI_TIRE_FR_SPD_V3: 128.3

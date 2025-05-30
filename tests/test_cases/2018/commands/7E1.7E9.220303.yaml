@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.220303
+test_cases:
+- response: 7E904620303D3
+  expected_values:
+    AUDI_DRIVE_TIME_ECO: 84.4
+- response: 7E904620303D4
+  expected_values:
+    AUDI_DRIVE_TIME_ECO: 84.8
+- response: 7E904620303D5
+  expected_values:
+    AUDI_DRIVE_TIME_ECO: 85.2
+- response: 7E904620303D6
+  expected_values:
+    AUDI_DRIVE_TIME_ECO: 85.6
+- response: 7E904620303D7
+  expected_values:
+    AUDI_DRIVE_TIME_ECO: 86
