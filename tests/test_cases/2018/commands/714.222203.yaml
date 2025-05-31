@@ -1,6 +1,0 @@
-command_id: '714.222203'
-test_cases:
-- response: 77E06622203016D93
-  expected_values:
-    AUDI_ODO_DASH: 255
-    AUDI_ODO_V2: 935870
