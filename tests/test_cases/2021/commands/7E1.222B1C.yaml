@@ -10,11 +10,17 @@ test_cases:
     AUDI_TIRE_FR_SPD_V2: 111.4
   response: "222B1C1\n7E9 05 62 2B 1C 04 5A "
 - expected_values:
+    AUDI_TIRE_FR_SPD_V2: 216.4
+  response: '77D 05 62 2B 1C 08 74 '
+- expected_values:
     AUDI_TIRE_FR_SPD_V2: 0
   response: '7E9 05 62 2B 1C 00 00 '
 - expected_values:
-    AUDI_TIRE_FR_SPD_V2: 103.6
-  response: '7E9 05 62 2B 1C 04 0C '
+    AUDI_TIRE_FR_SPD_V2: 1.5
+  response: '7E9 05 62 2B 1C 00 0F '
+- expected_values:
+    AUDI_TIRE_FR_SPD_V2: 48
+  response: '7E9 05 62 2B 1C 01 E0 '
 - expected_values:
     AUDI_TIRE_FR_SPD_V2: 0
   response: 7E905622B1C0000
@@ -22,5 +28,5 @@ test_cases:
     AUDI_TIRE_FR_SPD_V2: 51.1
   response: 7E905622B1C01FF
 - expected_values:
-    AUDI_TIRE_FR_SPD_V2: 128
-  response: 7E905622B1C0500
+    AUDI_TIRE_FR_SPD_V2: 193.3
+  response: 7E905622B1C078D
