@@ -1,0 +1,42 @@
+command_id: 710.77A.222AB6|fc=1
+test_cases:
+- expected_values:
+    AUDI_RANGE_V2: 225
+  response: "222AB6\n77A 10 0A 62 2A B6 00 E1 00 \n77A 21 E1 07 FD 01 AA AA AA "
+- expected_values:
+    AUDI_RANGE_V2: 235
+  response: "222AB6\n77A 10 0A 62 2A B6 00 EB 00 \n77A 21 EB 07 FD 01 AA AA AA "
+- expected_values:
+    AUDI_RANGE_V2: 240
+  response: "222AB6\n77A 10 0A 62 2A B6 00 F0 00 \n77A 21 F0 07 FD 01 AA AA AA "
+- expected_values:
+    AUDI_RANGE_V2: 335
+  response: "77A 10 0A 62 2A B6 01 4F 01 \n77A 21 4F 07 FD 01 AA AA AA "
+- expected_values:
+    AUDI_RANGE_V2: 365
+  response: "77A 10 0A 62 2A B6 01 6D 01 \n77A 21 6D 07 FD 01 AA AA AA "
+- expected_values:
+    AUDI_RANGE_V2: 120
+  response: |-
+    77A100A622AB6007800
+    77A217807FD01AAAAAA
+- expected_values:
+    AUDI_RANGE_V2: 160
+  response: |-
+    77A100A622AB600A000
+    77A21A007FD01AAAAAA
+- expected_values:
+    AUDI_RANGE_V2: 240
+  response: |-
+    77A100A622AB600F000
+    77A21F007FD01AAAAAA
+- expected_values:
+    AUDI_RANGE_V2: 255
+  response: |-
+    77A100A622AB600FF00
+    77A21FF07FD01AAAAAA
+- expected_values:
+    AUDI_RANGE_V2: 270
+  response: |-
+    77A100A622AB6010E01
+    77A210E07FD01AAAAAA

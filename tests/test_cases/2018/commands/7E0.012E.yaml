@@ -1,23 +1,23 @@
 command_id: 7E0.012E
 test_cases:
-- response: 7E803412E00
-  expected_values:
+- expected_values:
     EVAP_PCT: 0
-- response: 7E803412E02
-  expected_values:
+  response: 7E803412E00
+- expected_values:
     EVAP_PCT: 0.78431
-- response: 7E803412E07
-  expected_values:
+  response: 7E803412E02
+- expected_values:
     EVAP_PCT: 2.7451
-- response: 7E803412E0A
-  expected_values:
+  response: 7E803412E07
+- expected_values:
     EVAP_PCT: 3.92157
-- response: 7E803412E3E
-  expected_values:
+  response: 7E803412E0A
+- expected_values:
     EVAP_PCT: 24.31373
-- response: 7E803412EAA
-  expected_values:
+  response: 7E803412E3E
+- expected_values:
     EVAP_PCT: 66.66667
-- response: 7E803412EFD
-  expected_values:
+  response: 7E803412EAA
+- expected_values:
     EVAP_PCT: 99.21569
+  response: 7E803412EFD

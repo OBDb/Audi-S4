@@ -1,0 +1,8 @@
+command_id: 710.222A0A
+test_cases:
+- expected_values:
+    AUDI_SSB_SENSOR_T: 14
+  response: 77A04622A0A36
+- expected_values:
+    AUDI_SSB_SENSOR_T: 39
+  response: 77A04622A0A4F

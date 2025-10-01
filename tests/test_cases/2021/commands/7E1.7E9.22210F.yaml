@@ -1,0 +1,19 @@
+command_id: 7E1.7E9.22210F
+test_cases:
+- expected_values:
+    AUDI_GEAR: '7'
+  response: "22210F1\n7E9 04 62 21 0F 07 "
+- expected_values:
+    AUDI_GEAR: '1'
+    AUDI_GEAR_SHFT: REVERSE
+  response: '7E9 04 62 21 0F 01 '
+- expected_values:
+    AUDI_GEAR: '7'
+  response: '7E9 04 62 21 0F 07 '
+- expected_values:
+    AUDI_GEAR: '1'
+    AUDI_GEAR_SHFT: REVERSE
+  response: 7E90462210F01
+- expected_values:
+    AUDI_GEAR: '7'
+  response: 7E90462210F07

@@ -1,0 +1,35 @@
+command_id: 713.77D.222B29
+test_cases:
+- expected_values:
+    AUDI_STEER_ANGLE: 0.001
+  response: "222B291\n77D 05 62 2B 29 00 01 "
+- expected_values:
+    AUDI_STEER_ANGLE: -2.632
+  response: "222B291\n77D 05 62 2B 29 F5 B8 "
+- expected_values:
+    AUDI_STEER_ANGLE: -0.126
+  response: "222B291\n77D 05 62 2B 29 FF 82 "
+- expected_values:
+    AUDI_STEER_ANGLE: -0.001
+  response: "222B291\n77D 05 62 2B 29 FF FF "
+- expected_values:
+    AUDI_STEER_ANGLE: 0
+  response: '77D 05 62 2B 29 00 00 '
+- expected_values:
+    AUDI_STEER_ANGLE: 0.014
+  response: '77D 05 62 2B 29 00 0E '
+- expected_values:
+    AUDI_STEER_ANGLE: 0.246
+  response: '77D 05 62 2B 29 00 F6 '
+- expected_values:
+    AUDI_STEER_ANGLE: -0.15
+  response: '77D 05 62 2B 29 FF 6A '
+- expected_values:
+    AUDI_STEER_ANGLE: 0
+  response: 77D05622B290000
+- expected_values:
+    AUDI_STEER_ANGLE: -0.239
+  response: 77D05622B29FF11
+- expected_values:
+    AUDI_STEER_ANGLE: -0.001
+  response: 77D05622B29FFFF

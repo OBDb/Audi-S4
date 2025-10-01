@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.220304
+test_cases:
+- expected_values:
+    AUDI_DRIVE_TIME_SPORT: 8
+  response: "2203041\n7E9 04 62 03 04 14 "
+- expected_values:
+    AUDI_DRIVE_TIME_SPORT: 7.6
+  response: '7E9 04 62 03 04 13 '
+- expected_values:
+    AUDI_DRIVE_TIME_SPORT: 7.6
+  response: '7E90462030413'
+- expected_values:
+    AUDI_DRIVE_TIME_SPORT: 8
+  response: '7E90462030414'
