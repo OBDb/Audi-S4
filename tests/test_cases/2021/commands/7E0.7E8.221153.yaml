@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221153
+test_cases:
+- expected_values:
+    AUDI_EM_TORQ_1: 12.34375
+  response: "2211531\n7E8 05 62 11 53 01 8B "
+- expected_values:
+    AUDI_EM_TORQ_1: 12.65625
+  response: "2211531\n7E8 05 62 11 53 01 95 "
+- expected_values:
+    AUDI_EM_TORQ_1: 6.0625
+  response: '7E8 05 62 11 53 00 C2 '
+- expected_values:
+    AUDI_EM_TORQ_1: 6.75
+  response: '7E8 05 62 11 53 00 D8 '
+- expected_values:
+    AUDI_EM_TORQ_1: 6.84375
+  response: '7E8 05 62 11 53 00 DB '
+- expected_values:
+    AUDI_EM_TORQ_1: 5.96875
+  response: 7E80562115300BF
+- expected_values:
+    AUDI_EM_TORQ_1: 7.96875
+  response: 7E80562115300FF
+- expected_values:
+    AUDI_EM_TORQ_1: 8
+  response: '7E8056211530100'

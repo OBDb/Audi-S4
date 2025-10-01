@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22F40D
+test_cases:
+- expected_values:
+    AUDI_VSS: 0
+  response: "22F40D1\n7E8 04 62 F4 0D 00 "
+- expected_values:
+    AUDI_VSS: 111
+  response: "22F40D1\n7E8 04 62 F4 0D 6F "
+- expected_values:
+    AUDI_VSS: 0
+  response: '7E8 04 62 F4 0D 00 '
+- expected_values:
+    AUDI_VSS: 127
+  response: '7E8 04 62 F4 0D 7F '
+- expected_values:
+    AUDI_VSS: 149
+  response: '7E8 04 62 F4 0D 95 '
+- expected_values:
+    AUDI_VSS: 0
+  response: 7E80462F40D00
+- expected_values:
+    AUDI_VSS: 185
+  response: 7E80462F40DB9

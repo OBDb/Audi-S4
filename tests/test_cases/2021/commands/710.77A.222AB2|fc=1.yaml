@@ -1,0 +1,11 @@
+command_id: 710.77A.222AB2|fc=1
+test_cases:
+- expected_values:
+    AUDI_HVBAT_CAP: 65250
+  response: '77A 07 62 2A B2 05 19 01 00 '
+- expected_values:
+    AUDI_HVBAT_CAP: 65250
+  response: 77A07622AB205190100
+- expected_values:
+    AUDI_HVBAT_CAP: 65250
+  response: 77A07622AB205190101

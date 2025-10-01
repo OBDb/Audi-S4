@@ -1,0 +1,44 @@
+command_id: 710.77A.222A07
+test_cases:
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: "222A071\n77A 05 62 2A 07 20 EF "
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: "222A071\n77A 05 62 2A 07 23 F8 "
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: "222A071\n77A 05 62 2A 07 28 13 "
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: "222A071\n77A 05 62 2A 07 2B F7 "
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: '77A 05 62 2A 07 20 DD '
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: '77A 05 62 2A 07 20 F1 '
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: '77A 05 62 2A 07 22 0C '
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: '77A 05 62 2A 07 22 6F '
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: '77A 05 62 2A 07 24 60 '
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: '77A 05 62 2A 07 2B ED '
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: 77A05622A071E5F
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: 77A05622A072201
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: 77A05622A0727FF
+- expected_values:
+    AUDI_SSB_V: 69.54
+  response: 77A05622A072C16

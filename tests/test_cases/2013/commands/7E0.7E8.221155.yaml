@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221155
 test_cases:
-- response: '7E8056211550000'
-  expected_values:
+- expected_values:
     AUDI_EM_TORQ_3: 0
-- response: 7E805621155FF02
-  expected_values:
-    AUDI_EM_TORQ_3: -7.9375
-- response: 7E805621155FFFF
-  expected_values:
-    AUDI_EM_TORQ_3: -0.03125
+  response: '7E8056211550000'
+- expected_values:
+    AUDI_EM_TORQ_3: 7.96875
+  response: 7E80562115500FF
+- expected_values:
+    AUDI_EM_TORQ_3: -8
+  response: 7E805621155FF00

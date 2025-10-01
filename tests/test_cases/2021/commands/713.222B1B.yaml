@@ -1,0 +1,23 @@
+command_id: 713.222B1B
+test_cases:
+- expected_values:
+    AUDI_TIRE_FL_SPD: 217.4
+  response: '77D 05 62 2B 1B 08 7E '
+- expected_values:
+    AUDI_TIRE_FL_SPD: 0
+  response: '7E9 05 62 2B 1B 00 00 '
+- expected_values:
+    AUDI_TIRE_FL_SPD: 1.5
+  response: '7E9 05 62 2B 1B 00 0F '
+- expected_values:
+    AUDI_TIRE_FL_SPD: 48.4
+  response: '7E9 05 62 2B 1B 01 E4 '
+- expected_values:
+    AUDI_TIRE_FL_SPD: 0
+  response: 7E905622B1B0000
+- expected_values:
+    AUDI_TIRE_FL_SPD: 51.1
+  response: 7E905622B1B01FF
+- expected_values:
+    AUDI_TIRE_FL_SPD: 194
+  response: 7E905622B1B0794
