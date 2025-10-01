@@ -2,10 +2,13 @@ command_id: 7E1.222B1D
 test_cases:
 - expected_values:
     AUDI_TIRE_RL_SPD_V2: 0
+  response: 77D05622B1D0000
+- expected_values:
+    AUDI_TIRE_RL_SPD_V2: 0
   response: 7E905622B1D0000
 - expected_values:
     AUDI_TIRE_RL_SPD_V2: 25.5
   response: 7E905622B1D00FF
 - expected_values:
-    AUDI_TIRE_RL_SPD_V2: 409.4
-  response: 7E905622B1D0FFE
+    AUDI_TIRE_RL_SPD_V2: 193.8
+  response: 7E905622B1D0792
