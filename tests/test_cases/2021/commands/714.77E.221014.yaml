@@ -16,8 +16,8 @@ test_cases:
     AUDI_AAT: 110
   response: '77E 04 62 10 14 A0 '
 - expected_values:
-    AUDI_AAT: 100
-  response: '77E0462101496'
+    AUDI_AAT: 95
+  response: '77E0462101491'
 - expected_values:
     AUDI_AAT: 204
   response: 77E04621014FE
