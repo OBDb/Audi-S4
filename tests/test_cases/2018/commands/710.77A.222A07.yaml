@@ -5,10 +5,10 @@ test_cases:
   response: 77A05622A071A90
 - expected_values:
     AUDI_SSB_V: 69.54
-  response: 77A05622A072000
+  response: 77A05622A071F00
 - expected_values:
     AUDI_SSB_V: 69.54
-  response: 77A05622A0721FF
+  response: 77A05622A071FFF
 - expected_values:
     AUDI_SSB_V: 69.54
   response: 77A05622A072C00
