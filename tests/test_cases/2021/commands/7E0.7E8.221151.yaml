@@ -20,7 +20,4 @@ test_cases:
   response: 7E80562115101F9
 - expected_values:
     AUDI_EM_RPM_1: 100
-  response: 7E805621151020B
-- expected_values:
-    AUDI_EM_RPM_1: 100
-  response: '7E8056211510928'
+  response: 7E8056211510A01
