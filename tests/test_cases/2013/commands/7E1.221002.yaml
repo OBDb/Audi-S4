@@ -1,4 +1,4 @@
-command_id: 7E1.7E9.221002
+command_id: 7E1.221002
 test_cases:
 - expected_values:
     AUDI_TIRE_FL_SPD_V3: 0
