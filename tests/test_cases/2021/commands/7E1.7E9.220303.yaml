@@ -4,6 +4,9 @@ test_cases:
     AUDI_DRIVE_TIME_ECO: 91.6
   response: "2203031\n7E9 04 62 03 03 E5 "
 - expected_values:
+    AUDI_DRIVE_TIME_ECO: 90
+  response: '7E9 04 62 03 03 E1 '
+- expected_values:
     AUDI_DRIVE_TIME_ECO: 91.6
   response: '7E9 04 62 03 03 E5 '
 - expected_values:
