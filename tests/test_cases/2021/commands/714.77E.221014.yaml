@@ -7,8 +7,8 @@ test_cases:
     AUDI_AAT: 130
   response: "2210141\n77E 04 62 10 14 B4 "
 - expected_values:
-    AUDI_AAT: 105
-  response: '77E 04 62 10 14 9B '
+    AUDI_AAT: 99
+  response: '77E 04 62 10 14 95 '
 - expected_values:
     AUDI_AAT: 109
   response: '77E 04 62 10 14 9F '

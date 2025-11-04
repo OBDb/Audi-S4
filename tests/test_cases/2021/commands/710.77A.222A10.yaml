@@ -13,8 +13,8 @@ test_cases:
     AUDI_SSB_V_REST: 16.41176
   response: '77A 04 62 2A 10 23 '
 - expected_values:
-    AUDI_SSB_V_REST: 15.14118
-  response: 77A04622A101D
+    AUDI_SSB_V_REST: 14.50588
+  response: 77A04622A101A
 - expected_values:
     AUDI_SSB_V_REST: 16.41176
   response: 77A04622A1023
