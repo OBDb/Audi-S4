@@ -16,10 +16,10 @@ test_cases:
     AUDI_RANGE_V2: 365
   response: "77A 10 0A 62 2A B6 01 6D 01 \n77A 21 6D 07 FD 01 AA AA AA "
 - expected_values:
-    AUDI_RANGE_V2: 120
+    AUDI_RANGE_V2: 100
   response: |-
-    77A100A622AB6007800
-    77A217807FD01AAAAAA
+    77A100A622AB6006400
+    77A216407FD01AAAAAA
 - expected_values:
     AUDI_RANGE_V2: 160
   response: |-
