@@ -28,3 +28,7 @@ test_cases:
     AUDI_EM_RPM_1: 100
     AUDI_MISFIRE_3: 2561
   response: 7E8056211510A01
+- expected_values:
+    AUDI_EM_RPM_1: 100
+    AUDI_MISFIRE_3: 2877
+  response: 7E8056211510B3D
