@@ -1,44 +1,58 @@
 command_id: 710.77A.222A07
 test_cases:
 - expected_values:
+    AUDI_BAT_V_2A07: 12.431
     AUDI_SSB_V: 69.54
   response: "222A071\n77A 05 62 2A 07 20 EF "
 - expected_values:
+    AUDI_BAT_V_2A07: 13.208
     AUDI_SSB_V: 69.54
   response: "222A071\n77A 05 62 2A 07 23 F8 "
 - expected_values:
+    AUDI_BAT_V_2A07: 14.259
     AUDI_SSB_V: 69.54
   response: "222A071\n77A 05 62 2A 07 28 13 "
 - expected_values:
+    AUDI_BAT_V_2A07: 15.255
     AUDI_SSB_V: 69.54
   response: "222A071\n77A 05 62 2A 07 2B F7 "
 - expected_values:
+    AUDI_BAT_V_2A07: 12.413
     AUDI_SSB_V: 69.54
   response: '77A 05 62 2A 07 20 DD '
 - expected_values:
+    AUDI_BAT_V_2A07: 12.433
     AUDI_SSB_V: 69.54
   response: '77A 05 62 2A 07 20 F1 '
 - expected_values:
+    AUDI_BAT_V_2A07: 12.716
     AUDI_SSB_V: 69.54
   response: '77A 05 62 2A 07 22 0C '
 - expected_values:
+    AUDI_BAT_V_2A07: 12.815
     AUDI_SSB_V: 69.54
   response: '77A 05 62 2A 07 22 6F '
 - expected_values:
+    AUDI_BAT_V_2A07: 13.312
     AUDI_SSB_V: 69.54
   response: '77A 05 62 2A 07 24 60 '
 - expected_values:
+    AUDI_BAT_V_2A07: 15.245
     AUDI_SSB_V: 69.54
   response: '77A 05 62 2A 07 2B ED '
 - expected_values:
+    AUDI_BAT_V_2A07: 11.149
     AUDI_SSB_V: 69.54
-  response: 77A05622A071CAF
+  response: 77A05622A071BED
 - expected_values:
+    AUDI_BAT_V_2A07: 11.167
     AUDI_SSB_V: 69.54
-  response: 77A05622A071CFF
+  response: 77A05622A071BFF
 - expected_values:
+    AUDI_BAT_V_2A07: 11.168
     AUDI_SSB_V: 69.54
-  response: 77A05622A071D00
+  response: 77A05622A071C00
 - expected_values:
+    AUDI_BAT_V_2A07: 15.286
     AUDI_SSB_V: 69.54
   response: 77A05622A072C16

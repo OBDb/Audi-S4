@@ -2,22 +2,29 @@ command_id: 714.77E.221014
 test_cases:
 - expected_values:
     AUDI_AAT: 121
+    AUDI_DASH_AMBIENT_AIR_T: 35.5
   response: "2210141\n77E 04 62 10 14 AB "
 - expected_values:
     AUDI_AAT: 130
+    AUDI_DASH_AMBIENT_AIR_T: 40
   response: "2210141\n77E 04 62 10 14 B4 "
 - expected_values:
     AUDI_AAT: 99
+    AUDI_DASH_AMBIENT_AIR_T: 24.5
   response: '77E 04 62 10 14 95 '
 - expected_values:
     AUDI_AAT: 109
+    AUDI_DASH_AMBIENT_AIR_T: 29.5
   response: '77E 04 62 10 14 9F '
 - expected_values:
     AUDI_AAT: 110
+    AUDI_DASH_AMBIENT_AIR_T: 30
   response: '77E 04 62 10 14 A0 '
 - expected_values:
     AUDI_AAT: 95
+    AUDI_DASH_AMBIENT_AIR_T: 22.5
   response: '77E0462101491'
 - expected_values:
     AUDI_AAT: 204
+    AUDI_DASH_AMBIENT_AIR_T: 77
   response: 77E04621014FE
