@@ -1,20 +1,26 @@
 command_id: 710.77A.222A0C
 test_cases:
 - expected_values:
+    AUDI_BAT_CHG_LVL: 70
     AUDI_SSB_SOC: 70
   response: "222A0C1\n77A 04 62 2A 0C 46 "
 - expected_values:
+    AUDI_BAT_CHG_LVL: 76
     AUDI_SSB_SOC: 76
   response: "222A0C1\n77A 04 62 2A 0C 4C "
 - expected_values:
+    AUDI_BAT_CHG_LVL: 70
     AUDI_SSB_SOC: 70
   response: '77A 04 62 2A 0C 46 '
 - expected_values:
+    AUDI_BAT_CHG_LVL: 77
     AUDI_SSB_SOC: 77
   response: '77A 04 62 2A 0C 4D '
 - expected_values:
+    AUDI_BAT_CHG_LVL: 0
     AUDI_SSB_SOC: 0
   response: 77A04622A0C00
 - expected_values:
+    AUDI_BAT_CHG_LVL: 77
     AUDI_SSB_SOC: 77
   response: 77A04622A0C4D
