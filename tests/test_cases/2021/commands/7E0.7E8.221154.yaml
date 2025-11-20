@@ -29,6 +29,6 @@ test_cases:
     AUDI_MISFIRE_4: 529
   response: '7E8056211540211'
 - expected_values:
-    AUDI_EM_TORQ_2: 65.15625
-    AUDI_MISFIRE_4: 2085
-  response: '7E8056211540825'
+    AUDI_EM_TORQ_2: 72.9375
+    AUDI_MISFIRE_4: 2334
+  response: 7E805621154091E
