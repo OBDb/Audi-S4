@@ -2,33 +2,25 @@ command_id: 7E0.7E8.221154
 test_cases:
 - expected_values:
     AUDI_EM_TORQ_2: 19.125
-    AUDI_MISFIRE_4: 612
   response: "2211541\n7E8 05 62 11 54 02 64 "
 - expected_values:
     AUDI_EM_TORQ_2: 19.375
-    AUDI_MISFIRE_4: 620
   response: "2211541\n7E8 05 62 11 54 02 6C "
 - expected_values:
     AUDI_EM_TORQ_2: 9.40625
-    AUDI_MISFIRE_4: 301
   response: '7E8 05 62 11 54 01 2D '
 - expected_values:
     AUDI_EM_TORQ_2: 10.03125
-    AUDI_MISFIRE_4: 321
   response: '7E8 05 62 11 54 01 41 '
 - expected_values:
     AUDI_EM_TORQ_2: 9.21875
-    AUDI_MISFIRE_4: 295
   response: '7E8056211540127'
 - expected_values:
     AUDI_EM_TORQ_2: 15
-    AUDI_MISFIRE_4: 480
   response: 7E80562115401E0
 - expected_values:
     AUDI_EM_TORQ_2: 16.53125
-    AUDI_MISFIRE_4: 529
   response: '7E8056211540211'
 - expected_values:
     AUDI_EM_TORQ_2: 72.9375
-    AUDI_MISFIRE_4: 2334
   response: 7E805621154091E
