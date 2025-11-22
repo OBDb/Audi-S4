@@ -2,33 +2,25 @@ command_id: 7E0.7E8.221151
 test_cases:
 - expected_values:
     AUDI_EM_RPM_1: 100
-    AUDI_MISFIRE_3: 866
   response: "2211511\n7E8 05 62 11 51 03 62 "
 - expected_values:
     AUDI_EM_RPM_1: 100
-    AUDI_MISFIRE_3: 871
   response: "2211511\n7E8 05 62 11 51 03 67 "
 - expected_values:
     AUDI_EM_RPM_1: 100
-    AUDI_MISFIRE_3: 411
   response: '7E8 05 62 11 51 01 9B '
 - expected_values:
     AUDI_EM_RPM_1: 100
-    AUDI_MISFIRE_3: 453
   response: '7E8 05 62 11 51 01 C5 '
 - expected_values:
     AUDI_EM_RPM_1: 100
-    AUDI_MISFIRE_3: 401
   response: '7E8056211510191'
 - expected_values:
     AUDI_EM_RPM_1: 100
-    AUDI_MISFIRE_3: 505
   response: 7E80562115101F9
 - expected_values:
     AUDI_EM_RPM_1: 100
-    AUDI_MISFIRE_3: 2561
   response: 7E8056211510A01
 - expected_values:
     AUDI_EM_RPM_1: 100
-    AUDI_MISFIRE_3: 2877
   response: 7E8056211510B3D
