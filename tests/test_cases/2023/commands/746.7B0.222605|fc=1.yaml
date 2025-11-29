@@ -1,0 +1,11 @@
+command_id: 746.7B0.222605|fc=1
+test_cases:
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 9
+  response: 7B0046226052D
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 9.2
+  response: 7B0046226052E
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 9.4
+  response: 7B0046226052F
