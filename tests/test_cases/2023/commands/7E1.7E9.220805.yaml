@@ -1,0 +1,8 @@
+command_id: 7E1.7E9.220805
+test_cases:
+- expected_values:
+    AUDI_BRAKE_LIGHT_ON: 1
+    AUDI_BRAKE_LIGHT_ON_VALID: 1
+    AUDI_BRAKE_PRESSED: 1
+    AUDI_BRAKE_PRESSED_VALID: 0
+  response: 7E9046208050B
