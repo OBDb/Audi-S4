@@ -1,0 +1,11 @@
+command_id: 746.7B0.22260A|fc=1
+test_cases:
+- expected_values:
+    AUDI_AAT_CABIN: -50
+  response: 7B00562260A00E1
+- expected_values:
+    AUDI_AAT_CABIN: -50
+  response: 7B00562260A00E3
+- expected_values:
+    AUDI_AAT_CABIN: -50
+  response: 7B00562260A00E9
