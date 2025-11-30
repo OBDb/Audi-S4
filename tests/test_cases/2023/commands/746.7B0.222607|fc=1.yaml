@@ -2,8 +2,16 @@ command_id: 746.7B0.222607|fc=1
 test_cases:
 - expected_values:
     AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0
+    AUDI_HVAC_FAN_CMD: 0
+  response: 7B0056226070000
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0
     AUDI_HVAC_FAN_CMD: 2.4
   response: 7B0056226070018
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0
+    AUDI_HVAC_FAN_CMD: 7.2
+  response: 7B0056226070048
 - expected_values:
     AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0.4
     AUDI_HVAC_FAN_CMD: 25.6
@@ -12,3 +20,7 @@ test_cases:
     AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0.4
     AUDI_HVAC_FAN_CMD: 41.6
   response: 7B00562260701A0
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0.4
+    AUDI_HVAC_FAN_CMD: 42.8
+  response: 7B00562260701AC
