@@ -32,3 +32,7 @@ test_cases:
     AUDI_BAT_V_2A07: 15.044
     AUDI_SSB_V: 69.54
   response: 77A05622A072B24
+- expected_values:
+    AUDI_BAT_V_2A07: 15.23
+    AUDI_SSB_V: 69.54
+  response: 77A05622A072BDE
