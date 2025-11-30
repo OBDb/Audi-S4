@@ -7,5 +7,11 @@ test_cases:
     AUDI_SSB_VT: 13.2
   response: 77A04622A001A
 - expected_values:
+    AUDI_SSB_VT: 13.3
+  response: 77A04622A001B
+- expected_values:
     AUDI_SSB_VT: 13.8
   response: 77A04622A0020
+- expected_values:
+    AUDI_SSB_VT: 15.2
+  response: 77A04622A002E
