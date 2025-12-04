@@ -6,6 +6,10 @@ test_cases:
   response: 7B0056226070000
 - expected_values:
     AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0.4
+    AUDI_HVAC_FAN_CMD: 42
+  response: 7B00562260701A4
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0.4
     AUDI_HVAC_FAN_CMD: 43.2
   response: 7B00562260701B0
 - expected_values:
