@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     AUDI_DRIVE_TIME_SPORT: 9.6
   response: '7E90462030418'
+- expected_values:
+    AUDI_DRIVE_TIME_SPORT: 10
+  response: '7E90462030419'
