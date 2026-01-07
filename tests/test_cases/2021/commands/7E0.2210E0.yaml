@@ -41,6 +41,6 @@ test_cases:
     AUDI_ODO_V3: 89344
   response: 7E8076210E000015D00
 - expected_values:
-    AUDI_ODO_2_V2: 95044
-    AUDI_ODO_V3: 95044
-  response: 7E8076210E000017344
+    AUDI_ODO_2_V2: 95245
+    AUDI_ODO_V3: 95245
+  response: 7E8076210E00001740D
