@@ -2,22 +2,37 @@ command_id: 746.7B0.22263D|fc=1
 test_cases:
 - expected_values:
     AUDI_CLIMATE_RR_DEFL_T: 0
+    AUDI_REAR_DEFLECTOR_T: 0
   response: 7B00562263D00DC
 - expected_values:
     AUDI_CLIMATE_RR_DEFL_T: 0
+    AUDI_REAR_DEFLECTOR_T: 0
   response: 7B00562263D00E6
 - expected_values:
     AUDI_CLIMATE_RR_DEFL_T: 0
+    AUDI_REAR_DEFLECTOR_T: 0
   response: 7B00562263D00EB
 - expected_values:
     AUDI_CLIMATE_RR_DEFL_T: 0
+    AUDI_REAR_DEFLECTOR_T: 0
   response: 7B00562263D00F5
 - expected_values:
     AUDI_CLIMATE_RR_DEFL_T: 0.333
+    AUDI_REAR_DEFLECTOR_T: 0.33333
   response: 7B00562263D0118
 - expected_values:
     AUDI_CLIMATE_RR_DEFL_T: 0.333
+    AUDI_REAR_DEFLECTOR_T: 0.33333
   response: 7B00562263D011D
 - expected_values:
+    AUDI_CLIMATE_RR_DEFL_T: 0.333
+    AUDI_REAR_DEFLECTOR_T: 0.33333
+  response: 7B00562263D0140
+- expected_values:
+    AUDI_CLIMATE_RR_DEFL_T: 0.333
+    AUDI_REAR_DEFLECTOR_T: 0.33333
+  response: 7B00562263D0145
+- expected_values:
     AUDI_CLIMATE_RR_DEFL_T: 4.995
+    AUDI_REAR_DEFLECTOR_T: 5
   response: 7B00562263D0FA0

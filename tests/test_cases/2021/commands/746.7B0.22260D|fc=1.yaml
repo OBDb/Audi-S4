@@ -2,10 +2,13 @@ command_id: 746.7B0.22260D|fc=1
 test_cases:
 - expected_values:
     AUDI_CLIMATE_FR_R_DEFL_T: 0
+    AUDI_FRONT_RIGHT_DEFLECTOR_T: 0
   response: 7B00562260D00C1
 - expected_values:
     AUDI_CLIMATE_FR_R_DEFL_T: 0
+    AUDI_FRONT_RIGHT_DEFLECTOR_T: 0
   response: 7B00562260D00EF
 - expected_values:
     AUDI_CLIMATE_FR_R_DEFL_T: 0.333
+    AUDI_FRONT_RIGHT_DEFLECTOR_T: 0.33333
   response: 7B00562260D0106

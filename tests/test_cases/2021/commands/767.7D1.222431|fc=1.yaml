@@ -9,9 +9,9 @@ test_cases:
     AUDI_GPS_SATS_VISIBLE: 4
   response: 7D106622431040A09
 - expected_values:
-    AUDI_GPS_SATS_TRACKED: 13
+    AUDI_GPS_SATS_TRACKED: 12
     AUDI_GPS_SATS_VISIBLE: 4
-  response: 7D106622431040D0B
+  response: 7D106622431040C0B
 - expected_values:
     AUDI_GPS_SATS_TRACKED: 14
     AUDI_GPS_SATS_VISIBLE: 4

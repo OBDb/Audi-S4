@@ -28,8 +28,8 @@ test_cases:
     AUDI_STEER_ANGLE: 0
   response: 77D05622B290000
 - expected_values:
-    AUDI_STEER_ANGLE: -0.239
-  response: 77D05622B29FF11
+    AUDI_STEER_ANGLE: -0.248
+  response: 77D05622B29FF08
 - expected_values:
     AUDI_STEER_ANGLE: -0.001
   response: 77D05622B29FFFF
