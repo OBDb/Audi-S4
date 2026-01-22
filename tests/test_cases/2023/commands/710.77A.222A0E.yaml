@@ -3,8 +3,10 @@ test_cases:
 - expected_values:
     AUDI_BAT_INT_R: 3.8
     AUDI_SSB_R: 3.8
+    AUDI_SSB_RES_INT: 3.8
   response: 77A04622A0E13
 - expected_values:
     AUDI_BAT_INT_R: 4
     AUDI_SSB_R: 4
+    AUDI_SSB_RES_INT: 4
   response: 77A04622A0E14

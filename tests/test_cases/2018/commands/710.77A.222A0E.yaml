@@ -3,24 +3,30 @@ test_cases:
 - expected_values:
     AUDI_BAT_INT_R: 4
     AUDI_SSB_R: 4
+    AUDI_SSB_RES_INT: 4
   response: 77A04622A0E14
 - expected_values:
     AUDI_BAT_INT_R: 4.2
     AUDI_SSB_R: 4.2
+    AUDI_SSB_RES_INT: 4.2
   response: 77A04622A0E15
 - expected_values:
     AUDI_BAT_INT_R: 4.4
     AUDI_SSB_R: 4.4
+    AUDI_SSB_RES_INT: 4.4
   response: 77A04622A0E16
 - expected_values:
     AUDI_BAT_INT_R: 4.6
     AUDI_SSB_R: 4.6
+    AUDI_SSB_RES_INT: 4.6
   response: 77A04622A0E17
 - expected_values:
     AUDI_BAT_INT_R: 4.8
     AUDI_SSB_R: 4.8
+    AUDI_SSB_RES_INT: 4.8
   response: 77A04622A0E18
 - expected_values:
     AUDI_BAT_INT_R: 5
     AUDI_SSB_R: 5
+    AUDI_SSB_RES_INT: 5
   response: 77A04622A0E19
