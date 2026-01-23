@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222002
+test_cases:
+- expected_values:
+    AUDI_ENGINE_TORQUE__AT: 65532
+  response: 7E905622002FFFC

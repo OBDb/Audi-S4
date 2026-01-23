@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222131
+test_cases:
+- expected_values:
+    AUDI_TORQUE_CONVERTER_SLIP: 0
+  response: '7E9056221310000'
