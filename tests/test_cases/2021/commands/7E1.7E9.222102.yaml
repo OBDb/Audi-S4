@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222102
+test_cases:
+- expected_values:
+    AUDI_AT_INPUT_SPEED: 885
+  response: 7E9056221020DD4
