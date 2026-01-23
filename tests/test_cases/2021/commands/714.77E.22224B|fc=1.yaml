@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     AUDI_DASH_OIL_THERMAL_WEAR: 75
   response: 77E0562224B004B
+- expected_values:
+    AUDI_DASH_OIL_THERMAL_WEAR: 76
+  response: 77E0562224B004C
