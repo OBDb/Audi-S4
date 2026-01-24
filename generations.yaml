@@ -1,25 +1,43 @@
-generations:
-  - name: "First Generation (B5)"
-    start_year: 1997
-    end_year: 2001
-    description: "The original Audi S4 was based on the B5 A4 platform, featuring a twin-turbocharged 2.7L V6 engine producing 261 HP, paired with a six-speed manual transmission or five-speed Tiptronic automatic and quattro all-wheel drive. Available in sedan and Avant (wagon) body styles, it featured subtle exterior enhancements, sport suspension, and larger brakes compared to the standard A4. The B5 S4 established the blueprint for future S4 models, offering impressive performance in a practical, understated package."
+references:
+  - "https://en.wikipedia.org/wiki/Audi_S4"
 
-  - name: "Second Generation (B6)"
+generations:
+  - name: "First Generation (C4)"
+    start_year: 1991
+    end_year: 1994
+    description: "The original Audi S4, built from August 1991 to July 1994, was based on the Volkswagen Group C4 platform and served as the performance version of the Audi 100 sedan. It featured a single turbocharged 2.2-liter inline five-cylinder engine producing 230 PS (227 HP), or optionally a 4.2L V8 engine from 1992. Available in sedan and Avant (wagon) body styles, it established the S4 nameplate before the model was temporarily discontinued when the 100 was re-badged as the A6 in 1994."
+
+  - name: "Second Generation (B5)"
+    start_year: 1997
+    end_year: 2002
+    description: "The second generation Audi S4 debuted in October 1997 based on the B5 A4 platform. Featuring a 2.7-liter twin-turbocharged V6 engine producing 195 kW (261 HP) in European markets and 184 kW in US markets, it was paired with a six-speed manual transmission or five-speed Tiptronic automatic. Available in sedan and Avant body styles (wagon introduced in 1998), the B5 S4 established the blueprint for future performance A4 variants, offering impressive acceleration and handling in a practical package. Production ended in September 2001, though cars continued to be sold through 2002."
+
+  - name: "Third Generation (B6)"
     start_year: 2003
     end_year: 2005
-    description: "The B6 S4 represented a significant change with the introduction of a naturally aspirated 4.2L V8 engine producing 339 HP. Available in sedan, Avant, and new cabriolet body styles, it maintained the understated performance character of the S4 line while delivering enhanced performance. The V8 engine provided a distinctive exhaust note and smooth power delivery compared to the previous turbocharged V6."
+    description: "The third generation Audi S4 debuted in March 2003 based on the B6 A4 platform. It introduced the now-iconic 4.2-liter V8 engine producing 344 PS (339 HP), making it the first V8 engine in a compact executive car. Available in sedan, Avant, and cabriolet (convertible) body styles, the B6 S4 represented a major shift to naturally aspirated power compared to the turbocharged V6 predecessor. The V8 provided a distinctive exhaust note and smooth power delivery. Production ended in December 2004 for sedans and Avants, with the cabriolet ending in December 2005."
 
-  - name: "Third Generation (B7)"
+  - name: "Fourth Generation (B7)"
     start_year: 2005
     end_year: 2008
-    description: "The B7 S4 was an evolution of the B6, retaining the 4.2L V8 engine while featuring updated styling with Audi's then-new single-frame grille. It continued to be offered in sedan, Avant, and cabriolet body styles. While mechanically similar to its predecessor, it received chassis refinements and technology updates."
+    description: "The fourth generation Audi S4 debuted in late 2004 (November 2004) based on the B7 A4 platform. Although Audi classified it as a new car, differences from the B6 were primarily cosmetic, using the same 4.2-liter V8 engine producing 253 kW (343 HP). It featured updated styling with a new single-frame grille, Bi-Xenon HID headlamps, and quad exhaust pipes. Available in sedan, Avant, and cabriolet body styles, it introduced the Torsen T-3 center differential and Bose sound system as standard. Production ended in June 2008."
 
-  - name: "Fourth Generation (B8)"
+  - name: "Fifth Generation (B8)"
     start_year: 2009
-    end_year: 2016
-    description: "The B8 S4 returned to forced induction with a supercharged 3.0L V6 engine producing 333 HP. Built on the new MLB platform, it featured a more sophisticated quattro system with the optional sports differential for improved handling. Available in sedan and Avant body styles (though the Avant was not offered in all markets), it introduced new technology including Audi Drive Select to adjust vehicle dynamics. A facelift in 2012 updated the styling and technology offerings."
+    end_year: 2012
+    description: "The fifth generation Audi S4 debuted in November 2008 based on the MLB/MLP platform shared with the B8 A4. It returned to forced induction with a 3.0-liter TFSI supercharged V6 engine producing 245 kW (333 HP) and 440 Nm of torque. Available as sedan and Avant body styles only, it featured a more sophisticated quattro system with optional sports differential. The engine was paired with either a six-speed manual or seven-speed S tronic dual-clutch transmission. Technology included Audi Drive Select to adjust vehicle dynamics and LED daytime running lights."
 
-  - name: "Fifth Generation (B9)"
-    start_year: 2016
-    end_year: null
-    description: "The current B9 S4 switched to turbocharging with a 3.0L V6 producing 349 HP (later 341 HP in some markets). Initially paired exclusively with an eight-speed automatic transmission, it represents a focus on everyday usability with enhanced performance. The exterior features subtle S-specific enhancements while the interior blends sportiness with Audi's latest technology including the Virtual Cockpit digital instrument cluster. A facelift in 2019 updated the styling and technology. Throughout its evolution, the S4 has maintained its position as a balanced performance sedan combining impressive capabilities with practical everyday usability."
+  - name: "Fifth Generation (B8 Facelift)"
+    start_year: 2012
+    end_year: 2016
+    description: "The B8 S4 received a comprehensive facelift in early 2012 (European market) and early 2013 (Australasian market), designated as B8.5. The updated front end featured new headlights and grille design, while the interior received updated technology with enhanced MMI options. Mechanically, it switched to electromagnetic steering and a lighter crown gear center differential. The 3.0L TFSI supercharged V6 engine remained unchanged at 245 kW (333 HP), continuing to deliver the same performance and efficiency as pre-facelift models. Available in sedan and Avant body styles."
+
+  - name: "Sixth Generation (B9)"
+    start_year: 2017
+    end_year: 2019
+    description: "The sixth generation Audi S4 launched in 2017 based on the MLB/MLP platform. It switched to a 3.0-liter turbocharged (rather than supercharged) V6 TFSI engine, initially producing 349 HP (later 341 HP in some markets). The transmission was exclusively an eight-speed ZF automatic, representing a shift toward focusing on everyday usability with enhanced performance. Available in sedan and Avant body styles, it featured subtle S-specific styling enhancements and Audi's Virtual Cockpit digital instrument cluster. Technology advances included updated infotainment and driver assistance features."
+
+  - name: "Sixth Generation (B9 Facelift)"
+    start_year: 2019
+    end_year: 2025
+    description: "The B9 S4 received a facelift in 2019 with updated styling, including revised front and rear bumpers, new headlight and taillight designs, and refreshed interior trim. The 3.0-liter turbocharged V6 TFSI engine continued at 341 HP. The 2019 facelift introduced a 3.0L V6 TDI diesel option for European markets starting in 2019. Available in sedan and Avant body styles, the facelifted B9 S4 maintained its focus on luxury and performance, competing with the BMW M340i and Mercedes-AMG C43. Production is scheduled through 2025."
