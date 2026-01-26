@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     AUDI_MISFIRES_C1: 2021
   response: 7E80562114F07E5
+- expected_values:
+    AUDI_MISFIRES_C1: 2028
+  response: 7E80562114F07EC

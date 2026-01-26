@@ -15,6 +15,10 @@ test_cases:
 - expected_values:
     AUDI_CLIMATE_RR_DEFL_T: 0
     AUDI_REAR_DEFLECTOR_T: 0
+  response: 7B00562263D00F0
+- expected_values:
+    AUDI_CLIMATE_RR_DEFL_T: 0
+    AUDI_REAR_DEFLECTOR_T: 0
   response: 7B00562263D00F5
 - expected_values:
     AUDI_CLIMATE_RR_DEFL_T: 0.333
