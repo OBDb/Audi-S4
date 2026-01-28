@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_MISFIRES_C1: 2028
   response: 7E80562114F07EC
+- expected_values:
+    AUDI_MISFIRES_C1: 2045
+  response: 7E80562114F07FD

@@ -3,7 +3,7 @@ test_cases:
 - expected_values:
     AUDI_CLIMATE_FR_R_DEFL_T: 0
     AUDI_FRONT_RIGHT_DEFLECTOR_T: 0
-  response: 7B00562260D00C1
+  response: 7B00562260D00B6
 - expected_values:
     AUDI_CLIMATE_FR_R_DEFL_T: 0
     AUDI_FRONT_RIGHT_DEFLECTOR_T: 0
