@@ -4,5 +4,8 @@ test_cases:
     AUDI_SPEC_TORQUE_TRANSINT: 27
   response: 7E905622110001B
 - expected_values:
+    AUDI_SPEC_TORQUE_TRANSINT: 41
+  response: '7E9056221100029'
+- expected_values:
     AUDI_SPEC_TORQUE_TRANSINT: 65528
   response: 7E905622110FFF8
