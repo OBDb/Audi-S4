@@ -7,5 +7,8 @@ test_cases:
     AUDI_ENGINE_TORQUE__AT: 46
   response: 7E905622002002E
 - expected_values:
+    AUDI_ENGINE_TORQUE__AT: 48
+  response: '7E9056220020030'
+- expected_values:
     AUDI_ENGINE_TORQUE__AT: 65532
   response: 7E905622002FFFC
