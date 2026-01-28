@@ -4,6 +4,9 @@ test_cases:
     AUDI_AT_INPUT_SPEED: 885
   response: 7E9056221020DD4
 - expected_values:
+    AUDI_AT_INPUT_SPEED: 2166
+  response: 7E90562210221D8
+- expected_values:
     AUDI_AT_INPUT_SPEED: 2375
   response: 7E905622102251C
 - expected_values:
