@@ -1,0 +1,26 @@
+command_id: 746.7B0.222605|fc=1,din=03
+test_cases:
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 7.6
+    AUDI_PQ35_REF_P: 7.6
+  response: 7B00462260526
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 7.8
+    AUDI_PQ35_REF_P: 7.8
+  response: 7B00462260527
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 9
+    AUDI_PQ35_REF_P: 9
+  response: 7B0046226052D
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 9.2
+    AUDI_PQ35_REF_P: 9.2
+  response: 7B0046226052E
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 9.4
+    AUDI_PQ35_REF_P: 9.4
+  response: 7B0046226052F
+- expected_values:
+    AUDI_CLIMATE_REFRIG_P: 14.6
+    AUDI_PQ35_REF_P: 14.6
+  response: 7B00462260549
