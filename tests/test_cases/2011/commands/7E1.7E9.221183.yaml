@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221183
+test_cases:
+- expected_values:
+    AUDI_MQB_DQ250_CORRECTION_VALUES_MAIN_P_ADAPT_HIGH_P_ON_CLUTCH_2: 312.28
+  response: 7E905621183FC79
