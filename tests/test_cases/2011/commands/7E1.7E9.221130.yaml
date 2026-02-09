@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.221130
+test_cases:
+- expected_values:
+    AUDI_MQB_DQ250_I_LOWER_P_POINT_CLUTCH_1_FROM_I_TO_P_ADAPT: 30
+  response: '7E9056211300696'
+- expected_values:
+    AUDI_MQB_DQ250_I_LOWER_P_POINT_CLUTCH_1_FROM_I_TO_P_ADAPT: 45
+  response: 7E90562113009EB
+- expected_values:
+    AUDI_MQB_DQ250_I_LOWER_P_POINT_CLUTCH_1_FROM_I_TO_P_ADAPT: 50
+  response: 7E9056211300A3E
+- expected_values:
+    AUDI_MQB_DQ250_I_LOWER_P_POINT_CLUTCH_1_FROM_I_TO_P_ADAPT: 55
+  response: 7E9056211300B6F

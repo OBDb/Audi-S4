@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221132
+test_cases:
+- expected_values:
+    AUDI_MQB_DQ250_I_LOWER_P_POINT_CLUTCH_2_FROM_I_TO_P_ADAPT: 0
+  response: '7E90462113200'

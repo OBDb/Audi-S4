@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22120F
+test_cases:
+- expected_values:
+    AUDI_MQB_DL382_CLUTCH_0_T_CALCULATED: 0
+  response: 7E90562120F0000
+- expected_values:
+    AUDI_MQB_DL382_CLUTCH_0_T_CALCULATED: 1279
+  response: 7E90562120F04FF
+- expected_values:
+    AUDI_MQB_DL382_CLUTCH_0_T_CALCULATED: 2899
+  response: 7E90562120F0B53
