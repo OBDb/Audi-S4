@@ -1,0 +1,14 @@
+command_id: 7E1.7E9.221131
+test_cases:
+- expected_values:
+    AUDI_MQB_DQ250_I_UPPER_P_POINT_CLUTCH_1_FROM_I_TO_P_ADAPT: 20
+  response: '7E9056211310468'
+- expected_values:
+    AUDI_MQB_DQ250_I_UPPER_P_POINT_CLUTCH_1_FROM_I_TO_P_ADAPT: 25
+  response: 7E90562113105FF
+- expected_values:
+    AUDI_MQB_DQ250_I_UPPER_P_POINT_CLUTCH_1_FROM_I_TO_P_ADAPT: 30
+  response: '7E9056211310604'
+- expected_values:
+    AUDI_MQB_DQ250_I_UPPER_P_POINT_CLUTCH_1_FROM_I_TO_P_ADAPT: 45
+  response: 7E905621131094D

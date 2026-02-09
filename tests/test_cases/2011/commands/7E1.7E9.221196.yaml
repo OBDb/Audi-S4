@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221196
+test_cases:
+- expected_values:
+    AUDI_MQB_TCM_HYBRID_T: 899
+  response: '7E9056211960383'

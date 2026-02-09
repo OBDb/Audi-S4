@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221149
+test_cases:
+- expected_values:
+    AUDI_MQB_DQ250_SYNCHRONOUS_POS_SIDE_B_GEAR_SELECTOR_2_4: 0
+  response: '7E9056211490000'

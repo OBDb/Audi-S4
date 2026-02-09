@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2210ED
+test_cases:
+- expected_values:
+    AUDI_PQ35_CLUTCH_2_FAILED_ADAPTS_COUNTER: 65535
+  response: 7E9056210EDFFFF

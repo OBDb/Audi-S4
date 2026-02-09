@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221084
+test_cases:
+- expected_values:
+    AUDI_PQ35_GANGSTELLER_A_ADAPT_NEUTRALPOS: 10.24
+  response: '7E9056210840004'
