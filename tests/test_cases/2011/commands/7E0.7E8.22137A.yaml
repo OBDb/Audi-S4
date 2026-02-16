@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22137A
 test_cases:
 - expected_values:
-    AUDI_PQ35_IGN_ANG_CYL: -11.25
-  response: 7E80462137A41
+    AUDI_PQ35_IGN_ANG_CYL: -18.375
+  response: 7E80462137A2E
 - expected_values:
     AUDI_PQ35_IGN_ANG_CYL: 30.375
   response: 7E80462137AB0
