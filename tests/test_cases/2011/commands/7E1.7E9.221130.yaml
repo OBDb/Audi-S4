@@ -8,7 +8,7 @@ test_cases:
   response: 7E90562113009EB
 - expected_values:
     AUDI_MQB_DQ250_I_LOWER_P_POINT_CLUTCH_1_FROM_I_TO_P_ADAPT: 50
-  response: 7E9056211300A3C
+  response: 7E9056211300A37
 - expected_values:
     AUDI_MQB_DQ250_I_LOWER_P_POINT_CLUTCH_1_FROM_I_TO_P_ADAPT: 55
   response: 7E9056211300B51
