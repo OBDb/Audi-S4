@@ -7,5 +7,5 @@ test_cases:
     AUDI_TIRE_RR_SPD_V3: 102
   response: 7E90562100303FC
 - expected_values:
-    AUDI_TIRE_RR_SPD_V3: 102.7
-  response: '7E9056210030403'
+    AUDI_TIRE_RR_SPD_V3: 128.9
+  response: '7E9056210030509'

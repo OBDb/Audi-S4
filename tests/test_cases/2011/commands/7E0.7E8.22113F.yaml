@@ -1,8 +1,17 @@
 command_id: 7E0.7E8.22113F
 test_cases:
 - expected_values:
+    AUDI_FUEL_CONS: 563.88
+  response: 7E80562113FDC44
+- expected_values:
+    AUDI_FUEL_CONS: 567.77
+  response: 7E80562113FDDC9
+- expected_values:
     AUDI_FUEL_CONS: 591.24
   response: 7E80562113FE6F4
 - expected_values:
     AUDI_FUEL_CONS: 602
   response: 7E80562113FEB28
+- expected_values:
+    AUDI_FUEL_CONS: 609.53
+  response: 7E80562113FEE19
