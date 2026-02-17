@@ -1,6 +1,11 @@
 command_id: 7E0.2211F6|din=03
 test_cases:
 - expected_values:
+    AUDI_PQ35_FIELD_LIM: 280.09
+  response: |-
+    7E8100B6211F66D6973
+    7E8215F6D706C00AAAA
+- expected_values:
     AUDI_PQ35_FIELD_LIM: 282.71
   response: |-
     7E8100C6211F66E6F5F
