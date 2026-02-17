@@ -13,6 +13,9 @@ test_cases:
     AUDI_PQ35_CLUTCH_1_CHAR_CURVE_SHIFT: -5.24202
   response: 7E9056210631BEB
 - expected_values:
+    AUDI_PQ35_CLUTCH_1_CHAR_CURVE_SHIFT: -4.99114
+  response: 7E9056210631BEC
+- expected_values:
     AUDI_PQ35_CLUTCH_1_CHAR_CURVE_SHIFT: -4.74026
   response: 7E9056210631BED
 - expected_values:
