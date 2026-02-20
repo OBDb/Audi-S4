@@ -4,5 +4,5 @@ test_cases:
     AUDI_PQ35_IGN_ANG_CYL: -1.875
   response: 7E80462137A5A
 - expected_values:
-    AUDI_PQ35_IGN_ANG_CYL: 20.25
-  response: 7E80462137A95
+    AUDI_PQ35_IGN_ANG_CYL: 21.75
+  response: 7E80462137A99
