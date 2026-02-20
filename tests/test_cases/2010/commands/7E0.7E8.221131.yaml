@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.221131
 test_cases:
 - expected_values:
+    AUDI_PQ35_POST_INJ_3_START: -115.12
+  response: 7E805621131E984
+- expected_values:
+    AUDI_PQ35_POST_INJ_3_START: -112.72
+  response: 7E805621131E9FC
+- expected_values:
     AUDI_PQ35_POST_INJ_3_START: -100.76
   response: 7E805621131EC52
 - expected_values:
