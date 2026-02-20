@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221135
 test_cases:
 - expected_values:
+    AUDI_COOLANT_T: 6089.4
+  response: 7E805621135F889
+- expected_values:
     AUDI_COOLANT_T: 6159.8
   response: 7E805621135FB49
 - expected_values:
