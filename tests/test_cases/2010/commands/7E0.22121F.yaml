@@ -21,3 +21,9 @@ test_cases:
 - expected_values:
     AUDI_PQ35_FUEL_P_CTL_DEV: 1085000
   response: 7E80562121F2A62
+- expected_values:
+    AUDI_PQ35_FUEL_P_CTL_DEV: 1085100
+  response: 7E80562121F2A63
+- expected_values:
+    AUDI_PQ35_FUEL_P_CTL_DEV: 1085200
+  response: 7E80562121F2A64
