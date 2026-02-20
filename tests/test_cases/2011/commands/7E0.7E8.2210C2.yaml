@@ -8,6 +8,9 @@ test_cases:
   response: 7E8056210C27F89
 - expected_values:
     AUDI_PQ35_EGR_DUTY: 100
+  response: 7E8056210C27F94
+- expected_values:
+    AUDI_PQ35_EGR_DUTY: 100
   response: 7E8056210C27F98
 - expected_values:
     AUDI_PQ35_EGR_DUTY: 100
