@@ -1,32 +1,8 @@
 command_id: 7E0.2210F3|din=03
 test_cases:
 - expected_values:
-    AUDI_PQ35_DPF_DIFF_P_2: 2070
-  response: 7E8056210F30816
-- expected_values:
-    AUDI_PQ35_DPF_DIFF_P_2: 2097
-  response: 7E8056210F30831
-- expected_values:
-    AUDI_PQ35_DPF_DIFF_P_2: 2125
-  response: 7E8056210F3084D
-- expected_values:
-    AUDI_PQ35_DPF_DIFF_P_2: 2176
-  response: 7E8056210F30880
-- expected_values:
-    AUDI_PQ35_DPF_DIFF_P_2: 2178
-  response: 7E8056210F30882
-- expected_values:
-    AUDI_PQ35_DPF_DIFF_P_2: 2195
-  response: 7E8056210F30893
-- expected_values:
-    AUDI_PQ35_DPF_DIFF_P_2: 2198
-  response: 7E8056210F30896
-- expected_values:
-    AUDI_PQ35_DPF_DIFF_P_2: 2200
-  response: 7E8056210F30898
-- expected_values:
-    AUDI_PQ35_DPF_DIFF_P_2: 2213
-  response: 7E8056210F308A5
+    AUDI_PQ35_DPF_DIFF_P_2: 2058
+  response: 7E8056210F3080A
 - expected_values:
     AUDI_PQ35_DPF_DIFF_P_2: 2228
   response: 7E8056210F308B4
