@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     AUDI_PQ35_O2_SEN_1_LAMBDA: 33.68
   response: 7E80562113D0D28
+- expected_values:
+    AUDI_PQ35_O2_SEN_1_LAMBDA: 33.8
+  response: 7E80562113D0D34
