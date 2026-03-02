@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     AUDI_PQ35_FUEL_P_REG_SPEC: 469600
   response: 7E80562121E1258
+- expected_values:
+    AUDI_PQ35_FUEL_P_REG_SPEC: 470400
+  response: 7E80562121E1260
