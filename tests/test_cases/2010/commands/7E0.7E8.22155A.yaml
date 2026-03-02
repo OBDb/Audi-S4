@@ -7,5 +7,5 @@ test_cases:
     AUDI_PQ35_ENG_TORQUE: 119.875
   response: 7E80562155A0EFC
 - expected_values:
-    AUDI_PQ35_ENG_TORQUE: 276.375
-  response: 7E80562155A228C
+    AUDI_PQ35_ENG_TORQUE: 293.40625
+  response: 7E80562155A24AD
