@@ -1,6 +1,12 @@
 command_id: 7E0.22113D|din=03
 test_cases:
 - expected_values:
+    AUDI_PQ35_O2_SEN_1_LAMBDA: 10.15
+  response: 7E80562113D03F7
+- expected_values:
+    AUDI_PQ35_O2_SEN_1_LAMBDA: 12.79
+  response: 7E80562113D04FF
+- expected_values:
     AUDI_PQ35_O2_SEN_1_LAMBDA: 30.36
   response: 7E80562113D0BDC
 - expected_values:

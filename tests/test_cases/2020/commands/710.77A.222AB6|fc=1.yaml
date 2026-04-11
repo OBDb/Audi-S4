@@ -25,3 +25,8 @@ test_cases:
   response: |-
     77A100A622AB6015E01
     77A215E07FD00AAAAAA
+- expected_values:
+    AUDI_RANGE_V2: 880
+  response: |-
+    77A100A622AB6037003
+    77A217007FD00AAAAAA

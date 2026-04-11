@@ -22,5 +22,11 @@ test_cases:
     AUDI_PQ35_FUEL_P_REG: 19.16
   response: 7E8056211BF077C
 - expected_values:
+    AUDI_PQ35_FUEL_P_REG: 22.64
+  response: 7E8056211BF08D8
+- expected_values:
     AUDI_PQ35_FUEL_P_REG: 23.34
   response: 7E8056211BF091E
+- expected_values:
+    AUDI_PQ35_FUEL_P_REG: 36.21
+  response: 7E8056211BF0E25

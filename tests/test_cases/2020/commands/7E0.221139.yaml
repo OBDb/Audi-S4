@@ -12,3 +12,7 @@ test_cases:
     AUDI_MEAN_INJ_QUANTITY: 7.3
     AUDI_PQ35_AVG_CYCLE_CON: 7.3
   response: 7E80562113902DA
+- expected_values:
+    AUDI_MEAN_INJ_QUANTITY: 9.03
+    AUDI_PQ35_AVG_CYCLE_CON: 9.03
+  response: '7E8056211390387'

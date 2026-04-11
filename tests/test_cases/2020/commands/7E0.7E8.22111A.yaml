@@ -10,5 +10,11 @@ test_cases:
     AUDI_PQ35_FUEL_FLOW: 2.07
   response: 7E80562111A00CF
 - expected_values:
+    AUDI_PQ35_FUEL_FLOW: 3.79
+  response: 7E80562111A017B
+- expected_values:
     AUDI_PQ35_FUEL_FLOW: 13.03
   response: 7E80562111A0517
+- expected_values:
+    AUDI_PQ35_FUEL_FLOW: 14
+  response: 7E80562111A0578

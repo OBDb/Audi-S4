@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.221AD5
 test_cases:
 - expected_values:
+    AUDI_MQB_DPF_INLET_LAMBDA_VALUE: 1.316
+  response: 7E805621AD50524
+- expected_values:
     AUDI_MQB_DPF_INLET_LAMBDA_VALUE: 1.37
   response: 7E805621AD5055A
+- expected_values:
+    AUDI_MQB_DPF_INLET_LAMBDA_VALUE: 2.412
+  response: 7E805621AD5096C
 - expected_values:
     AUDI_MQB_DPF_INLET_LAMBDA_VALUE: 20.603
   response: 7E805621AD5507B
