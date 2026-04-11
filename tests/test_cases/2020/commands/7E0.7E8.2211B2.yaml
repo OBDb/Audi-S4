@@ -4,8 +4,17 @@ test_cases:
     AUDI_PQ35_DPF_IN_T: 16.3
   response: 7E8056211B20B4E
 - expected_values:
+    AUDI_PQ35_DPF_IN_T: 148.6
+  response: 7E8056211B21079
+- expected_values:
     AUDI_PQ35_DPF_IN_T: 188.5
   response: 7E8056211B21208
+- expected_values:
+    AUDI_PQ35_DPF_IN_T: 195.7
+  response: 7E8056211B21250
+- expected_values:
+    AUDI_PQ35_DPF_IN_T: 198
+  response: 7E8056211B21267
 - expected_values:
     AUDI_PQ35_DPF_IN_T: 215.7
   response: 7E8056211B21318

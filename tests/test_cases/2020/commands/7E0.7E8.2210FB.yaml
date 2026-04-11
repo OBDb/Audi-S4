@@ -4,8 +4,17 @@ test_cases:
     AUDI_PQ35_EXH_GAS_T_1: 13.5
   response: 7E8056210FB0B32
 - expected_values:
+    AUDI_PQ35_EXH_GAS_T_1: 76.6
+  response: 7E8056210FB0DA9
+- expected_values:
+    AUDI_PQ35_EXH_GAS_T_1: 104.8
+  response: 7E8056210FB0EC3
+- expected_values:
     AUDI_PQ35_EXH_GAS_T_1: 106.4
   response: 7E8056210FB0ED3
+- expected_values:
+    AUDI_PQ35_EXH_GAS_T_1: 142
+  response: 7E8056210FB1037
 - expected_values:
     AUDI_PQ35_EXH_GAS_T_1: 300.9
   response: 7E8056210FB166C
