@@ -19,6 +19,9 @@ test_cases:
     AUDI_PQ35_CAMS_END: 1977.2
   response: 7E805621341269E
 - expected_values:
+    AUDI_PQ35_CAMS_END: 1977.8
+  response: 7E80562134126A1
+- expected_values:
     AUDI_PQ35_CAMS_END: 1980.6
   response: 7E80562134126AF
 - expected_values:
