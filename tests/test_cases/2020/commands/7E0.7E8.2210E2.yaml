@@ -4,6 +4,9 @@ test_cases:
     AUDI_PQ35_WEAR_IDX: 0
   response: 7E8056210E20000
 - expected_values:
+    AUDI_PQ35_WEAR_IDX: 6
+  response: 7E8056210E20006
+- expected_values:
     AUDI_PQ35_WEAR_IDX: 8
   response: 7E8056210E20008
 - expected_values:
