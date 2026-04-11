@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22104B
+test_cases:
+- expected_values:
+    AUDI_PQ35_AC_COMP_TRQ: 0
+  response: 7E80562104B0000
+- expected_values:
+    AUDI_PQ35_AC_COMP_TRQ: 25
+  response: 7E80562104B00FA

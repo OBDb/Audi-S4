@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2212FE
+test_cases:
+- expected_values:
+    AUDI_PQ35_CAMS_ADAPT_PHASE_1: 0
+  response: 7E8056212FE0000
+- expected_values:
+    AUDI_PQ35_CAMS_ADAPT_PHASE_1: -4.8
+  response: 7E8056212FEFF10
+- expected_values:
+    AUDI_PQ35_CAMS_ADAPT_PHASE_1: -4.76
+  response: 7E8056212FEFF12
+- expected_values:
+    AUDI_PQ35_CAMS_ADAPT_PHASE_1: -4.64
+  response: 7E8056212FEFF18
+- expected_values:
+    AUDI_PQ35_CAMS_ADAPT_PHASE_1: -4.38
+  response: 7E8056212FEFF25

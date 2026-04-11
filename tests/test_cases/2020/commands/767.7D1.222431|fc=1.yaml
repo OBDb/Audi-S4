@@ -1,0 +1,26 @@
+command_id: 767.7D1.222431|fc=1
+test_cases:
+- expected_values:
+    AUDI_GPS_SATS_TRACKED: 25
+    AUDI_GPS_SATS_VISIBLE: 4
+  response: 7D10662243104190C
+- expected_values:
+    AUDI_GPS_SATS_TRACKED: 28
+    AUDI_GPS_SATS_VISIBLE: 4
+  response: 7D106622431041C0B
+- expected_values:
+    AUDI_GPS_SATS_TRACKED: 32
+    AUDI_GPS_SATS_VISIBLE: 4
+  response: 7D10662243104201A
+- expected_values:
+    AUDI_GPS_SATS_TRACKED: 33
+    AUDI_GPS_SATS_VISIBLE: 4
+  response: 7D10662243104211A
+- expected_values:
+    AUDI_GPS_SATS_TRACKED: 35
+    AUDI_GPS_SATS_VISIBLE: 4
+  response: 7D106622431042316
+- expected_values:
+    AUDI_GPS_SATS_TRACKED: 37
+    AUDI_GPS_SATS_VISIBLE: 4
+  response: 7D10662243104251A

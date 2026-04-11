@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2211BC
+test_cases:
+- expected_values:
+    AUDI_PQ35_OIL_LVL: 43.54
+  response: 7E8056211BC2A85
+- expected_values:
+    AUDI_PQ35_OIL_LVL: 49.544
+  response: 7E8056211BC3062
+- expected_values:
+    AUDI_PQ35_OIL_LVL: 55.976
+  response: 7E8056211BC36AA
+- expected_values:
+    AUDI_PQ35_OIL_LVL: 63.532
+  response: 7E8056211BC3E0B
+- expected_values:
+    AUDI_PQ35_OIL_LVL: 78.804
+  response: 7E8056211BC4CF5
+- expected_values:
+    AUDI_PQ35_OIL_LVL: 78.912
+  response: 7E8056211BC4D10

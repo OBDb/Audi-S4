@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221116
+test_cases:
+- expected_values:
+    AUDI_PQ35_COOL_FAN_1_DUTY: 10.54
+  response: 7E805621116041E

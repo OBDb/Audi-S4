@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2214F7
+test_cases:
+- expected_values:
+    AUDI_PQ35_EXHAUST_GAS_T_SENSOR_2: 15.8
+  response: 7E8056214F70B49
+- expected_values:
+    AUDI_PQ35_EXHAUST_GAS_T_SENSOR_2: 186.7
+  response: 7E8056214F711F6
+- expected_values:
+    AUDI_PQ35_EXHAUST_GAS_T_SENSOR_2: 227.3
+  response: 7E8056214F7138C
+- expected_values:
+    AUDI_PQ35_EXHAUST_GAS_T_SENSOR_2: 249.6
+  response: 7E8056214F7146B
+- expected_values:
+    AUDI_PQ35_EXHAUST_GAS_T_SENSOR_2: 377.9
+  response: 7E8056214F7196E

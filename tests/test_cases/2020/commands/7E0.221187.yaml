@@ -1,0 +1,14 @@
+command_id: 7E0.221187
+test_cases:
+- expected_values:
+    AUDI_ACCELERATION: 0
+    AUDI_PQ35_ACCEL: 0
+  response: '7E8056211870000'
+- expected_values:
+    AUDI_ACCELERATION: 0.354
+    AUDI_PQ35_ACCEL: 0.354
+  response: '7E8056211870162'
+- expected_values:
+    AUDI_ACCELERATION: -2.25
+    AUDI_PQ35_ACCEL: -2.25
+  response: 7E805621187F736

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2210E2
+test_cases:
+- expected_values:
+    AUDI_PQ35_WEAR_IDX: 0
+  response: 7E8056210E20000
+- expected_values:
+    AUDI_PQ35_WEAR_IDX: 8
+  response: 7E8056210E20008
+- expected_values:
+    AUDI_PQ35_WEAR_IDX: 9
+  response: 7E8056210E20009
+- expected_values:
+    AUDI_PQ35_WEAR_IDX: 12
+  response: 7E8056210E2000C
+- expected_values:
+    AUDI_PQ35_WEAR_IDX: 20
+  response: 7E8056210E20014

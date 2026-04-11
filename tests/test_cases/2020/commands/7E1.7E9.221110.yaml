@@ -1,0 +1,7 @@
+command_id: 7E1.7E9.221110
+test_cases:
+- expected_values:
+    AUDI_PQ35_WORKING_HOURS: 1491.30809
+  response: |-
+    7E9100D621110000000
+    7E92110000000000000

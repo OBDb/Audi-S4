@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2210FB
+test_cases:
+- expected_values:
+    AUDI_PQ35_EXH_GAS_T_1: 13.5
+  response: 7E8056210FB0B32
+- expected_values:
+    AUDI_PQ35_EXH_GAS_T_1: 106.4
+  response: 7E8056210FB0ED3
+- expected_values:
+    AUDI_PQ35_EXH_GAS_T_1: 300.9
+  response: 7E8056210FB166C
+- expected_values:
+    AUDI_PQ35_EXH_GAS_T_1: 311.2
+  response: 7E8056210FB16D3
+- expected_values:
+    AUDI_PQ35_EXH_GAS_T_1: 372.4
+  response: 7E8056210FB1937
