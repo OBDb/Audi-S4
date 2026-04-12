@@ -5,34 +5,6 @@ test_cases:
     AUDI_PQ35_CAB_T: 13.4
   response: 7B0056226130086
 - expected_values:
-    AUDI_CABIN_T: 15.9
-    AUDI_PQ35_CAB_T: 15.9
-  response: 7B005622613009F
-- expected_values:
-    AUDI_CABIN_T: 16.1
-    AUDI_PQ35_CAB_T: 16.1
-  response: 7B00562261300A1
-- expected_values:
-    AUDI_CABIN_T: 16.5
-    AUDI_PQ35_CAB_T: 16.5
-  response: 7B00562261300A5
-- expected_values:
-    AUDI_CABIN_T: 16.9
-    AUDI_PQ35_CAB_T: 16.9
-  response: 7B00562261300A9
-- expected_values:
-    AUDI_CABIN_T: 17.1
-    AUDI_PQ35_CAB_T: 17.1
-  response: 7B00562261300AB
-- expected_values:
-    AUDI_CABIN_T: 17.4
-    AUDI_PQ35_CAB_T: 17.4
-  response: 7B00562261300AE
-- expected_values:
-    AUDI_CABIN_T: 17.7
-    AUDI_PQ35_CAB_T: 17.7
-  response: 7B00562261300B1
-- expected_values:
-    AUDI_CABIN_T: 18.2
-    AUDI_PQ35_CAB_T: 18.2
-  response: 7B00562261300B6
+    AUDI_CABIN_T: 20.5
+    AUDI_PQ35_CAB_T: 20.5
+  response: 7B00562261300CD

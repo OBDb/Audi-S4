@@ -2,6 +2,14 @@ command_id: 7E0.7E8.221156|din=03
 test_cases:
 - expected_values:
     AUDI_HVBAT_SOC: 0
+    AUDI_PQ35_DIST_LAST_REGEN: 7.706
+  response: 7E80762115600001E1A
+- expected_values:
+    AUDI_HVBAT_SOC: 0
+    AUDI_PQ35_DIST_LAST_REGEN: 13.547
+  response: 7E807621156000034EB
+- expected_values:
+    AUDI_HVBAT_SOC: 0
     AUDI_PQ35_DIST_LAST_REGEN: 642.599
   response: 7E8076211560009CE27
 - expected_values:

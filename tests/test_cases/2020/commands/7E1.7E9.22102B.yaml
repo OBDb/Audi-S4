@@ -4,26 +4,5 @@ test_cases:
     AUDI_PQ35_CLUTCH_1_T: 17
   response: 7E90462102B11
 - expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 19
-  response: 7E90462102B13
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 22
-  response: 7E90462102B16
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 24
-  response: 7E90462102B18
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 26
-  response: 7E90462102B1A
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 33
-  response: 7E90462102B21
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 35
-  response: 7E90462102B23
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 51
-  response: 7E90462102B33
-- expected_values:
-    AUDI_PQ35_CLUTCH_1_T: 53
-  response: 7E90462102B35
+    AUDI_PQ35_CLUTCH_1_T: 61
+  response: 7E90462102B3D

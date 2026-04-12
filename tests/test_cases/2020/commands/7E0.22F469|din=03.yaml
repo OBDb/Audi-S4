@@ -6,6 +6,11 @@ test_cases:
     7E8100A62F469070000
     7E82180000000000000
 - expected_values:
+    AUDI_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 23
+  response: |-
+    7E8100A62F469071714
+    7E82170000000000000
+- expected_values:
     AUDI_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 37
   response: |-
     7E8100A62F469072521
@@ -15,6 +20,11 @@ test_cases:
   response: |-
     7E8100A62F469073331
     7E8217B000000000000
+- expected_values:
+    AUDI_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 68
+  response: |-
+    7E8100A62F469074443
+    7E8217F000000000000
 - expected_values:
     AUDI_PQ35_HIGH_P_EGR_CLOSING_VAR_1: 82
   response: |-
