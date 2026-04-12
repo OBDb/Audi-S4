@@ -13,11 +13,17 @@ test_cases:
     AUDI_PQ35_DIFF_P: 12
   response: 7E8056214F5000C
 - expected_values:
+    AUDI_PQ35_DIFF_P: 15
+  response: 7E8056214F5000F
+- expected_values:
     AUDI_PQ35_DIFF_P: 25
   response: 7E8056214F50019
 - expected_values:
     AUDI_PQ35_DIFF_P: 27
   response: 7E8056214F5001B
+- expected_values:
+    AUDI_PQ35_DIFF_P: 30
+  response: 7E8056214F5001E
 - expected_values:
     AUDI_PQ35_DIFF_P: 32
   response: 7E8056214F50020
