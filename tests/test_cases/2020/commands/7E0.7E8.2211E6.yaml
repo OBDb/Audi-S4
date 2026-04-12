@@ -5,28 +5,7 @@ test_cases:
   response: 7E8076211E600000000
 - expected_values:
     AUDI_MQB_DPF_EXH_VOL: 0
-  response: 7E8076211E6000001E7
-- expected_values:
-    AUDI_MQB_DPF_EXH_VOL: 0
   response: 7E8076211E6000002F3
 - expected_values:
     AUDI_MQB_DPF_EXH_VOL: 0
-  response: 7E8076211E600000396
-- expected_values:
-    AUDI_MQB_DPF_EXH_VOL: 0
-  response: 7E8076211E6000003B3
-- expected_values:
-    AUDI_MQB_DPF_EXH_VOL: 0
-  response: 7E8076211E6000003B6
-- expected_values:
-    AUDI_MQB_DPF_EXH_VOL: 0
-  response: 7E8076211E6000003D8
-- expected_values:
-    AUDI_MQB_DPF_EXH_VOL: 0
-  response: 7E8076211E600000523
-- expected_values:
-    AUDI_MQB_DPF_EXH_VOL: 0
-  response: 7E8076211E600000597
-- expected_values:
-    AUDI_MQB_DPF_EXH_VOL: 0
-  response: 7E8076211E6000005CA
+  response: 7E8076211E6000007C5

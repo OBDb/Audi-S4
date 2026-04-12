@@ -1,6 +1,14 @@
 command_id: 7E0.22114F|din=03
 test_cases:
 - expected_values:
+    AUDI_MISFIRES_C1: 545
+    AUDI_PQ35_SOOT_MASS_CALC: 5.45
+  response: 7E80562114F0221
+- expected_values:
+    AUDI_MISFIRES_C1: 565
+    AUDI_PQ35_SOOT_MASS_CALC: 5.65
+  response: 7E80562114F0235
+- expected_values:
     AUDI_MISFIRES_C1: 1986
     AUDI_PQ35_SOOT_MASS_CALC: 19.86
   response: 7E80562114F07C2

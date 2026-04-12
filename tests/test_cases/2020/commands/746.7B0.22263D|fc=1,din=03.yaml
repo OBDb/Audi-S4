@@ -8,7 +8,13 @@ test_cases:
   response: 7B00562263D0082
 - expected_values:
     AUDI_PQ35_REAR_DEFL_T: 0
+  response: 7B00562263D0091
+- expected_values:
+    AUDI_PQ35_REAR_DEFL_T: 0
   response: 7B00562263D00B4
+- expected_values:
+    AUDI_PQ35_REAR_DEFL_T: 0
+  response: 7B00562263D00B9
 - expected_values:
     AUDI_PQ35_REAR_DEFL_T: 0
   response: 7B00562263D00FA
