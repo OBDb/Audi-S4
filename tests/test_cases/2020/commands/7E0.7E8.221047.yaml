@@ -10,6 +10,9 @@ test_cases:
     AUDI_PQ35_ENG_TRQ: 35.6
   response: '7E8056210470164'
 - expected_values:
+    AUDI_PQ35_ENG_TRQ: 79.8
+  response: 7E805621047031E
+- expected_values:
     AUDI_PQ35_ENG_TRQ: 99
   response: 7E80562104703DE
 - expected_values:
