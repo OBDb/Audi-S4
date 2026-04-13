@@ -4,8 +4,8 @@ test_cases:
     AUDI_PQ35_SOOT_MASS_MEAS: 2.01
   response: 7E80562114E00C9
 - expected_values:
-    AUDI_PQ35_SOOT_MASS_MEAS: 2.5
-  response: 7E80562114E00FA
+    AUDI_PQ35_SOOT_MASS_MEAS: 2.53
+  response: 7E80562114E00FD
 - expected_values:
     AUDI_PQ35_SOOT_MASS_MEAS: 2.96
   response: 7E80562114E0128
