@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     AUDI_PQ35_COOL_FAN_1_DUTY: 11.33
   response: 7E805621116046D
+- expected_values:
+    AUDI_PQ35_COOL_FAN_1_DUTY: 27.34
+  response: 7E8056211160AAE
