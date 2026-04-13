@@ -4,6 +4,9 @@ test_cases:
     AUDI_PQ35_GEAR: 0
   response: 7E80462100D00
 - expected_values:
+    AUDI_PQ35_GEAR: 1
+  response: 7E80462100D01
+- expected_values:
     AUDI_PQ35_GEAR: 2
   response: 7E80462100D02
 - expected_values:
