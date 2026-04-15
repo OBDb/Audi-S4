@@ -7,6 +7,6 @@ test_cases:
   response: 7B0056226090037
 - expected_values:
     AUDI_AAT_V2: 0
-    AUDI_HVAC_OUTSIDE_T: 22
+    AUDI_HVAC_OUTSIDE_T: 22.5
     AUDI_PQ35_OUT_T: 0
-  response: 7B00562260900DC
+  response: 7B00562260900E1
