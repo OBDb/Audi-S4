@@ -10,5 +10,5 @@ test_cases:
     AUDI_PQ35_ENGINE_OIL_T_2: 61
   response: 7E80562179C0D0D
 - expected_values:
-    AUDI_PQ35_ENGINE_OIL_T_2: 89.6
-  response: 7E80562179C0E2B
+    AUDI_PQ35_ENGINE_OIL_T_2: 87.1
+  response: 7E80562179C0E12
