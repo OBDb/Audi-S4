@@ -10,3 +10,8 @@ test_cases:
     AUDI_HVAC_OUTSIDE_T: 25
     AUDI_PQ35_OUT_T: 0
   response: 7B00562260900FA
+- expected_values:
+    AUDI_AAT_V2: 1.5
+    AUDI_HVAC_OUTSIDE_T: 77
+    AUDI_PQ35_OUT_T: 1.5
+  response: 7B0056226090302

@@ -7,6 +7,9 @@ test_cases:
     AUDI_MQB_EGR_VALVE_2_B1_FLOW: 6.2
   response: 7E805621313003E
 - expected_values:
+    AUDI_MQB_EGR_VALVE_2_B1_FLOW: 7.2
+  response: '7E8056213130048'
+- expected_values:
     AUDI_MQB_EGR_VALVE_2_B1_FLOW: 8.5
   response: '7E8056213130055'
 - expected_values:
