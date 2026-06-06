@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.220304
+test_cases:
+- expected_values:
+    AUDI_DRIVE_TIME_SPORT: 62
+  response: 7E9046203049B

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.220303
+test_cases:
+- expected_values:
+    AUDI_DRIVE_TIME_ECO: 98.8
+  response: 7E904620303F7
