@@ -15,6 +15,10 @@ test_cases:
     AUDI_MQB_TCM_I_GEAR: 2
   response: 7E90462210F04
 - expected_values:
+    AUDI_GEAR: '5'
+    AUDI_MQB_TCM_I_GEAR: 3
+  response: 7E90462210F05
+- expected_values:
     AUDI_GEAR: '6'
     AUDI_MQB_TCM_I_GEAR: 4
   response: 7E90462210F06

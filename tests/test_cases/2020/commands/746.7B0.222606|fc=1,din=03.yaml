@@ -9,6 +9,10 @@ test_cases:
     AUDI_PQ35_RAD_FAN_DUTY: 0
   response: 7B005622606006E
 - expected_values:
+    AUDI_HVAC_FAN1_ACT: 17
+    AUDI_PQ35_RAD_FAN_DUTY: 0
+  response: 7B00562260600AA
+- expected_values:
     AUDI_HVAC_FAN1_ACT: 39
     AUDI_PQ35_RAD_FAN_DUTY: 0.4
   response: 7B0056226060186
