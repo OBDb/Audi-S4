@@ -11,4 +11,4 @@ test_cases:
 - expected_values:
     AUDI_BOOST_REGULATOR_FEEDBACK: 0
     AUDI_PQ35_BOOST_REG_FDBK: 0
-  response: 7E8056211CCFFF7
+  response: 7E8056211CCFFED
