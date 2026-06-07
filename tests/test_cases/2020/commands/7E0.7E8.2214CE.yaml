@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     AUDI_PQ35_POST_INJ_3_ACTIVATION_DURATION: 0
   response: 7E8056214CE0000
+- expected_values:
+    AUDI_PQ35_POST_INJ_3_ACTIVATION_DURATION: 0.3324
+  response: 7E8056214CE033F
+- expected_values:
+    AUDI_PQ35_POST_INJ_3_ACTIVATION_DURATION: 0.3348
+  response: 7E8056214CE0345
