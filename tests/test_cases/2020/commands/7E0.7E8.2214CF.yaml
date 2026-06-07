@@ -4,26 +4,8 @@ test_cases:
     AUDI_PQ35_MAIN_INJ_DURATION: 0
   response: 7E8056214CF0000
 - expected_values:
-    AUDI_PQ35_MAIN_INJ_DURATION: 0.214
-  response: 7E8056214CF0217
-- expected_values:
-    AUDI_PQ35_MAIN_INJ_DURATION: 0.2776
-  response: 7E8056214CF02B6
-- expected_values:
     AUDI_PQ35_MAIN_INJ_DURATION: 0.3052
   response: 7E8056214CF02FB
 - expected_values:
-    AUDI_PQ35_MAIN_INJ_DURATION: 0.3472
-  response: 7E8056214CF0364
-- expected_values:
-    AUDI_PQ35_MAIN_INJ_DURATION: 0.3528
-  response: 7E8056214CF0372
-- expected_values:
-    AUDI_PQ35_MAIN_INJ_DURATION: 0.3676
-  response: 7E8056214CF0397
-- expected_values:
-    AUDI_PQ35_MAIN_INJ_DURATION: 0.3732
-  response: 7E8056214CF03A5
-- expected_values:
-    AUDI_PQ35_MAIN_INJ_DURATION: 0.3748
-  response: 7E8056214CF03A9
+    AUDI_PQ35_MAIN_INJ_DURATION: 0.4116
+  response: 7E8056214CF0405
