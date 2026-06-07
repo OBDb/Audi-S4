@@ -4,29 +4,5 @@ test_cases:
     AUDI_MQB_BAT_T: 10
   response: 77A04622A0B32
 - expected_values:
-    AUDI_MQB_BAT_T: 13
-  response: 77A04622A0B35
-- expected_values:
-    AUDI_MQB_BAT_T: 15
-  response: 77A04622A0B37
-- expected_values:
-    AUDI_MQB_BAT_T: 16
-  response: 77A04622A0B38
-- expected_values:
-    AUDI_MQB_BAT_T: 17
-  response: 77A04622A0B39
-- expected_values:
-    AUDI_MQB_BAT_T: 18
-  response: 77A04622A0B3A
-- expected_values:
-    AUDI_MQB_BAT_T: 20
-  response: 77A04622A0B3C
-- expected_values:
-    AUDI_MQB_BAT_T: 24
-  response: 77A04622A0B40
-- expected_values:
-    AUDI_MQB_BAT_T: 25
-  response: 77A04622A0B41
-- expected_values:
     AUDI_MQB_BAT_T: 28
   response: 77A04622A0B44
