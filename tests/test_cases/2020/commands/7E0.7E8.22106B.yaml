@@ -10,5 +10,5 @@ test_cases:
     AUDI_PQ35_LIM_TRQ: 410
   response: 7E80562106B1004
 - expected_values:
-    AUDI_PQ35_LIM_TRQ: 467.5
-  response: 7E80562106B1243
+    AUDI_PQ35_LIM_TRQ: 587.7
+  response: 7E80562106B16F5
