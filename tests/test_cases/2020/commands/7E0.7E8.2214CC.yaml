@@ -4,8 +4,17 @@ test_cases:
     AUDI_PQ35_POST_INJ_1_DURATION: 0
   response: 7E8056214CC0000
 - expected_values:
+    AUDI_PQ35_POST_INJ_1_DURATION: 0.1496
+  response: 7E8056214CC0176
+- expected_values:
+    AUDI_PQ35_POST_INJ_1_DURATION: 0.1624
+  response: 7E8056214CC0196
+- expected_values:
     AUDI_PQ35_POST_INJ_1_DURATION: 0.1628
   response: 7E8056214CC0197
 - expected_values:
     AUDI_PQ35_POST_INJ_1_DURATION: 0.2224
   response: 7E8056214CC022C
+- expected_values:
+    AUDI_PQ35_POST_INJ_1_DURATION: 0.3448
+  response: 7E8056214CC035E
