@@ -4,8 +4,8 @@ test_cases:
     AUDI_PQ35_POST_INJ_2_START: 0
   response: 7E8056211F30000
 - expected_values:
+    AUDI_PQ35_POST_INJ_2_START: -51.32
+  response: 7E8056211F3F5FA
+- expected_values:
     AUDI_PQ35_POST_INJ_2_START: -29.18
   response: 7E8056211F3FA4D
-- expected_values:
-    AUDI_PQ35_POST_INJ_2_START: -25.8
-  response: 7E8056211F3FAF6
