@@ -12,3 +12,8 @@ test_cases:
 - expected_values:
     AUDI_COOLANT_T: 105
   response: 7E8056211350EC5
+- expected_values:
+    AUDI_COOLANT_T: 105
+  response: |-
+    7E8056211350EC5
+    7E803410D00

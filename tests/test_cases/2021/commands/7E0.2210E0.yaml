@@ -44,3 +44,9 @@ test_cases:
     AUDI_ODO_2: 104937
     AUDI_ODO_V3: 104937
   response: 7E8076210E0000199E9
+- expected_values:
+    AUDI_ODO_2: 104937
+    AUDI_ODO_V3: 104937
+  response: |-
+    7E8076210E0000199E9
+    7E803410400

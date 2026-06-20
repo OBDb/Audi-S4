@@ -34,7 +34,7 @@ test_cases:
     CLR_DIST: 986
   response: |-
     7E804413103DA
-    7E803410E80
+    7E803410D00
 - expected_values:
     CLR_DIST: 1868
   response: 7E8044131074C
