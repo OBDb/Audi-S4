@@ -26,6 +26,9 @@ test_cases:
   response: '7E90462030419'
 - expected_values:
     AUDI_DRIVE_TIME_SPORT: 12
+  response: 7E9046203041E
+- expected_values:
+    AUDI_DRIVE_TIME_SPORT: 12
   response: |-
     7E9046203041E
     7E904410C0000

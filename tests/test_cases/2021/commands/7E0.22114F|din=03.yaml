@@ -3,6 +3,10 @@ test_cases:
 - expected_values:
     AUDI_MISFIRES_C1: 404
     AUDI_PQ35_SOOT_MASS_CALC: 4.04
+  response: 7E80562114F0194
+- expected_values:
+    AUDI_MISFIRES_C1: 404
+    AUDI_PQ35_SOOT_MASS_CALC: 4.04
   response: |-
     7E80562114F0194
     7E803410D00
