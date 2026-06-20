@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221341
+test_cases:
+- expected_values:
+    AUDI_PQ35_CAMS_END: 6553.4
+  response: 7E8056213417FFF

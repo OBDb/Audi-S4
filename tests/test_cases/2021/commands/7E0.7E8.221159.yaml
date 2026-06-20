@@ -9,3 +9,8 @@ test_cases:
 - expected_values:
     AUDI_MAX_CHA_CUR_2: 0
   response: '7E8056211590000'
+- expected_values:
+    AUDI_MAX_CHA_CUR_2: 0
+  response: |-
+    7E8056211590000
+    7E803410D00
