@@ -9,5 +9,10 @@ test_cases:
     7E8056211470000
     7E804410C0000
 - expected_values:
+    AUDI_MISFIRES_1000REV_C1: 0
+  response: |-
+    7E8056211470000
+    7E8044144FFFF
+- expected_values:
     AUDI_MISFIRES_1000REV_C1: 1
   response: '7E8056211470001'

@@ -14,3 +14,8 @@ test_cases:
   response: |-
     7E80562F4210000
     7E803410D00
+- expected_values:
+    AUDI_MIL_DIST: 0
+  response: |-
+    7E80562F4210000
+    7E803414734
