@@ -4,11 +4,11 @@ test_cases:
     AUDI_PQ35_FUEL_P_HIGH_CMD: 250000
   response: 7E80562116A09C4
 - expected_values:
-    AUDI_PQ35_FUEL_P_HIGH_CMD: 511400
-  response: 7E80562116A13FA
-- expected_values:
     AUDI_PQ35_FUEL_P_HIGH_CMD: 588800
   response: 7E80562116A1700
+- expected_values:
+    AUDI_PQ35_FUEL_P_HIGH_CMD: 1330900
+  response: 7E80562116A33FD
 - expected_values:
     AUDI_PQ35_FUEL_P_HIGH_CMD: 1691600
   response: 7E80562116A4214

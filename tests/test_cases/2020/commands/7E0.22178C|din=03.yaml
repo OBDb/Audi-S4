@@ -21,3 +21,6 @@ test_cases:
 - expected_values:
     AUDI_PQ35_OIL_ASH_RESIDUE: 55.3
   response: 7E80562178C0229
+- expected_values:
+    AUDI_PQ35_OIL_ASH_RESIDUE: 55.4
+  response: 7E80562178C022A
