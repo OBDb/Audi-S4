@@ -6,7 +6,7 @@ test_cases:
     AUDI_PQ35_AMB_T: 6.5
   response: '77E0462101471'
 - expected_values:
-    AUDI_AAT: 103
-    AUDI_DASH_AMBIENT_AIR_T: 26.5
-    AUDI_PQ35_AMB_T: 26.5
-  response: '77E0462101499'
+    AUDI_AAT: 109
+    AUDI_DASH_AMBIENT_AIR_T: 29.5
+    AUDI_PQ35_AMB_T: 29.5
+  response: 77E046210149F
