@@ -1,14 +1,17 @@
 command_id: 746.7B0.222607|fc=1,din=03
 test_cases:
 - expected_values:
+    AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0
     AUDI_HVAC_FAN_CMD: 0
     AUDI_PQ35_RAD_FAN_CMD: 0
   response: 7B0056226070000
 - expected_values:
+    AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0
     AUDI_HVAC_FAN_CMD: 22.4
     AUDI_PQ35_RAD_FAN_CMD: 0
   response: 7B00562260700E0
 - expected_values:
+    AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0.8
     AUDI_HVAC_FAN_CMD: 52
     AUDI_PQ35_RAD_FAN_CMD: 0.8
   response: 7B0056226070208
