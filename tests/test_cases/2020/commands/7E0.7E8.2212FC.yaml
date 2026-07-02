@@ -4,11 +4,11 @@ test_cases:
     AUDI_PQ35_THROT_VALVE_ADAPT: 0.19
   response: 7E8056212FC0013
 - expected_values:
+    AUDI_PQ35_THROT_VALVE_ADAPT: 5.11
+  response: 7E8056212FC01FF
+- expected_values:
     AUDI_PQ35_THROT_VALVE_ADAPT: 12.8
   response: 7E8056212FC0500
-- expected_values:
-    AUDI_PQ35_THROT_VALVE_ADAPT: 84.47
-  response: 7E8056212FC20FF
 - expected_values:
     AUDI_PQ35_THROT_VALVE_ADAPT: 84.64
   response: 7E8056212FC2110
