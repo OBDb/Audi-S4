@@ -7,5 +7,5 @@ test_cases:
     AUDI_PQ35_POST_INJ_1_QTY_SPEC: 2.5
   response: 7E80562163C00FA
 - expected_values:
-    AUDI_PQ35_POST_INJ_1_QTY_SPEC: 2.6
-  response: 7E80562163C0104
+    AUDI_PQ35_POST_INJ_1_QTY_SPEC: 2.58
+  response: 7E80562163C0102
