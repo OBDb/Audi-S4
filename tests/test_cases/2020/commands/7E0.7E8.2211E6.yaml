@@ -8,4 +8,4 @@ test_cases:
   response: 7E8076211E6000005FF
 - expected_values:
     AUDI_MQB_DPF_EXH_VOL: 0
-  response: 7E8076211E6000019EB
+  response: 7E8076211E600002156
