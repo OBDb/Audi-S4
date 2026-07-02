@@ -13,6 +13,9 @@ test_cases:
     AUDI_AAT_V1: 74.78
   response: 7E8056214F80B9B
 - expected_values:
+    AUDI_AAT_V1: 85.58
+  response: 7E8056214F80BD7
+- expected_values:
     AUDI_AAT_V1: 86.48
   response: 7E8056214F80BDC
 - expected_values:
