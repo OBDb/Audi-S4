@@ -7,5 +7,5 @@ test_cases:
     AUDI_PQ35_BAT_V_2: 15.28
   response: 7E80562105E02FC
 - expected_values:
-    AUDI_PQ35_BAT_V_2: 15.38
-  response: 7E80562105E0301
+    AUDI_PQ35_BAT_V_2: 15.36
+  response: 7E80562105E0300
