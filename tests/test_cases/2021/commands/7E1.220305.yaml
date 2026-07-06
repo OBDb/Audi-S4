@@ -9,3 +9,8 @@ test_cases:
 - expected_values:
     AUDI_DRIVE_TIME_MANUAL: 0
   response: '7E90462030500'
+- expected_values:
+    AUDI_DRIVE_TIME_MANUAL: 0
+  response: |-
+    7E90462030500
+    7E903410481
