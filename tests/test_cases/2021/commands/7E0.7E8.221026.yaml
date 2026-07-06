@@ -9,3 +9,6 @@ test_cases:
     7E8056210260000
     7E803410D37
     7E803410D37
+- expected_values:
+    AUDI_MQB_MAF_1_B1_RAW: 126.4
+  response: 7E80562102604F0
