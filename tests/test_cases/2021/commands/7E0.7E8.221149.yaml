@@ -16,3 +16,7 @@ test_cases:
   response: |-
     7E8056211490000
     7E803410D00
+- expected_values:
+    AUDI_MISFIRES_1000REV_C4: 1
+    AUDI_PQ35_BOOST_P_CMD: 1
+  response: '7E8056211490001'

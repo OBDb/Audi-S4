@@ -6,6 +6,11 @@ test_cases:
     AUDI_PQ35_RAD_FAN_CMD: 0
   response: 7B0056226070000
 - expected_values:
+    AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0
+    AUDI_HVAC_FAN_CMD: 8.8
+    AUDI_PQ35_RAD_FAN_CMD: 0
+  response: 7B0056226070058
+- expected_values:
     AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 0.4
     AUDI_HVAC_FAN_CMD: 42
     AUDI_PQ35_RAD_FAN_CMD: 0.4
@@ -25,6 +30,11 @@ test_cases:
     AUDI_HVAC_FAN_CMD: 67.6
     AUDI_PQ35_RAD_FAN_CMD: 0.8
   response: 7B00562260702A4
+- expected_values:
+    AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 1.2
+    AUDI_HVAC_FAN_CMD: 97.6
+    AUDI_PQ35_RAD_FAN_CMD: 1.2
+  response: 7B00562260703D0
 - expected_values:
     AUDI_CLIMATE_RAD_FAN_CMD_DUTY: 1.2
     AUDI_HVAC_FAN_CMD: 98

@@ -8,3 +8,8 @@ test_cases:
 - expected_values:
     AUDI_MQB_TCM_KICK_DOWN: 0
   response: '7E90462211400'
+- expected_values:
+    AUDI_MQB_TCM_KICK_DOWN: 0
+  response: |-
+    7E90462211400
+    7E904410C1D72

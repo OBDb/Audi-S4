@@ -19,5 +19,10 @@ test_cases:
     7E8056210020000
     7E80441422D78
 - expected_values:
+    AUDI_AC_COMP_T: 9.7
+  response: |-
+    7E8056210020061
+    7E8056211F03332
+- expected_values:
     AUDI_AC_COMP_T: 18.8
   response: 7E80562100200BC
