@@ -14,3 +14,6 @@ test_cases:
 - expected_values:
     AUDI_PQ35_CLUTCH_1_T: 29
   response: 7E90462102B1D
+- expected_values:
+    AUDI_PQ35_CLUTCH_1_T: 31
+  response: 7E90462102B1F

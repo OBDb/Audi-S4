@@ -15,5 +15,8 @@ test_cases:
     7E8046214CB03
     7E803410D1B
 - expected_values:
+    AUDI_GEAR_V2: 4
+  response: 7E8046214CB04
+- expected_values:
     AUDI_GEAR_V2: 5
   response: 7E8046214CB05

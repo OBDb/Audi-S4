@@ -14,8 +14,8 @@ test_cases:
     7E8056214F80BE1
     7E80641A60010031A
 - expected_values:
-    AUDI_AAT_V1: 88.28
-  response: 7E8056214F80BE6
+    AUDI_AAT_V1: 92.78
+  response: 7E8056214F80BFF
 - expected_values:
     AUDI_AAT_V1: 95.48
   response: 7E8056214F80C0E
