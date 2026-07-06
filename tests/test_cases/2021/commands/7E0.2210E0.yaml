@@ -47,6 +47,12 @@ test_cases:
     7E8076210E0000199E9
     7E803410400
 - expected_values:
-    AUDI_ODO_2: 105085
-    AUDI_ODO_V3: 105085
-  response: 7E8076210E000019A7D
+    AUDI_ODO_2: 105377
+    AUDI_ODO_V3: 105377
+  response: |-
+    7E8076210E000019BA1
+    7E803410E99
+- expected_values:
+    AUDI_ODO_2: 105381
+    AUDI_ODO_V3: 105381
+  response: 7E8076210E000019BA5

@@ -17,5 +17,15 @@ test_cases:
     7E90462210449
     7E90441422D6F
 - expected_values:
+    AUDI_ATF_T: 91
+  response: |-
+    7E90462210483
+    7E903410D3B
+- expected_values:
+    AUDI_ATF_T: 96
+  response: |-
+    7E90462210488
+    7E903410D2C
+- expected_values:
     AUDI_ATF_T: 99
   response: 7E9046221048B
