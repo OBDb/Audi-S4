@@ -8,3 +8,9 @@ test_cases:
   response: |-
     7E8056211BF0000
     7E80341077C
+- expected_values:
+    AUDI_PQ35_FUEL_P_REG: 0
+  response: |-
+    7E8056211BF0000
+    7E804410C0DF2
+    7E803410D08

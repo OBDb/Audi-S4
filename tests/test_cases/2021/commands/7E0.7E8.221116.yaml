@@ -8,3 +8,8 @@ test_cases:
   response: |-
     7E8056211167FFF
     7E8044144FFFF
+- expected_values:
+    AUDI_PQ35_COOL_FAN_1_DUTY: 100
+  response: |-
+    7E8056211167FFF
+    7E8064100BE1CA813

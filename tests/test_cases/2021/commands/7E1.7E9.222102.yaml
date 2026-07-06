@@ -12,6 +12,15 @@ test_cases:
     AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 885
   response: 7E9056221020DD4
 - expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1222
+  response: '7E9056221021318'
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1606
+  response: '7E9056221021918'
+- expected_values:
+    AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 1875
+  response: 7E9056221021D4C
+- expected_values:
     AUDI_MQB_TCM_TRANSMISSION_INPUT_SPD: 2166
   response: 7E90562210221D8
 - expected_values:
