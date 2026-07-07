@@ -185,6 +185,7 @@ supported_commands_by_ecu:
   - 0105:ECT
   - 010C:RPM
   - 010D:VSS
+  - 7E4.7EC.0105
 unsupported_commands_by_ecu:
   "70B":
   - 70B.2218A0|fc=1:AUDI_TID_1,AUDI_TID_RL,AUDI_TPS_RL,AUDI_TPW_RL,AUDI_TP_1,AUDI_TP_FR,AUDI_TP_RL,AUDI_TT_1,AUDI_TT_RL
@@ -664,7 +665,6 @@ unsupported_commands_by_ecu:
   - 7E1.7E9.227064:AUDI_MQB_TCM_ENG_TORQUE
   "7E4":
   - 7E4.7EC.0104
-  - 7E4.7EC.0105
   - 7E4.7EC.0142
   "7E5":
   - 7E5.22028C
