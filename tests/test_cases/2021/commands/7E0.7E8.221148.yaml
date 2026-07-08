@@ -20,3 +20,7 @@ test_cases:
   response: |-
     7E8056211480000
     7E803410D16
+- expected_values:
+    AUDI_MISFIRES_1000REV_C3: 1
+    AUDI_PQ35_FUEL_METER: 0.01
+  response: '7E8056211480001'
