@@ -4,8 +4,8 @@ test_cases:
     AUDI_FUEL_LEVEL_INPUT_V1: 24
   response: '7E8 05 62 14 B4 09 60 '
 - expected_values:
-    AUDI_FUEL_LEVEL_INPUT_V1: 25
-  response: 7E8056214B409C4
+    AUDI_FUEL_LEVEL_INPUT_V1: 21
+  response: 7E8056214B40834
 - expected_values:
     AUDI_FUEL_LEVEL_INPUT_V1: 46
   response: 7E8056214B411F8
