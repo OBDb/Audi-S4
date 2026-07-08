@@ -13,8 +13,8 @@ test_cases:
     AUDI_RUNTM: 1813
   response: "22F41F1\n7E8 05 62 F4 1F 07 15 "
 - expected_values:
-    AUDI_RUNTM: 556
-  response: '7E8 05 62 F4 1F 02 2C '
+    AUDI_RUNTM: 461
+  response: '7E8 05 62 F4 1F 01 CD '
 - expected_values:
     AUDI_RUNTM: 772
   response: '7E8 05 62 F4 1F 03 04 '

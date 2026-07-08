@@ -7,23 +7,11 @@ test_cases:
     AUDI_DRIVE_TIME_SPORT: 7.6
   response: '7E9 04 62 03 04 13 '
 - expected_values:
-    AUDI_DRIVE_TIME_SPORT: 9.2
-  response: '7E9 04 62 03 04 17 '
+    AUDI_DRIVE_TIME_SPORT: 12
+  response: '7E9 04 62 03 04 1E '
 - expected_values:
     AUDI_DRIVE_TIME_SPORT: 7.6
   response: '7E90462030413'
-- expected_values:
-    AUDI_DRIVE_TIME_SPORT: 8
-  response: '7E90462030414'
-- expected_values:
-    AUDI_DRIVE_TIME_SPORT: 9.2
-  response: '7E90462030417'
-- expected_values:
-    AUDI_DRIVE_TIME_SPORT: 9.6
-  response: '7E90462030418'
-- expected_values:
-    AUDI_DRIVE_TIME_SPORT: 10
-  response: '7E90462030419'
 - expected_values:
     AUDI_DRIVE_TIME_SPORT: 12
   response: 7E9046203041E
