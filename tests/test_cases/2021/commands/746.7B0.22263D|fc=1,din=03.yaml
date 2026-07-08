@@ -2,6 +2,9 @@ command_id: 746.7B0.22263D|fc=1,din=03
 test_cases:
 - expected_values:
     AUDI_PQ35_REAR_DEFL_T: 0
+  response: '7B0 05 62 26 3D 00 73 '
+- expected_values:
+    AUDI_PQ35_REAR_DEFL_T: 0
   response: 7B00562263D006E
 - expected_values:
     AUDI_PQ35_REAR_DEFL_T: 0

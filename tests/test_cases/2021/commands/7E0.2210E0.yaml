@@ -29,6 +29,10 @@ test_cases:
     AUDI_ODO_V3: 89056
   response: '7E8 07 62 10 E0 00 01 5B E0 '
 - expected_values:
+    AUDI_ODO_2: 105703
+    AUDI_ODO_V3: 105703
+  response: '7E8 07 62 10 E0 00 01 9C E7 '
+- expected_values:
     AUDI_ODO_2: 88879
     AUDI_ODO_V3: 88879
   response: 7E8076210E000015B2F

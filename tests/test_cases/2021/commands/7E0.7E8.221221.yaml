@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221221
 test_cases:
 - expected_values:
+    AUDI_PQ35_ACCEL_PED_1: 3.4
+  response: '7E8 05 62 12 21 00 11 '
+- expected_values:
     AUDI_PQ35_ACCEL_PED_1: 0
   response: '7E8056212210000'
 - expected_values:
@@ -9,15 +12,6 @@ test_cases:
     7E8056212210013
     7E803410D00
 - expected_values:
-    AUDI_PQ35_ACCEL_PED_1: 4
-  response: '7E8056212210014'
-- expected_values:
-    AUDI_PQ35_ACCEL_PED_1: 4.8
-  response: '7E8056212210018'
-- expected_values:
-    AUDI_PQ35_ACCEL_PED_1: 7.8
-  response: '7E8056212210027'
-- expected_values:
     AUDI_PQ35_ACCEL_PED_1: -19.2
   response: 7E805621221FFA0
 - expected_values:
@@ -25,9 +19,6 @@ test_cases:
   response: |-
     7E805621221FFA0
     7E80441422E04
-- expected_values:
-    AUDI_PQ35_ACCEL_PED_1: -11
-  response: 7E805621221FFC9
 - expected_values:
     AUDI_PQ35_ACCEL_PED_1: -2.4
   response: 7E805621221FFF4

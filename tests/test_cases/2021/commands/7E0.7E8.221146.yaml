@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221146
 test_cases:
 - expected_values:
+    AUDI_MISFIRES_TOTAL: 1
+  response: "7E8 05 62 11 46 00 01 \n7E8 04 41 0C 1D AC "
+- expected_values:
     AUDI_MISFIRES_TOTAL: 0
   response: '7E8056211460000'
 - expected_values:
@@ -19,6 +22,9 @@ test_cases:
 - expected_values:
     AUDI_MISFIRES_TOTAL: 2
   response: '7E8056211460002'
+- expected_values:
+    AUDI_MISFIRES_TOTAL: 3
+  response: '7E8056211460003'
 - expected_values:
     AUDI_MISFIRES_TOTAL: 4
   response: '7E8056211460004'

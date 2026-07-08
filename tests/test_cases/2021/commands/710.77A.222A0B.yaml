@@ -10,8 +10,8 @@ test_cases:
     AUDI_MQB_BAT_T: 30
   response: '77A 04 62 2A 0B 46 '
 - expected_values:
-    AUDI_MQB_BAT_T: 32
-  response: '77A 04 62 2A 0B 48 '
+    AUDI_MQB_BAT_T: 34
+  response: '77A 04 62 2A 0B 4A '
 - expected_values:
     AUDI_MQB_BAT_T: 15
   response: 77A04622A0B37

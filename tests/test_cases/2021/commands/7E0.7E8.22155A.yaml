@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.22155A
 test_cases:
 - expected_values:
+    AUDI_PQ35_ENG_TORQUE: -0.9375
+  response: '7E8 05 62 15 5A FF E2 '
+- expected_values:
     AUDI_PQ35_ENG_TORQUE: 0
   response: 7E80562155A0000
 - expected_values:

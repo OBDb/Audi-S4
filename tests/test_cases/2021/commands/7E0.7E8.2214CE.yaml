@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.2214CE
 test_cases:
 - expected_values:
+    AUDI_PQ35_POST_INJ_3_ACTIVATION_DURATION: 2.9748
+  response: '7E8 05 62 14 CE 1D 0D '
+- expected_values:
     AUDI_PQ35_POST_INJ_3_ACTIVATION_DURATION: 2.9624
   response: 7E8056214CE1CEE
+- expected_values:
+    AUDI_PQ35_POST_INJ_3_ACTIVATION_DURATION: 2.9748
+  response: 7E8056214CE1D0D
 - expected_values:
     AUDI_PQ35_POST_INJ_3_ACTIVATION_DURATION: 2.9872
   response: 7E8056214CE1D2C

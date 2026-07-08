@@ -10,11 +10,11 @@ test_cases:
     AUDI_RANGE_V2: 240
   response: "222AB6\n77A 10 0A 62 2A B6 00 F0 00 \n77A 21 F0 07 FD 01 AA AA AA "
 - expected_values:
+    AUDI_RANGE_V2: 145
+  response: "77A 10 0A 62 2A B6 00 91 00 \n77A 21 91 07 FD 01 AA AA AA "
+- expected_values:
     AUDI_RANGE_V2: 335
   response: "77A 10 0A 62 2A B6 01 4F 01 \n77A 21 4F 07 FD 01 AA AA AA "
-- expected_values:
-    AUDI_RANGE_V2: 365
-  response: "77A 10 0A 62 2A B6 01 6D 01 \n77A 21 6D 07 FD 01 AA AA AA "
 - expected_values:
     AUDI_RANGE_V2: 85
   response: |-
