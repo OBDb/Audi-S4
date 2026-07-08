@@ -10,6 +10,9 @@ test_cases:
     AUDI_VSS: 0
   response: '7E8 04 62 F4 0D 00 '
 - expected_values:
+    AUDI_VSS: 57
+  response: "7E8 04 62 F4 0D 39 \n7E8 04 41 0C 25 3E "
+- expected_values:
     AUDI_VSS: 127
   response: '7E8 04 62 F4 0D 7F '
 - expected_values:

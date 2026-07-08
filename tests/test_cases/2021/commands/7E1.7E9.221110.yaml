@@ -2,6 +2,9 @@ command_id: 7E1.7E9.221110
 test_cases:
 - expected_values:
     AUDI_PQ35_WORKING_HOURS: 372.82702
+  response: "7E9 10 0D 62 11 10 00 00 00 \n7E9 21 04 00 00 00 00 00 08 "
+- expected_values:
+    AUDI_PQ35_WORKING_HOURS: 372.82702
   response: |-
     7E9100D621110000000
     7E92104000000000007

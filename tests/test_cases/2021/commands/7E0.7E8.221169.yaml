@@ -2,6 +2,9 @@ command_id: 7E0.7E8.221169
 test_cases:
 - expected_values:
     AUDI_PQ35_FUEL_P_HIGH: 3276700
+  response: '7E8 05 62 11 69 7F FF '
+- expected_values:
+    AUDI_PQ35_FUEL_P_HIGH: 3276700
   response: 7E8056211697FFF
 - expected_values:
     AUDI_PQ35_FUEL_P_HIGH: 3276700

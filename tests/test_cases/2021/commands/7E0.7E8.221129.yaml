@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221129
 test_cases:
 - expected_values:
+    AUDI_PQ35_COMPRESSION_TEST_CYL_1: -26
+  response: "7E8 05 62 11 29 FF CC \n7E8 03 41 0D 39 \n7E8 05 62 11 F0 32 D8 "
+- expected_values:
     AUDI_PQ35_COMPRESSION_TEST_CYL_1: 0
   response: '7E8056211290000'
 - expected_values:

@@ -14,3 +14,8 @@ test_cases:
   response: |-
     7E8056211648000
     7E803411134
+- expected_values:
+    AUDI_HVBAT_SOC_DISP: 100
+  response: |-
+    7E8056211648000
+    7E804410C2C80

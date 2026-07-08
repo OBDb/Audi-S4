@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2214CB
 test_cases:
 - expected_values:
+    AUDI_GEAR_V2: 3
+  response: "7E8 04 62 14 CB 03 \n7E8 03 41 0E 5A "
+- expected_values:
     AUDI_GEAR_V2: 0
   response: 7E8046214CB00
 - expected_values:

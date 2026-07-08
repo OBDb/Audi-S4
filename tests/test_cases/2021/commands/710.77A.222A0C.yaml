@@ -9,6 +9,10 @@ test_cases:
     AUDI_SSB_SOC: 76
   response: "222A0C1\n77A 04 62 2A 0C 4C "
 - expected_values:
+    AUDI_MQB_BAT_CHG_COND: 52
+    AUDI_SSB_SOC: 52
+  response: '77A 04 62 2A 0C 34 '
+- expected_values:
     AUDI_MQB_BAT_CHG_COND: 70
     AUDI_SSB_SOC: 70
   response: '77A 04 62 2A 0C 46 '

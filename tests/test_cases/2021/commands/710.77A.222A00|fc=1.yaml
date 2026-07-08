@@ -1,6 +1,10 @@
 command_id: 710.77A.222A00|fc=1
 test_cases:
 - expected_values:
+    AUDI_MQB_GEN_TRG_V: 14.6
+    AUDI_SSB_VT: 14.6
+  response: '77A 04 62 2A 00 28 '
+- expected_values:
     AUDI_MQB_GEN_TRG_V: 10.6
     AUDI_SSB_VT: 10.6
   response: 77A04622A0000

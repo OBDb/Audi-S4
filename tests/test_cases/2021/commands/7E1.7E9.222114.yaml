@@ -2,6 +2,9 @@ command_id: 7E1.7E9.222114
 test_cases:
 - expected_values:
     AUDI_MQB_TCM_KICK_DOWN: 0
+  response: '7E9 04 62 21 14 00 '
+- expected_values:
+    AUDI_MQB_TCM_KICK_DOWN: 0
   response: |-
     7E903410548
     7E90462211400

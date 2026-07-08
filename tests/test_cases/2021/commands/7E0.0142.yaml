@@ -13,6 +13,9 @@ test_cases:
     VPWR: 14.34
   response: "01421\n7E8 04 41 42 38 04 "
 - expected_values:
+    VPWR: 13.82
+  response: '7E8 04 41 42 35 FC '
+- expected_values:
     VPWR: 13.98
   response: '7E8 04 41 42 36 9C '
 - expected_values:

@@ -14,10 +14,10 @@ test_cases:
   response: "222AB8\n77A 10 0B 62 2A B8 01 86 00 \n77A 21 00 00 00 00 00 AA AA "
 - expected_values:
     AUDI_HVBAT_KWH: 0
-  response: "77A 10 0B 62 2A B8 02 08 00 \n77A 21 00 00 00 00 00 AA AA "
+  response: "77A 10 0B 62 2A B8 00 E6 00 \n77A 21 00 00 00 00 00 AA AA "
 - expected_values:
     AUDI_HVBAT_KWH: 0
-  response: "77A 10 0B 62 2A B8 02 3A 00 \n77A 21 00 00 00 00 00 AA AA "
+  response: "77A 10 0B 62 2A B8 02 08 00 \n77A 21 00 00 00 00 00 AA AA "
 - expected_values:
     AUDI_HVBAT_KWH: 0
   response: |-

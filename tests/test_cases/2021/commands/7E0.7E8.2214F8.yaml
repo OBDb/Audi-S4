@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2214F8
 test_cases:
 - expected_values:
+    AUDI_AAT_V1: 83.78
+  response: '7E8 05 62 14 F8 0B CD '
+- expected_values:
     AUDI_AAT_V1: 56.78
   response: 7E8056214F80B37
 - expected_values:
