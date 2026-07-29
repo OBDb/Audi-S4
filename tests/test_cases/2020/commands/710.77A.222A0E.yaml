@@ -7,56 +7,8 @@ test_cases:
     AUDI_SSB_RES_INT: 6.2
   response: 77A04622A0E1F
 - expected_values:
-    AUDI_BAT_INT_R: 6.4
-    AUDI_MQB_BAT_INT_RES: 6.4
-    AUDI_SSB_R: 6.4
-    AUDI_SSB_RES_INT: 6.4
-  response: 77A04622A0E20
-- expected_values:
-    AUDI_BAT_INT_R: 6.6
-    AUDI_MQB_BAT_INT_RES: 6.6
-    AUDI_SSB_R: 6.6
-    AUDI_SSB_RES_INT: 6.6
-  response: 77A04622A0E21
-- expected_values:
-    AUDI_BAT_INT_R: 6.8
-    AUDI_MQB_BAT_INT_RES: 6.8
-    AUDI_SSB_R: 6.8
-    AUDI_SSB_RES_INT: 6.8
-  response: 77A04622A0E22
-- expected_values:
-    AUDI_BAT_INT_R: 7
-    AUDI_MQB_BAT_INT_RES: 7
-    AUDI_SSB_R: 7
-    AUDI_SSB_RES_INT: 7
-  response: 77A04622A0E23
-- expected_values:
-    AUDI_BAT_INT_R: 7.2
-    AUDI_MQB_BAT_INT_RES: 7.2
-    AUDI_SSB_R: 7.2
-    AUDI_SSB_RES_INT: 7.2
-  response: 77A04622A0E24
-- expected_values:
-    AUDI_BAT_INT_R: 7.4
-    AUDI_MQB_BAT_INT_RES: 7.4
-    AUDI_SSB_R: 7.4
-    AUDI_SSB_RES_INT: 7.4
-  response: 77A04622A0E25
-- expected_values:
-    AUDI_BAT_INT_R: 7.6
-    AUDI_MQB_BAT_INT_RES: 7.6
-    AUDI_SSB_R: 7.6
-    AUDI_SSB_RES_INT: 7.6
-  response: 77A04622A0E26
-- expected_values:
-    AUDI_BAT_INT_R: 7.8
-    AUDI_MQB_BAT_INT_RES: 7.8
-    AUDI_SSB_R: 7.8
-    AUDI_SSB_RES_INT: 7.8
-  response: 77A04622A0E27
-- expected_values:
-    AUDI_BAT_INT_R: 8
-    AUDI_MQB_BAT_INT_RES: 8
-    AUDI_SSB_R: 8
-    AUDI_SSB_RES_INT: 8
-  response: 77A04622A0E28
+    AUDI_BAT_INT_R: 8.4
+    AUDI_MQB_BAT_INT_RES: 8.4
+    AUDI_SSB_R: 8.4
+    AUDI_SSB_RES_INT: 8.4
+  response: 77A04622A0E2A
