@@ -1,12 +1,12 @@
 command_id: 714.77E.221014|din=03
 test_cases:
 - expected_values:
-    AUDI_AAT: 63
-    AUDI_DASH_AMBIENT_AIR_T: 6.5
-    AUDI_PQ35_AMB_T: 6.5
-  response: '77E0462101471'
+    AUDI_AAT: 50
+    AUDI_DASH_AMBIENT_AIR_T: 0
+    AUDI_PQ35_AMB_T: 0
+  response: '77E0462101464'
 - expected_values:
-    AUDI_AAT: 109
-    AUDI_DASH_AMBIENT_AIR_T: 29.5
-    AUDI_PQ35_AMB_T: 29.5
-  response: 77E046210149F
+    AUDI_AAT: 121
+    AUDI_DASH_AMBIENT_AIR_T: 35.5
+    AUDI_PQ35_AMB_T: 35.5
+  response: 77E04621014AB
