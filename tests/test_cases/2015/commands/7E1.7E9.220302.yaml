@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.220302
+test_cases:
+- expected_values:
+    AUDI_DRIVE_TIME: 3136
+  response: '7E9056203023100'
