@@ -1,6 +1,7 @@
 command_id: 7E0.7E8.2211F4
 test_cases:
 - expected_values:
+    AUDI_POST_INJ_1_START: 590.74
     AUDI_PQ35_POST_INJ_1_START: 590.74
   response: |-
     7E8100C6211F473615F

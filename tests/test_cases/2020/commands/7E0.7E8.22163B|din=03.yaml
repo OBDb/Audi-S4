@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22163B|din=03
+test_cases:
+- expected_values:
+    AUDI_POST_INJ_2_QTY_SPEC: 0
+    AUDI_PQ35_POST_INJ_2_QTY_SPEC: 0
+  response: 7E80562163B0000
+- expected_values:
+    AUDI_POST_INJ_2_QTY_SPEC: 2.55
+    AUDI_PQ35_POST_INJ_2_QTY_SPEC: 2.55
+  response: 7E80562163B00FF
+- expected_values:
+    AUDI_POST_INJ_2_QTY_SPEC: 23.72
+    AUDI_PQ35_POST_INJ_2_QTY_SPEC: 23.72
+  response: 7E80562163B0944

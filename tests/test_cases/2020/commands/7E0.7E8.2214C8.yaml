@@ -2,10 +2,13 @@ command_id: 7E0.7E8.2214C8
 test_cases:
 - expected_values:
     AUDI_PQ35_PRE_INJ_2_START: 0
+    AUDI_PRE_INJ_2_START: 0
   response: 7E8056214C80000
 - expected_values:
     AUDI_PQ35_PRE_INJ_2_START: 20.46
+    AUDI_PRE_INJ_2_START: 20.46
   response: 7E8056214C803FF
 - expected_values:
     AUDI_PQ35_PRE_INJ_2_START: 32.96
+    AUDI_PRE_INJ_2_START: 32.96
   response: 7E8056214C80670

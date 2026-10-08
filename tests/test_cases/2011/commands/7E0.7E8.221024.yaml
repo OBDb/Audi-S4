@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221024
+test_cases:
+- expected_values:
+    AUDI_ALTERNATOR_LOAD: 0
+  response: '7E80462102400'
+- expected_values:
+    AUDI_ALTERNATOR_LOAD: 2850
+  response: '7E80462102439'
