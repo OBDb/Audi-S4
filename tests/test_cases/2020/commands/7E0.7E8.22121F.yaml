@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22121F
+test_cases:
+- expected_values:
+    AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: 0
+  response: 7E80562121F0000
+- expected_values:
+    AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: -25700
+  response: 7E80562121FFEFF
+- expected_values:
+    AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: -25400
+  response: 7E80562121FFF02

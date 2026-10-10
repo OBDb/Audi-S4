@@ -2,13 +2,17 @@ command_id: 7E0.7E8.221135
 test_cases:
 - expected_values:
     AUDI_COOLANT_T: 5979.2
+    AUDI_EARLY_COOLANT_T: 300
   response: 7E805621135F43B
 - expected_values:
     AUDI_COOLANT_T: 5999.1
+    AUDI_EARLY_COOLANT_T: 300
   response: 7E805621135F502
 - expected_values:
     AUDI_COOLANT_T: 6070.5
+    AUDI_EARLY_COOLANT_T: 300
   response: 7E805621135F7CC
 - expected_values:
     AUDI_COOLANT_T: 6179.1
+    AUDI_EARLY_COOLANT_T: 300
   response: 7E805621135FC0A

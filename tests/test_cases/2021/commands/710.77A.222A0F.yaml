@@ -1,20 +1,20 @@
 command_id: 710.77A.222A0F
 test_cases:
 - expected_values:
-    AUDI_SSB_AH: 34
+    AUDI_USE_BAT_CHG: 34
   response: "222A0F1\n77A 04 62 2A 0F 22 "
 - expected_values:
-    AUDI_SSB_AH: 38
+    AUDI_USE_BAT_CHG: 38
   response: "222A0F1\n77A 04 62 2A 0F 26 "
 - expected_values:
-    AUDI_SSB_AH: 28
+    AUDI_USE_BAT_CHG: 28
   response: '77A 04 62 2A 0F 1C '
 - expected_values:
-    AUDI_SSB_AH: 35
+    AUDI_USE_BAT_CHG: 35
   response: '77A 04 62 2A 0F 23 '
 - expected_values:
-    AUDI_SSB_AH: 0
+    AUDI_USE_BAT_CHG: 0
   response: 77A04622A0F00
 - expected_values:
-    AUDI_SSB_AH: 55
+    AUDI_USE_BAT_CHG: 55
   response: 77A04622A0F37

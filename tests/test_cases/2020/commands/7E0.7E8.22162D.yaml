@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22162D
 test_cases:
 - expected_values:
+    AUDI_FUEL_T_7E0: 10.9
     AUDI_PQ35_FUEL_T: 10.9
   response: 7E80562162D0B18
 - expected_values:
+    AUDI_FUEL_T_7E0: 34
     AUDI_PQ35_FUEL_T: 34
   response: 7E80562162D0BFF
 - expected_values:
+    AUDI_FUEL_T_7E0: 34.1
     AUDI_PQ35_FUEL_T: 34.1
   response: 7E80562162D0C00

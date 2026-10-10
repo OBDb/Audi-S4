@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.2216A9|din=03
+test_cases:
+- expected_values:
+    AUDI_ODO_MILEAGE: 182568
+    AUDI_PQ35_ODO_2: 182568
+  response: 7E8076216A90002C928
+- expected_values:
+    AUDI_ODO_MILEAGE: 183039
+    AUDI_PQ35_ODO_2: 183039
+  response: 7E8076216A90002CAFF
+- expected_values:
+    AUDI_ODO_MILEAGE: 189184
+    AUDI_PQ35_ODO_2: 189184
+  response: 7E8076216A90002E300
+- expected_values:
+    AUDI_ODO_MILEAGE: 192061
+    AUDI_PQ35_ODO_2: 192061
+  response: 7E8076216A90002EE3D

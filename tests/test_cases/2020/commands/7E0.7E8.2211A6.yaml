@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.2211A6
 test_cases:
 - expected_values:
+    AUDI_LIM_ACCEL_PEDAL: 0
     AUDI_PQ35_LIM_ACCEL_PED: 0
   response: 7E8056211A60000
 - expected_values:
+    AUDI_LIM_ACCEL_PEDAL: 179
     AUDI_PQ35_LIM_ACCEL_PED: 179
   response: 7E8056211A606FE
 - expected_values:
+    AUDI_LIM_ACCEL_PEDAL: 521.5
     AUDI_PQ35_LIM_ACCEL_PED: 521.5
   response: 7E8056211A6145F

@@ -1,0 +1,5 @@
+command_id: 713.222B1D
+test_cases:
+- expected_values:
+    AUDI_TIRE_RL_SPD_V2: 216
+  response: '77D 05 62 2B 1D 08 70 '

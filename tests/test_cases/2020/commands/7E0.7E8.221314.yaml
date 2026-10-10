@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.221314
 test_cases:
 - expected_values:
+    AUDI_LOW_PRESS_EGR: 29.98047
     AUDI_PQ35_MEAN_AIR_MASS: 76.75
   response: '7E8056213140998'
 - expected_values:
+    AUDI_LOW_PRESS_EGR: 59.36279
     AUDI_PQ35_MEAN_AIR_MASS: 151.96875
   response: 7E80562131412FF
 - expected_values:
+    AUDI_LOW_PRESS_EGR: 100
     AUDI_PQ35_MEAN_AIR_MASS: 256
   response: '7E8056213142000'

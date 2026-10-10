@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22121E
+test_cases:
+- expected_values:
+    AUDI_SPEC_VALUE_RAIL_P: 468800
+  response: 7E80562121E1250
+- expected_values:
+    AUDI_SPEC_VALUE_RAIL_P: 468900
+  response: 7E80562121E1251
+- expected_values:
+    AUDI_SPEC_VALUE_RAIL_P: 469000
+  response: 7E80562121E1252
+- expected_values:
+    AUDI_SPEC_VALUE_RAIL_P: 469100
+  response: 7E80562121E1253
+- expected_values:
+    AUDI_SPEC_VALUE_RAIL_P: 469200
+  response: 7E80562121E1254
+- expected_values:
+    AUDI_SPEC_VALUE_RAIL_P: 469300
+  response: 7E80562121E1255
+- expected_values:
+    AUDI_SPEC_VALUE_RAIL_P: 469400
+  response: 7E80562121E1256
+- expected_values:
+    AUDI_SPEC_VALUE_RAIL_P: 469600
+  response: 7E80562121E1258
+- expected_values:
+    AUDI_SPEC_VALUE_RAIL_P: 470400
+  response: 7E80562121E1260
+- expected_values:
+    AUDI_SPEC_VALUE_RAIL_P: 470900
+  response: 7E80562121E1265

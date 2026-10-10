@@ -1,17 +1,22 @@
 command_id: 746.7B0.22263D|fc=1,din=03
 test_cases:
 - expected_values:
+    AUDI_CLIMATE_RR_DEFL_T: 0
     AUDI_PQ35_REAR_DEFL_T: 0
   response: '7B0 05 62 26 3D 00 73 '
 - expected_values:
+    AUDI_CLIMATE_RR_DEFL_T: 0
     AUDI_PQ35_REAR_DEFL_T: 0
   response: 7B00562263D006E
 - expected_values:
+    AUDI_CLIMATE_RR_DEFL_T: 0
     AUDI_PQ35_REAR_DEFL_T: 0
   response: 7B00562263D00FA
 - expected_values:
+    AUDI_CLIMATE_RR_DEFL_T: 0.33333
     AUDI_PQ35_REAR_DEFL_T: 0.333
   response: 7B00562263D0104
 - expected_values:
+    AUDI_CLIMATE_RR_DEFL_T: 5
     AUDI_PQ35_REAR_DEFL_T: 4.995
   response: 7B00562263D0FA0

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22121F
+test_cases:
+- expected_values:
+    AUDI_HIGH_FUEL_P_CONTROL_DEVIATION: 840700
+  response: 7E80562121F20D7
