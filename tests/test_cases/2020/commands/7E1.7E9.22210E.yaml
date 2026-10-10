@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22210E
+test_cases:
+- expected_values:
+    AUDI_DRIVING_POS: 6
+  response: 7E90462210E06

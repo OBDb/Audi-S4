@@ -1,0 +1,8 @@
+command_id: 710.77A.22123A|fc=1
+test_cases:
+- expected_values:
+    AUDI_BZE_Q_ELAD: 19877.1
+    AUDI_BZE_Q_LAD: 20577.6
+  response: |-
+    77A100B62123A000323
+    77A21D000030873AAAA

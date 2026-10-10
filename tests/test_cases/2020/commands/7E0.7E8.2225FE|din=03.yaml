@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2225FE|din=03
+test_cases:
+- expected_values:
+    AUDI_ODO_READING_DPF: 609
+  response: 7E8076225FE00000261

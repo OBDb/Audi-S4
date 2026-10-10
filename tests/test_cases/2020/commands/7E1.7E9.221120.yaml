@@ -1,0 +1,7 @@
+command_id: 7E1.7E9.221120
+test_cases:
+- expected_values:
+    AUDI_CLU_1_LO_ADPT_POINT: 0
+  response: |-
+    7E91009621120000000
+    7E92100000000000000

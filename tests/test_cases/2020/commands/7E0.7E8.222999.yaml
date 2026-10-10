@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.222999
+test_cases:
+- expected_values:
+    AUDI_AUTOMATIC_ENG_STARTS: 0
+  response: '7E8056229990000'

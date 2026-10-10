@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22708F
+test_cases:
+- expected_values:
+    AUDI_ADPT_CNT_FAST_FILL_C: 86
+  response: 7E90462708F56

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221013
+test_cases:
+- expected_values:
+    AUDI_CURRENT_TYPE_DRIVER: 2
+  response: '7E9056210130002'

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221029
+test_cases:
+- expected_values:
+    AUDI_APP_REDUCE_V: 0
+  response: '7E8056210290000'
+- expected_values:
+    AUDI_APP_REDUCE_V: 643.4
+  response: 7E8056210290C91

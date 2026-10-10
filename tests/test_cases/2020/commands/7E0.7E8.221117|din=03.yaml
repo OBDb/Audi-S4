@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221117|din=03
+test_cases:
+- expected_values:
+    AUDI_CLT_FAN_1_ACTIVATION_1117: 10.54
+  response: 7E805621117041E

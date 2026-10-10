@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22211A
+test_cases:
+- expected_values:
+    AUDI_MAX_PERMISSIBLE_ENG: 761
+  response: 7E90562211A02F9

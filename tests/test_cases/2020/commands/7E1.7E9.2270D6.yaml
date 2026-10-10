@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2270D6
+test_cases:
+- expected_values:
+    AUDI_AUX_HYDRAULIC_PMP_RPM: 0
+  response: 7E9046270D600

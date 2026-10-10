@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.221231
+test_cases:
+- expected_values:
+    AUDI_MIN_OIL_LEVEL: 262.032
+    AUDI_WIV_MIN_OIL_LEVEL: 262
+  response: 7E805621231FFE4

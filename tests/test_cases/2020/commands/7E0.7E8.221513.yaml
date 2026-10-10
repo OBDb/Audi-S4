@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221513
+test_cases:
+- expected_values:
+    AUDI_ECT_LINEAR: -48
+  response: '7E8056215130000'

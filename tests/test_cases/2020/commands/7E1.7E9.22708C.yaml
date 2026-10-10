@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22708C
+test_cases:
+- expected_values:
+    AUDI_FILL_P_CLU_C: 120
+  response: 7E90462708C0C

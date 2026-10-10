@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.221230
+test_cases:
+- expected_values:
+    AUDI_MAX_OIL_LEVEL: 1.872
+    AUDI_WIV_MAX_OIL_LEVEL: 1.872
+  response: 7E80562123001D4

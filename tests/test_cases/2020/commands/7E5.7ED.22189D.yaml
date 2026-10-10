@@ -1,0 +1,6 @@
+command_id: 7E5.7ED.22189D
+test_cases:
+- expected_values:
+    AUDI_HVBAT_INLET_T: 18
+    AUDI_HVBAT_OUTLET_T: 20
+  response: 7ED0562189D7876

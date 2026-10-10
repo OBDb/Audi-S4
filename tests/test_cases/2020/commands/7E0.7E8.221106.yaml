@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221106
+test_cases:
+- expected_values:
+    AUDI_INJ_AMOUNT_DEV_CYL_2: 0.05
+  response: '7E8056211060005'
+- expected_values:
+    AUDI_INJ_AMOUNT_DEV_CYL_2: 0.23
+  response: '7E8056211060017'

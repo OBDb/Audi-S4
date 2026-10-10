@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2210E1
+test_cases:
+- expected_values:
+    AUDI_INJ_5_RAIL_P_3: 0.0052
+    AUDI_OPEN_CAM_ANG_QTY: 10.4
+  response: 7E8056210E10068

@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2213F4|fc=1
+test_cases:
+- expected_values:
+    AUDI_IGA_CYL_KNK_2: -36
+    AUDI_KNOCK_RETARD_CYL_3: -36
+  response: 7E8056213F42000

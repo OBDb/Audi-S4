@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221181|din=03
+test_cases:
+- expected_values:
+    AUDI_CHG_ADJUSTER_OUTPUT: 0.82
+  response: '7E8056211810052'

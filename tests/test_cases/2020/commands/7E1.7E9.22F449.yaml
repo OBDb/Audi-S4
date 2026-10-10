@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22F449
+test_cases:
+- expected_values:
+    AUDI_ACCEL_PEDAL_POS_7E1: 22.7451
+  response: 7E90462F4493A

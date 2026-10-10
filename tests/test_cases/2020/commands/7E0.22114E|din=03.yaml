@@ -1,8 +1,8 @@
 command_id: 7E0.22114E|din=03
 test_cases:
 - expected_values:
-    AUDI_PQ35_SOOT_MASS_MEAS: 1.54
-  response: 7E80562114E009A
+    AUDI_PQ35_SOOT_MASS_MEAS: 1.17
+  response: 7E80562114E0075
 - expected_values:
     AUDI_PQ35_SOOT_MASS_MEAS: 2.53
   response: 7E80562114E00FD

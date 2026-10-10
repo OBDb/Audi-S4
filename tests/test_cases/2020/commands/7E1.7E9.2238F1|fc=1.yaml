@@ -1,0 +1,7 @@
+command_id: 7E1.7E9.2238F1|fc=1
+test_cases:
+- expected_values:
+    AUDI_LAUNCH_CTRL_CNT: 0
+  response: |-
+    7E910096238F1000000
+    7E92100000000000000

@@ -1,0 +1,5 @@
+command_id: 710.77A.222A18|fc=1
+test_cases:
+- expected_values:
+    AUDI_ENTIRE_ENERGY: 19878.2
+  response: 77A06622A1803087E

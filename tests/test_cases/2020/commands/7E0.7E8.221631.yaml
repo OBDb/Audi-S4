@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221631
+test_cases:
+- expected_values:
+    AUDI_PRE_INJ_3_START: 8.89906
+  response: '7E8056216310195'
+- expected_values:
+    AUDI_PRE_INJ_3_START: 15.51294
+  response: 7E80562163102C2

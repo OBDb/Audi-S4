@@ -13,11 +13,11 @@ test_cases:
     AUDI_PQ46_OIL_T_2: 300
   response: 7E8056211BE0BFE
 - expected_values:
-    AUDI_EOT: 3336
-    AUDI_EOT_V2: 60.5
-    AUDI_PQ35_OIL_T_2: 60.5
+    AUDI_EOT: 3332
+    AUDI_EOT_V2: 60.1
+    AUDI_PQ35_OIL_T_2: 60.1
     AUDI_PQ46_OIL_T_2: 300
-  response: 7E8056211BE0D08
+  response: 7E8056211BE0D04
 - expected_values:
     AUDI_EOT: 3594
     AUDI_EOT_V2: 86.3

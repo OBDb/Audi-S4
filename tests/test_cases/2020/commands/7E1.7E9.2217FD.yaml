@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2217FD
+test_cases:
+- expected_values:
+    AUDI_CLU_OVERHEATING_CLU: 0
+  response: 7E9046217FD00

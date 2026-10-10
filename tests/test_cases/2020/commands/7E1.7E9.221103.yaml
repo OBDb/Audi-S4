@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221103
+test_cases:
+- expected_values:
+    AUDI_ADPT_CNT_PF_LOCKUP: 0
+  response: '7E9056211030000'

@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221024
+test_cases:
+- expected_values:
+    AUDI_CURRENT_N215_P_CTRL_1: 850
+  response: '7E9056210242134'

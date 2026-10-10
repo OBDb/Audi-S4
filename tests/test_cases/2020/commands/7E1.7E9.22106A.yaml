@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22106A
+test_cases:
+- expected_values:
+    AUDI_RESERVE_TQ: 0
+  response: 7E90562106A0000

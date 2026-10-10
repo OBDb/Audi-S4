@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222108
+test_cases:
+- expected_values:
+    AUDI_DRIVING_RES_INDEX: -4
+  response: 7E9046221087C

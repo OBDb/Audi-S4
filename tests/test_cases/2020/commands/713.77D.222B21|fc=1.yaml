@@ -1,0 +1,8 @@
+command_id: 713.77D.222B21|fc=1
+test_cases:
+- expected_values:
+    AUDI_BRAKE_P_V2: 11.70455
+    AUDI_BREAK_P: 11.70455
+  response: |-
+    77D1009622B210DD7FF
+    77D21FEFFFE00000000

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2225D0
+test_cases:
+- expected_values:
+    AUDI_OIL_P_CTRL_VLV: 46.88
+  response: 7E8056225D01250
+- expected_values:
+    AUDI_OIL_P_CTRL_VLV: 50.32
+  response: 7E8056225D013A8

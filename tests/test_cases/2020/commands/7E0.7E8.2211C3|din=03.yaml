@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211C3|din=03
+test_cases:
+- expected_values:
+    AUDI_SERVICE_REGEN: 0
+  response: 7E8076211C300000000

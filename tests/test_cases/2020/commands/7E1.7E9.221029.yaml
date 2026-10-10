@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221029
+test_cases:
+- expected_values:
+    AUDI_CURRENT_N371_P_CTRL_6: 358.8
+  response: 7E9056210290E04

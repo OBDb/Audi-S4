@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22708E
+test_cases:
+- expected_values:
+    AUDI_FAST_FILL_TIME_CLU_C: 28
+  response: 7E90462708E0E

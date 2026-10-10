@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2210E6|fc=1
+test_cases:
+- expected_values:
+    AUDI_EOT_V3: -45
+    AUDI_KNOCK_RETARD_2: 11.25
+  response: 7E8056210E60F49

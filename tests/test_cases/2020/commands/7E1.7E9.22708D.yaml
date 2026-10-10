@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22708D
+test_cases:
+- expected_values:
+    AUDI_ADPT_CNT_CLU_C: 85
+  response: 7E90462708D55

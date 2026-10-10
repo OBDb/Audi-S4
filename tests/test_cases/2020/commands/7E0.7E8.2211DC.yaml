@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2211DC
+test_cases:
+- expected_values:
+    AUDI_INT_MANIFOLD_P_RAW: 0
+    AUDI_MAP_RAW: 0
+  response: 7E8056211DC0000

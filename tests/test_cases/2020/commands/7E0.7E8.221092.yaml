@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221092
+test_cases:
+- expected_values:
+    AUDI_CAM_SPD_V2: 792.25
+  response: 7E8056210920C61
+- expected_values:
+    AUDI_CAM_SPD_V2: 800.25
+  response: 7E8056210920C81

@@ -1,0 +1,5 @@
+command_id: 713.77D.222005|fc=1
+test_cases:
+- expected_values:
+    AUDI_P_BRAKE_SERVO_UNIT: -840.375
+  response: 77D05622005CB7A

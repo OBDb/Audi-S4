@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221A6C|din=03
+test_cases:
+- expected_values:
+    AUDI_REDUCING_AGENT_TANK_ACT: 22.824
+  response: 7E805621A6C2C94

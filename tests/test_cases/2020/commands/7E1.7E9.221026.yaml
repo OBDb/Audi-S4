@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221026
+test_cases:
+- expected_values:
+    AUDI_CURRENT_N216_P_CTRL_2: 850
+  response: '7E9056210262134'

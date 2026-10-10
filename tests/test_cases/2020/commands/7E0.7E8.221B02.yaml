@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221B02
+test_cases:
+- expected_values:
+    AUDI_OIL_P_SENS_RAW: 687
+  response: 7E805621B0202AF
+- expected_values:
+    AUDI_OIL_P_SENS_RAW: 1200
+  response: 7E805621B0204B0

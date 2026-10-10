@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.22105A|fc=1,c=17
+test_cases:
+- expected_values:
+    AUDI_BATTERY_V: 2840
+    AUDI_BAT_V: 56.8
+    AUDI_BAT_V_PRE19: 56.8
+  response: 7E80562105A0B18

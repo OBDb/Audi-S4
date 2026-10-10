@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22282C
+test_cases:
+- expected_values:
+    AUDI_ROUTE_DATA_ACTIVE: 1
+  response: 7E90462282C01
