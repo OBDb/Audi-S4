@@ -1,0 +1,5 @@
+command_id: 70E.778.222607|fc=1,din=03
+test_cases:
+- expected_values:
+    AUDI_CLT_FAN_ACTIVATION_SPEC: 0
+  response: '778056226070000'

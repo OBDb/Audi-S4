@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2218C0
+test_cases:
+- expected_values:
+    AUDI_DPF_SOOT_VOLUME_EXH_M_3: 5.96
+  response: 7E8056218C00254
+- expected_values:
+    AUDI_DPF_SOOT_VOLUME_EXH_M_3: 6.21
+  response: 7E8056218C0026D

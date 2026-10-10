@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221B0E|din=03
+test_cases:
+- expected_values:
+    AUDI_CHG_AIR_P_ACT_V3: 921.95312
+  response: 7E805621B0E2E19

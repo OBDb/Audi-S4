@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2210D5
+test_cases:
+- expected_values:
+    AUDI_INJ_5_RAIL_P_1: -0.0076
+    AUDI_LAMBDA_ACT: -0.03711
+  response: 7E8056210D5FF68

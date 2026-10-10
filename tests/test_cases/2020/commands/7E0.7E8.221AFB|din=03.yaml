@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221AFB|din=03
+test_cases:
+- expected_values:
+    AUDI_OIL_LEVEL_METHOD_3: 89.2
+  response: 7E805621AFB037C

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2216ED
+test_cases:
+- expected_values:
+    AUDI_CHG_P_REGULATOR_HI: -10.6
+  response: 7E8056216EDFFCB
+- expected_values:
+    AUDI_CHG_P_REGULATOR_HI: -9
+  response: 7E8056216EDFFD3

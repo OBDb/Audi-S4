@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2210D4
+test_cases:
+- expected_values:
+    AUDI_INJ_2_RAIL_P_1: 0.0048
+  response: 7E8056210D40060

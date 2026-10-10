@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2218CC|din=03
+test_cases:
+- expected_values:
+    AUDI_REDUCING_AGENT_PMP: 0
+  response: 7E8056218CC0000

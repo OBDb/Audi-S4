@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22137C|din=03
+test_cases:
+- expected_values:
+    AUDI_DPF_REGEN_CANCEL: 0
+  response: 7E80562137C0000

@@ -1,0 +1,5 @@
+command_id: 70E.778.222613|fc=1,din=03
+test_cases:
+- expected_values:
+    AUDI_INSIDE_T: -26.7
+  response: '7780562261300E9'

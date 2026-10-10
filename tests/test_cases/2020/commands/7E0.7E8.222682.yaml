@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.222682
+test_cases:
+- expected_values:
+    AUDI_CLT_SHUT_OFF_VLV: 5
+  response: 7E805622682057E
+- expected_values:
+    AUDI_CLT_SHUT_OFF_VLV: 5
+  response: '7E8056226820596'

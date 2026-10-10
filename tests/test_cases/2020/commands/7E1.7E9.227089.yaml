@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.227089
+test_cases:
+- expected_values:
+    AUDI_ADPT_CNT_CLU_B: 31
+  response: 7E9046270891F

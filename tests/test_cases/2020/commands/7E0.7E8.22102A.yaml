@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22102A
+test_cases:
+- expected_values:
+    AUDI_ACCEL_PEDAL_SENS_1_V: 0
+  response: 7E80562102A0000

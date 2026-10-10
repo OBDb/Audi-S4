@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2213F9|fc=1
+test_cases:
+- expected_values:
+    AUDI_KNOCK_SENS_V_CYL_4: 0
+    AUDI_NL_PRE_3: 0
+  response: 7E8056213F90000

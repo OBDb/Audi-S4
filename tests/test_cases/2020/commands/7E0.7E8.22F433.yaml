@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F433
+test_cases:
+- expected_values:
+    AUDI_BARO: 90
+  response: 7E80462F4335A
+- expected_values:
+    AUDI_BARO: 92
+  response: 7E80462F4335C

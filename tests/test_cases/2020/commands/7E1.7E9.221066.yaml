@@ -1,0 +1,6 @@
+command_id: 7E1.7E9.221066
+test_cases:
+- expected_values:
+    AUDI_ANALYSIS_CLU_1_T_1: 593.94
+    AUDI_STATIC_TQ_LIM: 372
+  response: '7E9056210660174'

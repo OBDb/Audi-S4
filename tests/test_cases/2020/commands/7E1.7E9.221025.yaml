@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221025
+test_cases:
+- expected_values:
+    AUDI_CURRENT_N218_P_CTRL_4: 50
+  response: 7E90562102501F4

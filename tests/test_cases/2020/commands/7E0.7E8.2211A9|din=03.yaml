@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2211A9|din=03
+test_cases:
+- expected_values:
+    AUDI_HIGH_P_EGR_ACTUATOR_ACT_V: 2533.4
+  response: 7E8056211A9317B

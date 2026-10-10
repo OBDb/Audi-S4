@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2214F9|fc=1,c=17
+test_cases:
+- expected_values:
+    AUDI_MAIN_CAT_AGING: 0.04295
+    AUDI_MAIN_CAT_OSC_AGE_CORRECTION_FACTOR: 0.42954
+  response: 7E8056214F936FB

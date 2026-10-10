@@ -1,0 +1,12 @@
+command_id: 7E0.7E8.22F44A
+test_cases:
+- expected_values:
+    AUDI_ACCEL_PEDAL_POS_2: 17.2549
+    AUDI_ACCEL_POS_2: 17.2549
+    AUDI_APP2: 17.2549
+  response: 7E80462F44A2C
+- expected_values:
+    AUDI_ACCEL_PEDAL_POS_2: 36.07843
+    AUDI_ACCEL_POS_2: 36.07843
+    AUDI_APP2: 36.07843
+  response: 7E80462F44A5C

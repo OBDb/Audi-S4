@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222130
+test_cases:
+- expected_values:
+    AUDI_TQ_CONV: 1
+  response: '7E90462213064'

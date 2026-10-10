@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22103A
+test_cases:
+- expected_values:
+    AUDI_TIME_AFTERRUN: 0
+  response: 7E90562103A0000

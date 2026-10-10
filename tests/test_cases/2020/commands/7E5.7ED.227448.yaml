@@ -1,0 +1,5 @@
+command_id: 7E5.7ED.227448
+test_cases:
+- expected_values:
+    AUDI_HVBAT_MODE_0_STANDBY_1_2_3_4_5_6_7: 1
+  response: 7ED0462744801

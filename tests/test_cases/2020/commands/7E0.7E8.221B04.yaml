@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221B04
+test_cases:
+- expected_values:
+    AUDI_OIL_P_ACT_7E0_2_V2: 2541
+  response: 7E805621B0409ED
+- expected_values:
+    AUDI_OIL_P_ACT_7E0_2_V2: 2782
+  response: 7E805621B040ADE

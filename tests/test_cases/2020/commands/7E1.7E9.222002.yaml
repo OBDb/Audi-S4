@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.222002
+test_cases:
+- expected_values:
+    AUDI_ENG_TQ_7E1: 65480
+  response: 7E905622002FFC8

@@ -1,0 +1,5 @@
+command_id: 7E5.7ED.222A0B
+test_cases:
+- expected_values:
+    AUDI_HVBAT_T: 19
+  response: 7ED04622A0B77

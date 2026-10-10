@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2213FA|fc=1
+test_cases:
+- expected_values:
+    AUDI_KNOCK_SENS_V_CYL_3_7E0: 0.01678
+  response: 7E8056213FA00DC

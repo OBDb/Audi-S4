@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2211EF
+test_cases:
+- expected_values:
+    AUDI_P_BEFORE_THROTTLE: 149.76557
+  response: 7E8056211EF0EFA
+- expected_values:
+    AUDI_P_BEFORE_THROTTLE: 202.69524
+  response: 7E8056211EF1445

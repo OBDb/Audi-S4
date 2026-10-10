@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221093
+test_cases:
+- expected_values:
+    AUDI_CAM_ADPT_INT_PHASE: 62.35857
+  response: 7E8056210930B16

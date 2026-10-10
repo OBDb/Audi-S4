@@ -1,0 +1,6 @@
+command_id: 7E1.7E9.2270D1
+test_cases:
+- expected_values:
+    AUDI_SHIFT_PROCCESS: 7
+    AUDI_SHIFT_PROCCESS_TGT: 7
+  response: 7E9056270D10707

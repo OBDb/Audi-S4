@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221027
+test_cases:
+- expected_values:
+    AUDI_CURRENT_N233_P_CTRL_5: 50
+  response: 7E90562102701F4

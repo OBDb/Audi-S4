@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.22210D
+test_cases:
+- expected_values:
+    AUDI_DRIVING_MODE_SENS: 64
+  response: 7E90562210D0040

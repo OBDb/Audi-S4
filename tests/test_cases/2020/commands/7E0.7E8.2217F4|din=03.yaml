@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2217F4|din=03
+test_cases:
+- expected_values:
+    AUDI_LOW_P_EGR_CLOSING: 99.97559
+  response: 7E8056217F40002

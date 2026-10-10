@@ -1,0 +1,7 @@
+command_id: 70E.778.225036|fc=1,din=03
+test_cases:
+- expected_values:
+    AUDI_HUMIDITY_SENS_REL: 66.825
+  response: |-
+    778100C625036006400
+    778218701B801F200AA

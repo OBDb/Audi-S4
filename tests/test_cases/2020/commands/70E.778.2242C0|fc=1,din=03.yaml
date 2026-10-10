@@ -1,0 +1,5 @@
+command_id: 70E.778.2242C0|fc=1,din=03
+test_cases:
+- expected_values:
+    AUDI_RIGHT_REAR_HI_AIR_T: 4045
+  response: 778076242C0FFFFFFFF

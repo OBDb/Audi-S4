@@ -1,0 +1,6 @@
+command_id: 7E1.7E9.221065
+test_cases:
+- expected_values:
+    AUDI_CLU_1_T_TIME_RANGE_0: 286.72
+    AUDI_FRICTION_TQ: 56
+  response: '7E9056210650038'
