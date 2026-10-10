@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.221047
 test_cases:
 - expected_values:
+    AUDI_ENG_TQ_7E0: 0
     AUDI_PQ35_ENG_TRQ: 0
   response: '7E8056210470000'
 - expected_values:
+    AUDI_ENG_TQ_7E0: 179.1
     AUDI_PQ35_ENG_TRQ: 179.1
   response: 7E80562104706FF
 - expected_values:
+    AUDI_ENG_TQ_7E0: 527.3
     AUDI_PQ35_ENG_TRQ: 527.3
   response: '7E8056210471499'

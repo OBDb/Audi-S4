@@ -1,0 +1,62 @@
+command_id: 7E0.7E8.2210E0|t=96
+test_cases:
+- expected_values:
+    AUDI_ODO: 90363
+    AUDI_ODO_V3: 90363
+  response: "2210E01\n7E8 07 62 10 E0 00 01 60 FB "
+- expected_values:
+    AUDI_ODO: 90367
+    AUDI_ODO_V3: 90367
+  response: "2210E01\n7E8 07 62 10 E0 00 01 60 FF "
+- expected_values:
+    AUDI_ODO: 90368
+    AUDI_ODO_V3: 90368
+  response: "2210E01\n7E8 07 62 10 E0 00 01 61 00 "
+- expected_values:
+    AUDI_ODO: 88887
+    AUDI_ODO_V3: 88887
+  response: '7E8 07 62 10 E0 00 01 5B 37 '
+- expected_values:
+    AUDI_ODO: 89039
+    AUDI_ODO_V3: 89039
+  response: '7E8 07 62 10 E0 00 01 5B CF '
+- expected_values:
+    AUDI_ODO: 89040
+    AUDI_ODO_V3: 89040
+  response: '7E8 07 62 10 E0 00 01 5B D0 '
+- expected_values:
+    AUDI_ODO: 89056
+    AUDI_ODO_V3: 89056
+  response: '7E8 07 62 10 E0 00 01 5B E0 '
+- expected_values:
+    AUDI_ODO: 105703
+    AUDI_ODO_V3: 105703
+  response: '7E8 07 62 10 E0 00 01 9C E7 '
+- expected_values:
+    AUDI_ODO: 88879
+    AUDI_ODO_V3: 88879
+  response: 7E8076210E000015B2F
+- expected_values:
+    AUDI_ODO: 89343
+    AUDI_ODO_V3: 89343
+  response: 7E8076210E000015CFF
+- expected_values:
+    AUDI_ODO: 89344
+    AUDI_ODO_V3: 89344
+  response: 7E8076210E000015D00
+- expected_values:
+    AUDI_ODO: 104937
+    AUDI_ODO_V3: 104937
+  response: |-
+    7E8076210E0000199E9
+    7E803410400
+- expected_values:
+    AUDI_ODO: 105377
+    AUDI_ODO_V3: 105377
+  response: |-
+    7E8076210E000019BA1
+    7E803410E99
+- expected_values:
+    AUDI_ODO: 105732
+    AUDI_ODO_V3: 105732
+  response: 7E8076210E000019D04

@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.221164
+test_cases:
+- expected_values:
+    AUDI_HVBAT_SOC_DISP: 0
+    AUDI_PQ35_SRV_REGEN_DUR: 0
+    AUDI_SRV_REGEN_VALUE_2012: 0
+  response: '7E80762116400000000'

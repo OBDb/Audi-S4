@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.22105C|din=03
+test_cases:
+- expected_values:
+    AUDI_BRAKE_P: 0
+    AUDI_PQ35_GEN_LOAD: 0
+  response: 7E80562105C0000

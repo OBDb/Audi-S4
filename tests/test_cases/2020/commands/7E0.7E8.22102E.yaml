@@ -1,14 +1,18 @@
 command_id: 7E0.7E8.22102E
 test_cases:
 - expected_values:
+    AUDI_ACCEL_PEDAL_SENS_2: 374.6
     AUDI_PQ35_ACCEL_PED_2: 374.6
   response: 7E80562102E0751
 - expected_values:
+    AUDI_ACCEL_PEDAL_SENS_2: 562.6
     AUDI_PQ35_ACCEL_PED_2: 562.6
   response: 7E80562102E0AFD
 - expected_values:
+    AUDI_ACCEL_PEDAL_SENS_2: 921.6
     AUDI_PQ35_ACCEL_PED_2: 921.6
   response: 7E80562102E1200
 - expected_values:
+    AUDI_ACCEL_PEDAL_SENS_2: 1241.4
     AUDI_PQ35_ACCEL_PED_2: 1241.4
   response: 7E80562102E183F

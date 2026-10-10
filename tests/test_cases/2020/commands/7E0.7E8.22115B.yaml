@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22115B
+test_cases:
+- expected_values:
+    AUDI_PARTICLE_FLT_FIELD: 0
+  response: 7E80462115B00
+- expected_values:
+    AUDI_PARTICLE_FLT_FIELD: 8
+  response: 7E80462115B08
