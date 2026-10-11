@@ -1,0 +1,7 @@
+command_id: 7E1.7E9.221124|fc=1
+test_cases:
+- expected_values:
+    S4_CLU_1_HI_ADPT_POINT: 0.837
+  response: |-
+    7E9100D621124034511
+    7E9212706FC665D3808

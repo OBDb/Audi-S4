@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2213F9
+test_cases:
+- expected_values:
+    S4_NL_PRE_3: 0
+  response: 7E8056213F90000

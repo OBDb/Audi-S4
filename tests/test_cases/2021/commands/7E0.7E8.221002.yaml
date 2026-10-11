@@ -1,31 +1,31 @@
 command_id: 7E0.7E8.221002
 test_cases:
 - expected_values:
-    AUDI_AC_COMP_T: 6.5
+    S4_AC_COMP_T: 6.5
   response: '7E8 05 62 10 02 00 41 '
 - expected_values:
-    AUDI_AC_COMP_T: 0
+    S4_AC_COMP_T: 0
   response: '7E8056210020000'
 - expected_values:
-    AUDI_AC_COMP_T: 0
+    S4_AC_COMP_T: 0
   response: |-
     7E8056210020000
     7E803410400
 - expected_values:
-    AUDI_AC_COMP_T: 0
+    S4_AC_COMP_T: 0
   response: |-
     7E8056210020000
     7E804410C0000
 - expected_values:
-    AUDI_AC_COMP_T: 0
+    S4_AC_COMP_T: 0
   response: |-
     7E8056210020000
     7E80441422D78
 - expected_values:
-    AUDI_AC_COMP_T: 9.7
+    S4_AC_COMP_T: 9.7
   response: |-
     7E8056210020061
     7E8056211F03332
 - expected_values:
-    AUDI_AC_COMP_T: 18.8
+    S4_AC_COMP_T: 18.8
   response: 7E80562100200BC

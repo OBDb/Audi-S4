@@ -1,27 +1,17 @@
 command_id: 746.7B0.222609|fc=1,din=03
 test_cases:
 - expected_values:
-    AUDI_AAT_746: 29
-    AUDI_AAT_V2: 0.5
-    AUDI_HVAC_OUTSIDE_T: 29
+    S4_AAT: 29
   response: '7B0 05 62 26 09 01 22 '
 - expected_values:
-    AUDI_AAT_746: 14.5
-    AUDI_AAT_V2: 0
-    AUDI_HVAC_OUTSIDE_T: 14.5
+    S4_AAT: 14.5
   response: 7B0056226090091
 - expected_values:
-    AUDI_AAT_746: 25
-    AUDI_AAT_V2: 0
-    AUDI_HVAC_OUTSIDE_T: 25
+    S4_AAT: 25
   response: 7B00562260900FA
 - expected_values:
-    AUDI_AAT_746: 27
-    AUDI_AAT_V2: 0.5
-    AUDI_HVAC_OUTSIDE_T: 27
+    S4_AAT: 27
   response: 7B005622609010E
 - expected_values:
-    AUDI_AAT_746: 53
-    AUDI_AAT_V2: 1
-    AUDI_HVAC_OUTSIDE_T: 53
+    S4_AAT: 53
   response: 7B0056226090212

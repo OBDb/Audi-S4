@@ -1,56 +1,29 @@
 command_id: 710.77A.222A0E
 test_cases:
 - expected_values:
-    AUDI_BAT_INT_R: 3.8
-    AUDI_MQB_BAT_INT_RES: 3.8
-    AUDI_SSB_R: 3.8
-    AUDI_SSB_RES_INT: 3.8
+    S4_BAT_INT_R: 3.8
   response: "222A0E1\n77A 04 62 2A 0E 13 "
 - expected_values:
-    AUDI_BAT_INT_R: 3.6
-    AUDI_MQB_BAT_INT_RES: 3.6
-    AUDI_SSB_R: 3.6
-    AUDI_SSB_RES_INT: 3.6
+    S4_BAT_INT_R: 3.6
   response: '77A 04 62 2A 0E 12 '
 - expected_values:
-    AUDI_BAT_INT_R: 3.8
-    AUDI_MQB_BAT_INT_RES: 3.8
-    AUDI_SSB_R: 3.8
-    AUDI_SSB_RES_INT: 3.8
+    S4_BAT_INT_R: 3.8
   response: '77A 04 62 2A 0E 13 '
 - expected_values:
-    AUDI_BAT_INT_R: 4
-    AUDI_MQB_BAT_INT_RES: 4
-    AUDI_SSB_R: 4
-    AUDI_SSB_RES_INT: 4
+    S4_BAT_INT_R: 4
   response: '77A 04 62 2A 0E 14 '
 - expected_values:
-    AUDI_BAT_INT_R: 3.2
-    AUDI_MQB_BAT_INT_RES: 3.2
-    AUDI_SSB_R: 3.2
-    AUDI_SSB_RES_INT: 3.2
+    S4_BAT_INT_R: 3.2
   response: 77A04622A0E10
 - expected_values:
-    AUDI_BAT_INT_R: 3.4
-    AUDI_MQB_BAT_INT_RES: 3.4
-    AUDI_SSB_R: 3.4
-    AUDI_SSB_RES_INT: 3.4
+    S4_BAT_INT_R: 3.4
   response: 77A04622A0E11
 - expected_values:
-    AUDI_BAT_INT_R: 3.6
-    AUDI_MQB_BAT_INT_RES: 3.6
-    AUDI_SSB_R: 3.6
-    AUDI_SSB_RES_INT: 3.6
+    S4_BAT_INT_R: 3.6
   response: 77A04622A0E12
 - expected_values:
-    AUDI_BAT_INT_R: 3.8
-    AUDI_MQB_BAT_INT_RES: 3.8
-    AUDI_SSB_R: 3.8
-    AUDI_SSB_RES_INT: 3.8
+    S4_BAT_INT_R: 3.8
   response: 77A04622A0E13
 - expected_values:
-    AUDI_BAT_INT_R: 4
-    AUDI_MQB_BAT_INT_RES: 4
-    AUDI_SSB_R: 4
-    AUDI_SSB_RES_INT: 4
+    S4_BAT_INT_R: 4
   response: 77A04622A0E14

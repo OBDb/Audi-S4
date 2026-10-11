@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211BA
+test_cases:
+- expected_values:
+    S4_OIL_LEVEL: 0
+  response: 7E8056211BA0000
+- expected_values:
+    S4_OIL_LEVEL: 4.8124
+  response: 7E8056211BA2EFF
+- expected_values:
+    S4_OIL_LEVEL: 10.1368
+  response: 7E8056211BA62FE

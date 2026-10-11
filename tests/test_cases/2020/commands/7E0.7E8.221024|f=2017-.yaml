@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221024|f=2017-
+test_cases:
+- expected_values:
+    S4_MQB_AIR_MASS_1: 0
+  response: '7E8056210240000'
+- expected_values:
+    S4_MQB_AIR_MASS_1: 179.1
+  response: 7E80562102406FF
+- expected_values:
+    S4_MQB_AIR_MASS_1: 385.2
+  response: 7E8056210240F0C

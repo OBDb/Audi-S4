@@ -1,8 +1,8 @@
 command_id: 7E5.7ED.22F45B|din=03
 test_cases:
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 25.09804
+    S4_BMS_SOC_HIRES: 25.09804
   response: 7ED0462F45B40
 - expected_values:
-    AUDI_BMS_SOC_HIRES: 79.60784
+    S4_BMS_SOC_HIRES: 79.60784
   response: 7ED0462F45BCB

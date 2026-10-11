@@ -1,44 +1,44 @@
 command_id: 7E0.7E8.221154
 test_cases:
 - expected_values:
-    AUDI_EM_TORQ_2: 19.125
+    S4_EM_TORQ_2: 19.125
   response: "2211541\n7E8 05 62 11 54 02 64 "
 - expected_values:
-    AUDI_EM_TORQ_2: 19.375
+    S4_EM_TORQ_2: 19.375
   response: "2211541\n7E8 05 62 11 54 02 6C "
 - expected_values:
-    AUDI_EM_TORQ_2: 9.40625
+    S4_EM_TORQ_2: 9.40625
   response: '7E8 05 62 11 54 01 2D '
 - expected_values:
-    AUDI_EM_TORQ_2: 10.03125
+    S4_EM_TORQ_2: 10.03125
   response: '7E8 05 62 11 54 01 41 '
 - expected_values:
-    AUDI_EM_TORQ_2: 29.28125
+    S4_EM_TORQ_2: 29.28125
   response: '7E8 05 62 11 54 03 A9 '
 - expected_values:
-    AUDI_EM_TORQ_2: 9.21875
+    S4_EM_TORQ_2: 9.21875
   response: '7E8056211540127'
 - expected_values:
-    AUDI_EM_TORQ_2: 15
+    S4_EM_TORQ_2: 15
   response: 7E80562115401E0
 - expected_values:
-    AUDI_EM_TORQ_2: 21.5625
+    S4_EM_TORQ_2: 21.5625
   response: |-
     7E80562115402B2
     7E803410548
 - expected_values:
-    AUDI_EM_TORQ_2: 21.5625
+    S4_EM_TORQ_2: 21.5625
   response: |-
     7E80562115402B2
     7E803411134
 - expected_values:
-    AUDI_EM_TORQ_2: 24.03125
+    S4_EM_TORQ_2: 24.03125
   response: '7E8056211540301'
 - expected_values:
-    AUDI_EM_TORQ_2: 25.65625
+    S4_EM_TORQ_2: 25.65625
   response: |-
     7E8056211540335
     7E8056211BA4C3A
 - expected_values:
-    AUDI_EM_TORQ_2: 81.28125
+    S4_EM_TORQ_2: 81.28125
   response: 7E8056211540A29
