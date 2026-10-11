@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_ODO_7E1_2: 193470
   response: 7E90662103D02F3BE
+- expected_values:
+    S4_ODO_7E1_2: 193555
+  response: 7E90662103D02F413

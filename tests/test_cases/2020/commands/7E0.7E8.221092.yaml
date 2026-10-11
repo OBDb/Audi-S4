@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.221092
 test_cases:
 - expected_values:
+    S4_CAM_SPD: 724.5
+  response: 7E8056210920B52
+- expected_values:
     S4_CAM_SPD: 792.25
   response: 7E8056210920C61
+- expected_values:
+    S4_CAM_SPD: 798.5
+  response: 7E8056210920C7A
 - expected_values:
     S4_CAM_SPD: 800.25
   response: 7E8056210920C81

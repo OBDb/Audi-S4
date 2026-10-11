@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_OIL_LEVEL_METHOD_2: 81.6
   response: 7E805621AFA0330
+- expected_values:
+    S4_OIL_LEVEL_METHOD_2: 86.6
+  response: 7E805621AFA0362

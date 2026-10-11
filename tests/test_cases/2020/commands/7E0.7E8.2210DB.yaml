@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2210DB
 test_cases:
 - expected_values:
+    S4_INJ_5_RAIL_P_2: -0.0032
+  response: 7E8056210DBFFC0
+- expected_values:
     S4_INJ_5_RAIL_P_2: -0.0016
   response: 7E8056210DBFFE0

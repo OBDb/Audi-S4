@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_AIR_P_CAC_DS: 931
   response: 7E80562105603A3
+- expected_values:
+    S4_AIR_P_CAC_DS: 1171
+  response: '7E8056210560493'

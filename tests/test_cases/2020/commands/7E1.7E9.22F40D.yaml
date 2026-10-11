@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.22F40D
 test_cases:
 - expected_values:
+    S4_VSS_7E1: 49
+  response: 7E90462F40D31
+- expected_values:
     S4_VSS_7E1: 83
   response: 7E90462F40D53

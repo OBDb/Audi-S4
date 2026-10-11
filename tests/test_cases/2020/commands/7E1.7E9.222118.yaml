@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_ACCEL_DECCELERATION: 0
   response: '7E90462211800'
+- expected_values:
+    S4_ACCEL_DECCELERATION: 1
+  response: '7E90462211801'

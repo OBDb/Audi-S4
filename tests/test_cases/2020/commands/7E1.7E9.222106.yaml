@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.222106
 test_cases:
 - expected_values:
+    S4_VSS_HR: 47.58
+  response: '7E9056221061296'
+- expected_values:
     S4_VSS_HR: 84.54
   response: '7E9056221062106'

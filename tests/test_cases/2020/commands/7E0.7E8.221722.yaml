@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_EARLY_IGN_CNT_CYL_1: 7162
   response: 7E8056217221BFA
+- expected_values:
+    S4_EARLY_IGN_CNT_CYL_1: 7163
+  response: 7E8056217221BFB

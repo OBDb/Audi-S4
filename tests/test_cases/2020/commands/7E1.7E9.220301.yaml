@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.220301
 test_cases:
 - expected_values:
+    S4_CTRL_MODULE_T: 25
+  response: '7E90462030141'
+- expected_values:
     S4_CTRL_MODULE_T: 46
   response: '7E90462030156'

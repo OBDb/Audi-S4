@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     S4_PSN_EDGE_REL_AD_CAM_2: 295.5
   response: '7E8056211851278'
+- expected_values:
+    S4_PSN_EDGE_REL_AD_CAM_2: 313.875
+  response: 7E805621185139E
+- expected_values:
+    S4_PSN_EDGE_REL_AD_CAM_2: 512
+  response: '7E8056211852000'

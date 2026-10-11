@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.2211DD
 test_cases:
 - expected_values:
+    S4_INT_MANIFOLD_P_CMD: 658.35938
+  response: 7E8056211DD20EB
+- expected_values:
     S4_INT_MANIFOLD_P_CMD: 697.96875
   response: 7E8056211DD22E6
 - expected_values:
     S4_INT_MANIFOLD_P_CMD: 789.53125
   response: 7E8056211DD277A
+- expected_values:
+    S4_INT_MANIFOLD_P_CMD: 1346.875
+  response: 7E8056211DD4358

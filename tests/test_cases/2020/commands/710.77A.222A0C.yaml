@@ -1,8 +1,8 @@
 command_id: 710.77A.222A0C
 test_cases:
 - expected_values:
-    S4_BAT_SOC: 33
-  response: 77A04622A0C21
+    S4_BAT_SOC: 25
+  response: 77A04622A0C19
 - expected_values:
     S4_BAT_SOC: 92
   response: 77A04622A0C5C

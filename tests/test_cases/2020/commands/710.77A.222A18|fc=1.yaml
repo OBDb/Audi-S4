@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_ENTIRE_ENERGY: 19878.2
   response: 77A06622A1803087E
+- expected_values:
+    S4_ENTIRE_ENERGY: 19887.2
+  response: 77A06622A180308D8

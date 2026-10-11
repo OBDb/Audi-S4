@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_DRIVING_RES_INDEX: -4
   response: 7E9046221087C
+- expected_values:
+    S4_DRIVING_RES_INDEX: 0
+  response: '7E90462210880'

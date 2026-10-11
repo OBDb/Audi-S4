@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2211AB
 test_cases:
 - expected_values:
+    S4_INT_MODEL_AIR_MASS: 0
+  response: 7E8056211AB0000
+- expected_values:
     S4_INT_MODEL_AIR_MASS: 0.1
   response: 7E8056211AB0001
+- expected_values:
+    S4_INT_MODEL_AIR_MASS: 6553.3
+  response: 7E8056211ABFFFD

@@ -5,3 +5,8 @@ test_cases:
   response: |-
     778100C625036006400
     778218701B801F200AA
+- expected_values:
+    S4_HUMIDITY_SENS_REL: 48.015
+  response: |-
+    778100C625036007800
+    778216101E7025800AA

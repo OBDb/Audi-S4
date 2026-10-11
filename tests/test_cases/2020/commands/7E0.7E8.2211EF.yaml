@@ -4,5 +4,11 @@ test_cases:
     S4_P_BEFORE_THROTTLE: 149.76557
   response: 7E8056211EF0EFA
 - expected_values:
+    S4_P_BEFORE_THROTTLE: 185.97649
+  response: 7E8056211EF1299
+- expected_values:
     S4_P_BEFORE_THROTTLE: 202.69524
   response: 7E8056211EF1445
+- expected_values:
+    S4_P_BEFORE_THROTTLE: 229.64835
+  response: 7E8056211EF16F7

@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.221066
 test_cases:
 - expected_values:
+    S4_ANALYSIS_CLU_1_T_1: 1269.76
+  response: 7E90562106600F8
+- expected_values:
     S4_ANALYSIS_CLU_1_T_1: 593.94
   response: '7E9056210660174'

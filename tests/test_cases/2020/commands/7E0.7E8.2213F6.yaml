@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2213F6
 test_cases:
 - expected_values:
+    S4_NL_PRE_0: 0.58937
+  response: 7E8056213F61E2D
+- expected_values:
     S4_NL_PRE_0: 0.58952
   response: 7E8056213F61E2F

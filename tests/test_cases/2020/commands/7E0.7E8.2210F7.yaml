@@ -4,5 +4,11 @@ test_cases:
     S4_MIS_1: 4017
   response: 7E8056210F70FB1
 - expected_values:
+    S4_MIS_1: 5221
+  response: 7E8056210F71465
+- expected_values:
+    S4_MIS_1: 5281
+  response: 7E8056210F714A1
+- expected_values:
     S4_MIS_1: 5713
   response: 7E8056210F71651

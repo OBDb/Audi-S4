@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2211AC
 test_cases:
 - expected_values:
+    S4_MAF_THROUGH_THROTTLE: 6456.1
+  response: 7E8056211ACFC31
+- expected_values:
+    S4_MAF_THROUGH_THROTTLE: 6456.3
+  response: 7E8056211ACFC33
+- expected_values:
     S4_MAF_THROUGH_THROTTLE: 6457.2
   response: 7E8056211ACFC3C

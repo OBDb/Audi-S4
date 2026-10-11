@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_NL_PRE_3: 0
   response: 7E8056213F90000
+- expected_values:
+    S4_NL_PRE_3: 0.26245
+  response: 7E8056213F90D70

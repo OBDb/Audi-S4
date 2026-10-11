@@ -4,5 +4,11 @@ test_cases:
     S4_PRE_INJ_3_START: 8.89906
   response: '7E8056216310195'
 - expected_values:
+    S4_PRE_INJ_3_START: 12.98604
+  response: 7E805621631024F
+- expected_values:
+    S4_PRE_INJ_3_START: 14.08469
+  response: '7E8056216310281'
+- expected_values:
     S4_PRE_INJ_3_START: 15.51294
   response: 7E80562163102C2

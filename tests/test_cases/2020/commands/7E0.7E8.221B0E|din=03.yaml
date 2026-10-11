@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_CHG_AIR_P_ACT: 921.95312
   response: 7E805621B0E2E19
+- expected_values:
+    S4_CHG_AIR_P_ACT: 1100
+  response: 7E805621B0E3700

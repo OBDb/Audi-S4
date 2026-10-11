@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_TQ_TRANSMITTING: 1.9
   response: '7E9056221050013'
+- expected_values:
+    S4_TQ_TRANSMITTING: 2.4
+  response: '7E9056221050018'

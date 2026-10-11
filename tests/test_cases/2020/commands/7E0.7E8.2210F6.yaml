@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     S4_MIS_PER_1000_2_7E0: 4133
   response: 7E8056210F61025
+- expected_values:
+    S4_MIS_PER_1000_2_7E0: 5501
+  response: 7E8056210F6157D

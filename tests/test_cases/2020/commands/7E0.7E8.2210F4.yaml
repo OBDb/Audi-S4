@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.2210F4
 test_cases:
 - expected_values:
+    S4_MIS_PER_1000_3_7E0: 3933
+  response: 7E8056210F40F5D
+- expected_values:
     S4_MIS_PER_1000_3_7E0: 4158
   response: 7E8056210F4103E
 - expected_values:
     S4_MIS_PER_1000_3_7E0: 4263
   response: 7E8056210F410A7
+- expected_values:
+    S4_MIS_PER_1000_3_7E0: 4858
+  response: 7E8056210F412FA

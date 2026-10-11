@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_HIGH_P_TURBOCHARGER: 0.82
   response: '7E8056211810052'
+- expected_values:
+    S4_HIGH_P_TURBOCHARGER: 3.4
+  response: '7E8056211810154'

@@ -4,5 +4,8 @@ test_cases:
     S4_APP_REDUCE_V: 0
   response: '7E8056210290000'
 - expected_values:
+    S4_APP_REDUCE_V: 281.8
+  response: '7E8056210290581'
+- expected_values:
     S4_APP_REDUCE_V: 643.4
   response: 7E8056210290C91

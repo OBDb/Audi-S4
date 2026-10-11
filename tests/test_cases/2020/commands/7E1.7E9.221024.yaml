@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.221024
 test_cases:
 - expected_values:
+    S4_CURRENT_N215_P_CTRL_1: 50
+  response: 7E90562102401F4
+- expected_values:
     S4_CURRENT_N215_P_CTRL_1: 850
   response: '7E9056210242134'

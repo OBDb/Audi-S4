@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     S4_ACCEL_PEDAL_SENS_1_V: 0
   response: 7E80562102A0000
+- expected_values:
+    S4_ACCEL_PEDAL_SENS_1_V: 116.6
+  response: 7E80562102A0247
+- expected_values:
+    S4_ACCEL_PEDAL_SENS_1_V: 464.2
+  response: 7E80562102A0911

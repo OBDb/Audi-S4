@@ -4,5 +4,11 @@ test_cases:
     S4_LOW_FUEL_P_ACT: 0
   response: 7E8056211C80000
 - expected_values:
+    S4_LOW_FUEL_P_ACT: 0.3
+  response: 7E8056211C80003
+- expected_values:
     S4_LOW_FUEL_P_ACT: 609.2
   response: 7E8056211C817CC
+- expected_values:
+    S4_LOW_FUEL_P_ACT: 755.3
+  response: 7E8056211C81D81

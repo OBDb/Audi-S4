@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.2217F4|din=03
 test_cases:
 - expected_values:
+    S4_LOW_P_EGR_CLOSING: 99.98779
+  response: 7E8056217F40001
+- expected_values:
     S4_LOW_P_EGR_CLOSING: 99.97559
   response: 7E8056217F40002

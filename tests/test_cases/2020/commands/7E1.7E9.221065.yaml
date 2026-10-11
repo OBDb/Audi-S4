@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_CLU_1_T_TIME_RANGE_0: 286.72
   response: '7E9056210650038'
+- expected_values:
+    S4_CLU_1_T_TIME_RANGE_0: 296.96
+  response: 7E905621065003A

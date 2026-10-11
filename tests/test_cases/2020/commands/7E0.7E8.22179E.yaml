@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22179E
 test_cases:
 - expected_values:
+    S4_EOT_PULS: 27.6
+  response: 7E80562179E0BBF
+- expected_values:
+    S4_EOT_PULS: 46.4
+  response: 7E80562179E0C7B
+- expected_values:
     S4_EOT_PULS: 53.5
   response: 7E80562179E0CC2
 - expected_values:

@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     S4_CLT_SHUT_OFF_VLV: 5
   response: '7E8056226820596'
+- expected_values:
+    S4_CLT_SHUT_OFF_VLV: 6
+  response: '7E8056226820606'
+- expected_values:
+    S4_CLT_SHUT_OFF_VLV: 6
+  response: '7E8056226820618'

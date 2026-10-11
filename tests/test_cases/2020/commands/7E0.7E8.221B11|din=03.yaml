@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221B11|din=03
 test_cases:
 - expected_values:
+    S4_CHG_AIR_P_ACTUATOR_7E0: 1104
+  response: 7E805621B110450
+- expected_values:
     S4_CHG_AIR_P_ACTUATOR_7E0: 1222
   response: 7E805621B1104C6

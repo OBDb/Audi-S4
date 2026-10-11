@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_ID_CURRENT_DRIVING: 1
   response: '7E90462101201'
+- expected_values:
+    S4_ID_CURRENT_DRIVING: 64
+  response: '7E90462101240'
