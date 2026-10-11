@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_ACCEL: 0
   response: '7E9056221160000'
+- expected_values:
+    S4_ACCEL: -0.1
+  response: 7E905622116FFFF

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_CURRENT_N233_P_CTRL_5: 50
   response: 7E90562102701F4
+- expected_values:
+    S4_CURRENT_N233_P_CTRL_5: 850
+  response: '7E9056210272134'

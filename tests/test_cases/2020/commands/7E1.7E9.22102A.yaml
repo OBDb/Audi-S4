@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_CLU_CENTER_CENTRAL_T: -15588
   response: 7E90562102A1CC3
+- expected_values:
+    S4_CLU_CENTER_CENTRAL_T: -10980
+  response: 7E90562102A1CD5

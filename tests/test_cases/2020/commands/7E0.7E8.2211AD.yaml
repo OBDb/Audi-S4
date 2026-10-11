@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2211AD
 test_cases:
 - expected_values:
+    S4_MAF_CMD: 297.4
+  response: 7E8056211AD0B9E
+- expected_values:
+    S4_MAF_CMD: 297.5
+  response: 7E8056211AD0B9F
+- expected_values:
     S4_MAF_CMD: 298
   response: 7E8056211AD0BA4

@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.22157C|din=03
 test_cases:
 - expected_values:
+    S4_DPF_STATISTICS_T: 290.8
+  response: 7E80562157C1607
+- expected_values:
     S4_DPF_STATISTICS_T: 345.3
   response: 7E80562157C1828

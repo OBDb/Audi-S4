@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_ODO_READING_DPF: 609
   response: 7E8076225FE00000261
+- expected_values:
+    S4_ODO_READING_DPF: 614
+  response: 7E8076225FE00000266

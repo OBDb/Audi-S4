@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.2251A7
 test_cases:
 - expected_values:
+    S4_AUX_HYDRAULIC_PMP_V: 14.7
+  response: 7E9046251A793
+- expected_values:
     S4_AUX_HYDRAULIC_PMP_V: 14.8
   response: 7E9046251A794

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_ECT_LINEAR: -48
   response: '7E8056215130000'
+- expected_values:
+    S4_ECT_LINEAR: -47.99121
+  response: '7E8056215130003'

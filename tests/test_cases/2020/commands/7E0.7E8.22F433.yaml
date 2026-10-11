@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     S4_BARO: 92
   response: 7E80462F4335C
+- expected_values:
+    S4_BARO: 98
+  response: 7E80462F43362

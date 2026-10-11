@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.2225CF
 test_cases:
 - expected_values:
+    S4_OIL_P_TGT_7E0: 271.7
+  response: 7E8056225CF0A9D
+- expected_values:
+    S4_OIL_P_TGT_7E0: 284.8
+  response: 7E8056225CF0B20
+- expected_values:
     S4_OIL_P_TGT_7E0: 325.9
   response: 7E8056225CF0CBB
 - expected_values:

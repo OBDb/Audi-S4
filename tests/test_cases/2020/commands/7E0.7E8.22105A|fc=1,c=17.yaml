@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.22105A|fc=1,c=17
 test_cases:
 - expected_values:
+    S4_BATTERY_V: 56620
+  response: 7E80562105A0B0F
+- expected_values:
     S4_BATTERY_V: 56800
   response: 7E80562105A0B18
+- expected_values:
+    S4_BATTERY_V: 57520
+  response: 7E80562105A0B3C

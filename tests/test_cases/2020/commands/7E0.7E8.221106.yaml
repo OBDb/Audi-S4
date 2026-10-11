@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     S4_INJ_AMOUNT_DEV_CYL_2_7E0: 0.23
   response: '7E8056211060017'
+- expected_values:
+    S4_INJ_AMOUNT_DEV_CYL_2_7E0: 0.26
+  response: 7E805621106001A

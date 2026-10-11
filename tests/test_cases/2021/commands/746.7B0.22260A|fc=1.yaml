@@ -10,5 +10,8 @@ test_cases:
     S4_OUTSIDE_T_SYSTEM: 25
   response: 7B00562260A00FA
 - expected_values:
+    S4_OUTSIDE_T_SYSTEM: 28
+  response: 7B00562260A0118
+- expected_values:
     S4_OUTSIDE_T_SYSTEM: null
   response: 7B00562260A7D02

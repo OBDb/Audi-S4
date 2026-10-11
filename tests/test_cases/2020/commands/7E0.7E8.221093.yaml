@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_CAM_ADPT_INT_PHASE: 62.35857
   response: 7E8056210930B16
+- expected_values:
+    S4_CAM_ADPT_INT_PHASE: 62.38054
+  response: 7E8056210930B17

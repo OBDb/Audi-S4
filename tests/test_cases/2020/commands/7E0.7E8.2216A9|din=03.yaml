@@ -10,5 +10,5 @@ test_cases:
     S4_PQ35_ODO_2: 189184
   response: 7E8076216A90002E300
 - expected_values:
-    S4_PQ35_ODO_2: 193469
-  response: 7E8076216A90002F3BD
+    S4_PQ35_ODO_2: 193554
+  response: 7E8076216A90002F412

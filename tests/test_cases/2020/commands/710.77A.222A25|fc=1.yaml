@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_BAT_INTERNAL_RES_RAW: 11.6
   response: 77A04622A253A
+- expected_values:
+    S4_BAT_INTERNAL_RES_RAW: 13.8
+  response: 77A04622A2545

@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.22211A
 test_cases:
 - expected_values:
+    S4_MAX_PERMISSIBLE_ENG: 20
+  response: 7E90562211A0014
+- expected_values:
     S4_MAX_PERMISSIBLE_ENG: 761
   response: 7E90562211A02F9

@@ -1,5 +1,8 @@
 command_id: 7E1.7E9.22F449
 test_cases:
 - expected_values:
+    S4_ACCEL_PEDAL_POS_7E1: 14.90196
+  response: 7E90462F44926
+- expected_values:
     S4_ACCEL_PEDAL_POS_7E1: 22.7451
   response: 7E90462F4493A

@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     S4_AIR_MASS_SPEC: 235
   response: 7E80562104C092E
+- expected_values:
+    S4_AIR_MASS_SPEC: 244.8
+  response: 7E80562104C0990
+- expected_values:
+    S4_AIR_MASS_SPEC: 348.6
+  response: 7E80562104C0D9E

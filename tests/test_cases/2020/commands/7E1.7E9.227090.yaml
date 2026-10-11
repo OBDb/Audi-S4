@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_FILL_P_CLU_D: -180
   response: 7E904627090EE
+- expected_values:
+    S4_FILL_P_CLU_D: -150
+  response: 7E904627090F1

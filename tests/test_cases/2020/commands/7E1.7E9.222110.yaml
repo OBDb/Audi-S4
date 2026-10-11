@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_ENG_SPEC_TQ_DURING: 19
   response: '7E9056221100013'
+- expected_values:
+    S4_ENG_SPEC_TQ_DURING: 68
+  response: '7E9056221100044'

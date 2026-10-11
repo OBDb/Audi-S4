@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221334|din=03
 test_cases:
 - expected_values:
+    S4_HIGH_P_EGR_ACTUATOR: -10.64
+  response: 7E805621334FBD8
+- expected_values:
     S4_HIGH_P_EGR_ACTUATOR: -6.69
   response: 7E805621334FD63

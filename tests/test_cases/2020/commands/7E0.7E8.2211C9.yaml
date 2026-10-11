@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_FUEL_PMP_ADPT: 0
   response: 7E8056211C90000
+- expected_values:
+    S4_FUEL_PMP_ADPT: -0.2
+  response: 7E8056211C9FFFE

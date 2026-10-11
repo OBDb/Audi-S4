@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_KNOCK_SENS_V_CYL_3: 0.01678
   response: 7E8056213FA00DC
+- expected_values:
+    S4_KNOCK_SENS_V_CYL_3: 0.32806
+  response: 7E8056213FA10CC

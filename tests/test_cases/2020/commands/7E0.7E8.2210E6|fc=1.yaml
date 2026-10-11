@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2210E6|fc=1
 test_cases:
 - expected_values:
+    S4_EOT_7E0: -47
+  response: 7E8056210E60D03
+- expected_values:
+    S4_EOT_7E0: -47
+  response: 7E8056210E60DC6
+- expected_values:
     S4_EOT_7E0: -45
   response: 7E8056210E60F49

@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.221230
 test_cases:
 - expected_values:
+    S4_MAX_OIL_LEVEL: 1.864
+  response: 7E80562123001D2
+- expected_values:
     S4_MAX_OIL_LEVEL: 1.872
   response: 7E80562123001D4
+- expected_values:
+    S4_MAX_OIL_LEVEL: 6.648
+  response: 7E805621230067E

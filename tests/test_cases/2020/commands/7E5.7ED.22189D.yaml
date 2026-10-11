@@ -4,3 +4,7 @@ test_cases:
     S4_HVBAT_INLET_T: 18
     S4_HVBAT_OUTLET_T: 20
   response: 7ED0562189D7876
+- expected_values:
+    S4_HVBAT_INLET_T: 20
+    S4_HVBAT_OUTLET_T: 20
+  response: 7ED0562189D7878

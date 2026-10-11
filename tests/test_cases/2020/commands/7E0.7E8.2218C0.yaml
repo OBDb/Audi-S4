@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.2218C0
 test_cases:
 - expected_values:
+    S4_DPF_SOOT_VOLUME_EXH_M_3: 0
+  response: 7E8056218C00000
+- expected_values:
+    S4_DPF_SOOT_VOLUME_EXH_M_3: 0.52
+  response: 7E8056218C00034
+- expected_values:
     S4_DPF_SOOT_VOLUME_EXH_M_3: 5.96
   response: 7E8056218C00254
 - expected_values:

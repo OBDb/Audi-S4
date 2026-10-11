@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.221023
 test_cases:
 - expected_values:
+    S4_AC_COMP_TQ_REQ: 0
+  response: '7E8056210230000'
+- expected_values:
     S4_AC_COMP_TQ_REQ: 1.6
   response: '7E8056210230010'
+- expected_values:
+    S4_AC_COMP_TQ_REQ: 1.8
+  response: '7E8056210230012'
 - expected_values:
     S4_AC_COMP_TQ_REQ: 1.9
   response: '7E8056210230013'

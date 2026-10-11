@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.22F44A
 test_cases:
 - expected_values:
+    S4_ACCEL_PEDAL_POS_2: 14.90196
+  response: 7E80462F44A26
+- expected_values:
     S4_ACCEL_PEDAL_POS_2: 17.2549
   response: 7E80462F44A2C
+- expected_values:
+    S4_ACCEL_PEDAL_POS_2: 29.01961
+  response: 7E80462F44A4A
 - expected_values:
     S4_ACCEL_PEDAL_POS_2: 36.07843
   response: 7E80462F44A5C

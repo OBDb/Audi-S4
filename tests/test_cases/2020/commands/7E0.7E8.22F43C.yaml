@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     S4_EXH_GAS_T: 184.8
   response: 7E80562F43C08C8
+- expected_values:
+    S4_EXH_GAS_T: 290.7
+  response: 7E80562F43C0CEB
+- expected_values:
+    S4_EXH_GAS_T: 3003.6
+  response: 7E80562F43C76E4

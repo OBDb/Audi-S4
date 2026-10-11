@@ -1,4 +1,7 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7E1", "type": "transmission" }
+  ],
+  "commands": [
 { "hdr": "70E", "rax": "778", "fcm1": true, "din": "03", "cmd": {"22": "2606"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "S4_CLT_FAN_ACTIVATION_ACT", "path": "Engine", "fmt": { "len": 16, "max": 6553, "div": 10, "unit": "percent" }, "name": "Coolant fan activation, actual value"}
@@ -377,7 +380,7 @@
   "signals": [
     {"id": "S4_FLI_VOL", "path": "Fuel", "fmt": {"bix": 336, "len": 16, "max": 6553.5, "div": 10, "unit": "liters" }, "name": "Fuel volume", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "714", "rax": "77E", "fcm1": true, "dbg": true, "cmd": {"22": "22B8"}, "freq": 30,
+{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "22B8"}, "freq": 30, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "S4_ODO_MILEAGE_HR", "path": "Trips", "fmt": { "len": 32, "max": 4294967, "div": 1000, "unit": "kilometers" }, "name": "Odometer, mileage, HR"}
   ]},

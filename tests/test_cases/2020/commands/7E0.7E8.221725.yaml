@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221725
 test_cases:
 - expected_values:
+    S4_EARLY_IGN_CNT_CYL_2: 9871
+  response: 7E805621725268F
+- expected_values:
     S4_EARLY_IGN_CNT_CYL_2: 9872
   response: '7E8056217252690'

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     S4_HVBAT_CELL_1_V: 0.90942
   response: 7ED05621E400E8D
+- expected_values:
+    S4_HVBAT_CELL_1_V: 0.9187
+  response: 7ED05621E400EB3

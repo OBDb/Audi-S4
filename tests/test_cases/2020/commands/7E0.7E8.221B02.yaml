@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.221B02
 test_cases:
 - expected_values:
+    S4_OIL_P_SENS_RAW_7E0: 161
+  response: 7E805621B0200A1
+- expected_values:
     S4_OIL_P_SENS_RAW_7E0: 687
   response: 7E805621B0202AF
+- expected_values:
+    S4_OIL_P_SENS_RAW_7E0: 803
+  response: 7E805621B020323
 - expected_values:
     S4_OIL_P_SENS_RAW_7E0: 1200
   response: 7E805621B0204B0

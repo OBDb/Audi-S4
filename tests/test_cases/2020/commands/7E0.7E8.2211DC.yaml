@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     S4_MAP_RAW: 0
   response: 7E8056211DC0000
+- expected_values:
+    S4_MAP_RAW: 27.10938
+  response: 7E8056211DC015B
+- expected_values:
+    S4_MAP_RAW: 4991.40625
+  response: 7E8056211DCF992

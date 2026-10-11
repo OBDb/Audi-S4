@@ -1,5 +1,8 @@
 command_id: 713.77D.222005|fc=1
 test_cases:
 - expected_values:
+    S4_P_BRAKE_SERVO_UNIT: -923.625
+  response: 77D05622005C646
+- expected_values:
     S4_P_BRAKE_SERVO_UNIT: -840.375
   response: 77D05622005CB7A

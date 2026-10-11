@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     S4_ACCEL_PEDAL_POS_1: 16.07843
   response: 7E80462F44929
+- expected_values:
+    S4_ACCEL_PEDAL_POS_1: 34.90196
+  response: 7E80462F44959
