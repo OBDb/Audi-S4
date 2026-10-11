@@ -1,0 +1,5 @@
+command_id: 713.77D.222B1E
+test_cases:
+- expected_values:
+    S4_TIRE_RR_SPD_713: 215.9
+  response: '77D 05 62 2B 1E 08 6F '

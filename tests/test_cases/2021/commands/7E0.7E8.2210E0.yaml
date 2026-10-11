@@ -1,0 +1,48 @@
+command_id: 7E0.7E8.2210E0
+test_cases:
+- expected_values:
+    S4_ODO: 90363
+  response: "2210E01\n7E8 07 62 10 E0 00 01 60 FB "
+- expected_values:
+    S4_ODO: 90367
+  response: "2210E01\n7E8 07 62 10 E0 00 01 60 FF "
+- expected_values:
+    S4_ODO: 90368
+  response: "2210E01\n7E8 07 62 10 E0 00 01 61 00 "
+- expected_values:
+    S4_ODO: 88887
+  response: '7E8 07 62 10 E0 00 01 5B 37 '
+- expected_values:
+    S4_ODO: 89039
+  response: '7E8 07 62 10 E0 00 01 5B CF '
+- expected_values:
+    S4_ODO: 89040
+  response: '7E8 07 62 10 E0 00 01 5B D0 '
+- expected_values:
+    S4_ODO: 89056
+  response: '7E8 07 62 10 E0 00 01 5B E0 '
+- expected_values:
+    S4_ODO: 105703
+  response: '7E8 07 62 10 E0 00 01 9C E7 '
+- expected_values:
+    S4_ODO: 88879
+  response: 7E8076210E000015B2F
+- expected_values:
+    S4_ODO: 89343
+  response: 7E8076210E000015CFF
+- expected_values:
+    S4_ODO: 89344
+  response: 7E8076210E000015D00
+- expected_values:
+    S4_ODO: 104937
+  response: |-
+    7E8076210E0000199E9
+    7E803410400
+- expected_values:
+    S4_ODO: 105377
+  response: |-
+    7E8076210E000019BA1
+    7E803410E99
+- expected_values:
+    S4_ODO: 105732
+  response: 7E8076210E000019D04

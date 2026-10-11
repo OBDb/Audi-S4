@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210E0
+test_cases:
+- expected_values:
+    S4_ODO: 92410
+  response: 7E8076210E0000168FA
+- expected_values:
+    S4_ODO: 92415
+  response: 7E8076210E0000168FF
+- expected_values:
+    S4_ODO: 92416
+  response: 7E8076210E000016900
+- expected_values:
+    S4_ODO: 2147483647
+  response: 7E8076210E07FFFFFFF

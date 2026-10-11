@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221026
 test_cases:
 - expected_values:
-    AUDI_MQB_MAF_1_B1_RAW: 0
+    S4_MQB_MAF_1_B1_RAW: 0
   response: '7E8056210260000'
 - expected_values:
-    AUDI_MQB_MAF_1_B1_RAW: 614.3
+    S4_MQB_MAF_1_B1_RAW: 614.3
   response: 7E80562102617FF
 - expected_values:
-    AUDI_MQB_MAF_1_B1_RAW: 1330.7
+    S4_MQB_MAF_1_B1_RAW: 1330.7
   response: 7E80562102633FB

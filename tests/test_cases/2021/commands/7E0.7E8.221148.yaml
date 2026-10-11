@@ -1,26 +1,21 @@
 command_id: 7E0.7E8.221148
 test_cases:
 - expected_values:
-    AUDI_MISFIRES_1000REV_C3: 0
-    AUDI_PQ35_FUEL_METER: 0
+    S4_PQ35_FUEL_METER: 0
   response: '7E8 05 62 11 48 00 00 '
 - expected_values:
-    AUDI_MISFIRES_1000REV_C3: 0
-    AUDI_PQ35_FUEL_METER: 0
+    S4_PQ35_FUEL_METER: 0
   response: '7E8056211480000'
 - expected_values:
-    AUDI_MISFIRES_1000REV_C3: 0
-    AUDI_PQ35_FUEL_METER: 0
+    S4_PQ35_FUEL_METER: 0
   response: |-
     7E8056211480000
     7E803410400
 - expected_values:
-    AUDI_MISFIRES_1000REV_C3: 0
-    AUDI_PQ35_FUEL_METER: 0
+    S4_PQ35_FUEL_METER: 0
   response: |-
     7E8056211480000
     7E803410D16
 - expected_values:
-    AUDI_MISFIRES_1000REV_C3: 1
-    AUDI_PQ35_FUEL_METER: 0.01
+    S4_PQ35_FUEL_METER: 0.01
   response: '7E8056211480001'

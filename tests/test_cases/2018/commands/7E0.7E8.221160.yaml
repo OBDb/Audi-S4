@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221160
+test_cases:
+- expected_values:
+    S4_ODO_HD: 91988406
+  response: 7E807621160057BA1B6
+- expected_values:
+    S4_ODO_HD: 92002560
+  response: 7E807621160057BD900
+- expected_values:
+    S4_ODO_HD: 92077865
+  response: 7E807621160057CFF29
+- expected_values:
+    S4_ODO_HD: 92253183
+  response: 7E807621160057FABFF
+- expected_values:
+    S4_ODO_HD: 92340326
+  response: '7E80762116005810066'
+- expected_values:
+    S4_ODO_HD: 97583139
+  response: 7E80762116005D10023

@@ -1,26 +1,20 @@
 command_id: 710.77A.222A10
 test_cases:
 - expected_values:
-    AUDI_BAT_V_AT_REST: 12.4
-    AUDI_SSB_V_REST: 16.2
+    S4_BAT_V_AT_REST: 12.4
   response: "222A101\n77A 04 62 2A 10 22 "
 - expected_values:
-    AUDI_BAT_V_AT_REST: 12.5
-    AUDI_SSB_V_REST: 16.41176
+    S4_BAT_V_AT_REST: 12.5
   response: "222A101\n77A 04 62 2A 10 23 "
 - expected_values:
-    AUDI_BAT_V_AT_REST: 12.1
-    AUDI_SSB_V_REST: 15.56471
+    S4_BAT_V_AT_REST: 12.1
   response: '77A 04 62 2A 10 1F '
 - expected_values:
-    AUDI_BAT_V_AT_REST: 12.4
-    AUDI_SSB_V_REST: 16.2
+    S4_BAT_V_AT_REST: 12.4
   response: '77A 04 62 2A 10 22 '
 - expected_values:
-    AUDI_BAT_V_AT_REST: 11.4
-    AUDI_SSB_V_REST: 14.08235
+    S4_BAT_V_AT_REST: 11.4
   response: 77A04622A1018
 - expected_values:
-    AUDI_BAT_V_AT_REST: 12.6
-    AUDI_SSB_V_REST: 16.62353
+    S4_BAT_V_AT_REST: 12.6
   response: 77A04622A1024
