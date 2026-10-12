@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221152|f=2017-;-2008
+test_cases:
+- expected_values:
+    S4_MISFIRES__CYL__2: 26374
+  response: '7E8056211526706'
+- expected_values:
+    S4_MISFIRES__CYL__2: 26623
+  response: 7E80562115267FF
+- expected_values:
+    S4_MISFIRES__CYL__2: 26624
+  response: '7E8056211526800'
+- expected_values:
+    S4_MISFIRES__CYL__2: 28176
+  response: 7E8056211526E10

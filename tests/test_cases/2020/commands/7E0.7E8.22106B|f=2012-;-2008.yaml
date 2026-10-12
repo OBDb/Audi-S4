@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22106B|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_LIM_TRQ: 116.6
+  response: 7E80562106B048E
+- expected_values:
+    S4_PQ35_LIM_TRQ: 179.2
+  response: 7E80562106B0700
+- expected_values:
+    S4_PQ35_LIM_TRQ: 255.9
+  response: 7E80562106B09FF
+- expected_values:
+    S4_PQ35_LIM_TRQ: 587.7
+  response: 7E80562106B16F5

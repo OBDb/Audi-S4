@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211BC|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_OIL_LVL: 0
+  response: 7E8056211BC0000
+- expected_values:
+    S4_PQ35_OIL_LVL: 70.652
+  response: 7E8056211BC44FF
+- expected_values:
+    S4_PQ35_OIL_LVL: 89.908
+  response: 7E8056211BC57CD

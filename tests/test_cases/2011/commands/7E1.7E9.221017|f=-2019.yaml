@@ -1,0 +1,29 @@
+command_id: 7E1.7E9.221017|f=-2019
+test_cases:
+- expected_values:
+    S4_PQ35_ROAD_RESISTANCE: -31
+  response: 7E90562101700FE
+- expected_values:
+    S4_PQ35_ROAD_RESISTANCE: -31
+  response: '7E9056210170100'
+- expected_values:
+    S4_PQ35_ROAD_RESISTANCE: -31
+  response: '7E9056210170103'
+- expected_values:
+    S4_PQ35_ROAD_RESISTANCE: -31
+  response: '7E9056210170104'
+- expected_values:
+    S4_PQ35_ROAD_RESISTANCE: -31
+  response: '7E9056210170105'
+- expected_values:
+    S4_PQ35_ROAD_RESISTANCE: -31
+  response: '7E9056210170106'
+- expected_values:
+    S4_PQ35_ROAD_RESISTANCE: -31
+  response: '7E9056210170107'
+- expected_values:
+    S4_PQ35_ROAD_RESISTANCE: -31
+  response: '7E9056210170108'
+- expected_values:
+    S4_PQ35_ROAD_RESISTANCE: -31
+  response: '7E9056210170109'

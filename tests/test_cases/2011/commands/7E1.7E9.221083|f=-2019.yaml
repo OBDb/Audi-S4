@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.221083|f=-2019
+test_cases:
+- expected_values:
+    S4_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G1: 231.25
+  response: 7E905621083555A

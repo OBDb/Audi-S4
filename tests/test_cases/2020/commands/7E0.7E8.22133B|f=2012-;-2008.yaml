@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22133B|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_CAMS_SPD: 0
+  response: 7E80562133B0000
+- expected_values:
+    S4_PQ35_CAMS_SPD: 921
+  response: 7E80562133B0BFE
+- expected_values:
+    S4_PQ35_CAMS_SPD: 1404
+  response: 7E80562133B1248

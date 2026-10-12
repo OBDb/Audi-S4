@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22115A|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PARTICLE_FLT_FUEL: 0
+  response: 7E80562115A0000
+- expected_values:
+    S4_PARTICLE_FLT_FUEL: 7.67
+  response: 7E80562115A02FF
+- expected_values:
+    S4_PARTICLE_FLT_FUEL: 49.67
+  response: 7E80562115A1367

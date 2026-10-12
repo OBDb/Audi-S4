@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22111A|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_FUEL_FLOW: 0
+  response: 7E80562111A0000
+- expected_values:
+    S4_PQ35_FUEL_FLOW: 5.08
+  response: 7E80562111A01FC
+- expected_values:
+    S4_PQ35_FUEL_FLOW: 32.44
+  response: 7E80562111A0CAC

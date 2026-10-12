@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221100|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_INJ_DEV_CYL_3: 0
+  response: '7E8056211000000'
+- expected_values:
+    S4_PQ35_INJ_DEV_CYL_3: -0.64
+  response: 7E805621100FFC0
+- expected_values:
+    S4_PQ35_INJ_DEV_CYL_3: -0.01
+  response: 7E805621100FFFF

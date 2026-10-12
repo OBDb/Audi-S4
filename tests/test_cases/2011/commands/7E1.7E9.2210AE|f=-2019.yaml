@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.2210AE|f=-2019
+test_cases:
+- expected_values:
+    S4_PQ35_GANGSTELLER_D_ADAPT_NEUTRALPOS: 35.84
+  response: 7E9056210AE000E
+- expected_values:
+    S4_PQ35_GANGSTELLER_D_ADAPT_NEUTRALPOS: -145.96
+  response: 7E9056210AEFCC6
+- expected_values:
+    S4_PQ35_GANGSTELLER_D_ADAPT_NEUTRALPOS: -56.36
+  response: 7E9056210AEFCE9

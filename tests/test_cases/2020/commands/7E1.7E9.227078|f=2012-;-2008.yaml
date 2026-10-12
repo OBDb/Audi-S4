@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.227078|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_MQB_TCM_TORQUE_CONVERTER_LOCKUP_CLUTCH_STATUS: 0
+  response: '7E90462707800'
+- expected_values:
+    S4_MQB_TCM_TORQUE_CONVERTER_LOCKUP_CLUTCH_STATUS: 1
+  response: '7E90462707801'
+- expected_values:
+    S4_MQB_TCM_TORQUE_CONVERTER_LOCKUP_CLUTCH_STATUS: 2
+  response: '7E90462707802'

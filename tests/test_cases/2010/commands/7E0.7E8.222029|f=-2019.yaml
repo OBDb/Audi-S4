@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.222029|f=-2019
+test_cases:
+- expected_values:
+    S4_PQ35_CHARGE_AIR_P_SPECIFIED: 218.24
+  response: 7E8056220290AA8
+- expected_values:
+    S4_PQ35_CHARGE_AIR_P_SPECIFIED: 327.52
+  response: 7E8056220290FFE
+- expected_values:
+    S4_PQ35_CHARGE_AIR_P_SPECIFIED: 634.88
+  response: 7E8056220291F00
+- expected_values:
+    S4_PQ35_CHARGE_AIR_P_SPECIFIED: 963.68
+  response: 7E8056220292F0E

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2220A1|f=-2019
+test_cases:
+- expected_values:
+    S4_PQ35_CALCULATED_OIL_T: 20
+  response: 7E8046220A13C
+- expected_values:
+    S4_PQ35_CALCULATED_OIL_T: 115
+  response: 7E8046220A19B
