@@ -7,5 +7,8 @@ test_cases:
     S4_TIRE_RL_SPD: 25.5
   response: 7E905622B1D00FF
 - expected_values:
-    S4_TIRE_RL_SPD: 409.4
+    S4_TIRE_RL_SPD: 193.8
+  response: 7E905622B1D0792
+- expected_values:
+    S4_TIRE_RL_SPD: null
   response: 7E905622B1D0FFE

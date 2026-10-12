@@ -10,5 +10,5 @@ test_cases:
     S4_EXH_GAS_T: 290.7
   response: 7E80562F43C0CEB
 - expected_values:
-    S4_EXH_GAS_T: 3003.6
+    S4_EXH_GAS_T: null
   response: 7E80562F43C76E4
