@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22179C|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_ENGINE_OIL_T_2: 10.1
+  response: 7E80562179C0B10
+- expected_values:
+    S4_PQ35_ENGINE_OIL_T_2: 34
+  response: 7E80562179C0BFF
+- expected_values:
+    S4_PQ35_ENGINE_OIL_T_2: 85.4
+  response: 7E80562179C0E01

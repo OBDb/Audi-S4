@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2212FC|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_THROT_VALVE_ADAPT: 0.19
+  response: 7E8056212FC0013
+- expected_values:
+    S4_PQ35_THROT_VALVE_ADAPT: 5.11
+  response: 7E8056212FC01FF
+- expected_values:
+    S4_PQ35_THROT_VALVE_ADAPT: 12.8
+  response: 7E8056212FC0500
+- expected_values:
+    S4_PQ35_THROT_VALVE_ADAPT: 84.52
+  response: 7E8056212FC2104

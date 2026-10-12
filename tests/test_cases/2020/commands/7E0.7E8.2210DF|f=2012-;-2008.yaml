@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2210DF|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_INJ_2_RAIL_P_3: 0
+  response: 7E8056210DF0000
+- expected_values:
+    S4_PQ35_INJ_2_RAIL_P_3: -0.0032
+  response: 7E8056210DFFFC0
+- expected_values:
+    S4_PQ35_INJ_2_RAIL_P_3: -0.0004
+  response: 7E8056210DFFFF8

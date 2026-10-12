@@ -1,5 +1,0 @@
-command_id: 7E0.7E8.2220A1
-test_cases:
-- expected_values:
-    S4_PQ35_CALCULATED_OIL_T: 24
-  response: 7E8046220A140

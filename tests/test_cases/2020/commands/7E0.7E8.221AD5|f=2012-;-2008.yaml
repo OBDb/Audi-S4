@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221AD5|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_MQB_DPF_INLET_LAMBDA_VALUE: 0.88
+  response: 7E805621AD50370
+- expected_values:
+    S4_MQB_DPF_INLET_LAMBDA_VALUE: 2.047
+  response: 7E805621AD507FF
+- expected_values:
+    S4_MQB_DPF_INLET_LAMBDA_VALUE: 2.306
+  response: 7E805621AD50902
+- expected_values:
+    S4_MQB_DPF_INLET_LAMBDA_VALUE: 31.999
+  response: 7E805621AD57CFF

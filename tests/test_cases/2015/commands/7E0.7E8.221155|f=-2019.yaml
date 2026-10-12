@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221155|f=-2019
+test_cases:
+- expected_values:
+    S4_EM_TORQ_3: 0
+  response: '7E8056211550000'
+- expected_values:
+    S4_EM_TORQ_3: 1.59375
+  response: '7E8056211550033'
+- expected_values:
+    S4_EM_TORQ_3: -5.71875
+  response: 7E805621155FF49

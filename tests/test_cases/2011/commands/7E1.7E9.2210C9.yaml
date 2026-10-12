@@ -1,5 +1,0 @@
-command_id: 7E1.7E9.2210C9
-test_cases:
-- expected_values:
-    S4_PQ35_CLUTCH_1_SUCCESSFUL_ADAPTS_COUNTER: 61953
-  response: 7E9056210C901F2

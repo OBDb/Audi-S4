@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221189|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_CAMS_EDGE_POS_2: 4063.937
+  response: "7E8 05 62 11 89 FF FF \n7E8 03 41 0D 17 "
+- expected_values:
+    S4_PQ35_CAMS_EDGE_POS_2: 1068.875
+  response: 7E80562118944CE
+- expected_values:
+    S4_PQ35_CAMS_EDGE_POS_2: 4063.937
+  response: 7E805621189FFFF

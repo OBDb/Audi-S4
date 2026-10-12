@@ -1,5 +1,0 @@
-command_id: 7E0.7E8.221057
-test_cases:
-- expected_values:
-    S4_PQ35_CHG_P: 3.364
-  response: 7E8056210570D24

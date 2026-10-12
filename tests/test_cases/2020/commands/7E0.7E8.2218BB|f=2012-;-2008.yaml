@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2218BB|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_MQB_DPF_UNBURNED_FUEL_CALCULATED: 0
+  response: 7E8056218BB0000

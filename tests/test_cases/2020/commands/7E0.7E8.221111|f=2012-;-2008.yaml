@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221111|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_RAD_COOL_T_CMD: 89.9
+  response: 7E8056211110E2E
+- expected_values:
+    S4_PQ35_RAD_COOL_T_CMD: 90
+  response: 7E8056211110E2F

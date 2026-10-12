@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2210E2|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_WEAR_IDX: 0
+  response: 7E8056210E20000
+- expected_values:
+    S4_PQ35_WEAR_IDX: 20
+  response: 7E8056210E20014

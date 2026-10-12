@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2212FE|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_CAMS_ADAPT_PHASE_1: 0
+  response: 7E8056212FE0000
+- expected_values:
+    S4_PQ35_CAMS_ADAPT_PHASE_1: -4.8
+  response: 7E8056212FEFF10
+- expected_values:
+    S4_PQ35_CAMS_ADAPT_PHASE_1: -3.76
+  response: 7E8056212FEFF44

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221149|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_PQ35_BOOST_P_CMD: 939
+  response: 7E80562114903AB
+- expected_values:
+    S4_PQ35_BOOST_P_CMD: 1023
+  response: 7E80562114903FF
+- expected_values:
+    S4_PQ35_BOOST_P_CMD: 1024
+  response: '7E8056211490400'
+- expected_values:
+    S4_PQ35_BOOST_P_CMD: 3004
+  response: 7E8056211490BBC

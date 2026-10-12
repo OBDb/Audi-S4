@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221526|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_MQB_NOX_CONC_BEHIND_TURBO: 0
+  response: '7E8056215260000'
+- expected_values:
+    S4_MQB_NOX_CONC_BEHIND_TURBO: 254
+  response: 7E80562152600FE
+- expected_values:
+    S4_MQB_NOX_CONC_BEHIND_TURBO: 829
+  response: 7E805621526033D

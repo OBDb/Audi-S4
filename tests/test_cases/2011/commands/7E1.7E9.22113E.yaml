@@ -1,5 +1,0 @@
-command_id: 7E1.7E9.22113E
-test_cases:
-- expected_values:
-    S4_MQB_DQ250_SYNCHRONOUS_POS_SIDE_A_GEAR_SELECTOR_5_N: 205.5
-  response: 7E90562113E4650

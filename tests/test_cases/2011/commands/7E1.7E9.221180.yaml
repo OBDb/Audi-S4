@@ -1,5 +1,0 @@
-command_id: 7E1.7E9.221180
-test_cases:
-- expected_values:
-    S4_MQB_DQ250_CORRECTION_VALUES_MAIN_P_ADAPT_LOW_P_ON_CLUTCH_1: -166.38
-  response: 7E90562118002BF

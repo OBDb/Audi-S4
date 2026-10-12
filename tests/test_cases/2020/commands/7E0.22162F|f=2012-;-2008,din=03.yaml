@@ -1,0 +1,8 @@
+command_id: 7E0.22162F|f=2012-;-2008,din=03
+test_cases:
+- expected_values:
+    S4_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 0
+  response: 7E80562162F0000
+- expected_values:
+    S4_MQB_DPF_AIR_P_SENSOR_RAW_VALUE: 244
+  response: 7E80562162F00F4

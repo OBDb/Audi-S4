@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.22109E|f=-2019
+test_cases:
+- expected_values:
+    S4_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G5: -214.83
+  response: 7E90562109E15AC
+- expected_values:
+    S4_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G5: -4.91
+  response: 7E90562109E15FE
+- expected_values:
+    S4_PQ35_GEAR_ACTUATOR_ADAPT_ENGAGED_POS_G5: 2.78
+  response: 7E90562109E1601

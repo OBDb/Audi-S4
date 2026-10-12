@@ -1,0 +1,11 @@
+command_id: 7E1.7E9.2210AD|f=-2019
+test_cases:
+- expected_values:
+    S4_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G6: 0
+  response: 7E9056210AD0000
+- expected_values:
+    S4_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G6: -76.81
+  response: 7E9056210ADFFE1
+- expected_values:
+    S4_PQ35_GEAR_ACTUATOR_ADAPT_SYNCHRO_POS_G6: -0.01
+  response: 7E9056210ADFFFF

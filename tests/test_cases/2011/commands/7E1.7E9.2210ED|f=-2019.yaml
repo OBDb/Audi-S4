@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2210ED|f=-2019
+test_cases:
+- expected_values:
+    S4_PQ35_CLUTCH_2_FAILED_ADAPTS_COUNTER: 65535
+  response: 7E9056210EDFFFF

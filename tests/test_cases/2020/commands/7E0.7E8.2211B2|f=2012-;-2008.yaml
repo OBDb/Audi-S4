@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211B2|f=2012-;-2008
+test_cases:
+- expected_values:
+    S4_EXH_GAS_T_SENS_3_7E0: 16.3
+  response: 7E8056211B20B4E
+- expected_values:
+    S4_EXH_GAS_T_SENS_3_7E0: 187.8
+  response: 7E8056211B21201
+- expected_values:
+    S4_EXH_GAS_T_SENS_3_7E0: 290
+  response: 7E8056211B215FF
+- expected_values:
+    S4_EXH_GAS_T_SENS_3_7E0: 623
+  response: 7E8056211B22301
