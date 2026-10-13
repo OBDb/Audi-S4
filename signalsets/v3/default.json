@@ -312,19 +312,19 @@
   "signals": [
     {"id": "S4_P_BRAKE_SERVO_UNIT", "path": "Control", "fmt": { "len": 16, "max": 2047.9375, "min": -2048, "div": 16, "sign": true, "unit": "unknown" }, "name": "Pressure in brake servo unit"}
   ]},
-{ "hdr": "713", "rax": "77D", "cmd": {"22": "2B1B"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
+{ "hdr": "713", "rax": "77D", "cmd": {"22": "2B1B"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2019], "from": 2022 },
   "signals": [
     {"id": "S4_TIRE_FL_SPD_713", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"}
   ]},
-{ "hdr": "713", "rax": "77D", "cmd": {"22": "2B1C"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
+{ "hdr": "713", "rax": "77D", "cmd": {"22": "2B1C"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2019], "from": 2022 },
   "signals": [
     {"id": "S4_TIRE_FR_SPD_713", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"}
   ]},
-{ "hdr": "713", "rax": "77D", "cmd": {"22": "2B1D"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
+{ "hdr": "713", "rax": "77D", "cmd": {"22": "2B1D"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2019], "from": 2022 },
   "signals": [
     {"id": "S4_TIRE_RL_SPD_713", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear left wheel speed"}
   ]},
-{ "hdr": "713", "rax": "77D", "cmd": {"22": "2B1E"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
+{ "hdr": "713", "rax": "77D", "cmd": {"22": "2B1E"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2019], "from": 2022 },
   "signals": [
     {"id": "S4_TIRE_RR_SPD_713", "path": "Movement", "fmt": { "len": 16, "max": 1000, "div": 10, "unit": "kilometersPerHour" }, "name": "Rear right wheel speed"}
   ]},
@@ -344,11 +344,11 @@
   "signals": [
     {"id": "S4_DASH_AMBIENT_AIR_T", "path": "Engine", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Ambient air temperature"}
   ]},
-{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "202F"}, "freq": 5, "dbgfilter": { "to": 2017, "from": 2019 },
+{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "202F"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2019], "from": 2021 },
   "signals": [
     {"id": "S4_PQ35_OIL_T", "path": "Engine", "fmt": { "len": 8, "max": 197, "min": -58, "add": -58, "unit": "celsius" }, "name": "Oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "2203"}, "freq": 30, "dbgfilter": { "to": 2017, "from": 2019 },
+{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "2203"}, "freq": 30, "dbgfilter": { "to": 2017, "years": [2019], "from": 2021 },
   "signals": [
     {"id": "S4_PQ35_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
@@ -356,7 +356,7 @@
   "signals": [
     {"id": "S4_PQ35_FUEL_LVL", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "714", "rax": "77E", "fcm1": true, "dbg": true, "cmd": {"22": "220C"}, "freq": 5,
+{ "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "220C"}, "freq": 5, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "S4_OUTSIDE_T", "path": "Engine", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Outside temperature"}
   ]},
@@ -480,7 +480,7 @@
   "signals": [
     {"id": "S4_HVAC_OUTSIDE_HUM", "path": "Climate", "fmt": {"bix": 56, "len": 8, "max": 100, "div": 2, "unit": "percent" }, "name": "Outside humidity"}
   ]},
-{ "hdr": "746", "rax": "7B0", "fcm1": true, "dbg": true, "cmd": {"22": "27C4"}, "freq": 1,
+{ "hdr": "746", "rax": "7B0", "fcm1": true, "cmd": {"22": "27C4"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
     {"id": "S4_WINDSHIELD_T",   "path": "Climate", "fmt": {           "len": 8, "max": 108.08, "min": -38.8, "mul": 0.576,           "add": -38.8, "unit": "celsius" }, "name": "Windshield temperature"},
     {"id": "S4_CABIN_HUMIDITY", "path": "Climate", "fmt": {"bix": 32, "len": 8, "max": 100,                                "div": 2,               "unit": "percent" }, "name": "Cabin humidity"}
