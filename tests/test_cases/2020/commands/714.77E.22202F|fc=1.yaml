@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     S4_PQ35_OIL_T: -56
   response: 77E0462202F02
+- expected_values:
+    S4_PQ35_OIL_T: 66
+  response: 77E0462202F7C
+- expected_values:
+    S4_PQ35_OIL_T: 69
+  response: 77E0462202F7F

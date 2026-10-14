@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     S4_PQ35_ODO: 193560
   response: 77E0662220302F418
+- expected_values:
+    S4_PQ35_ODO: 193563
+  response: 77E0662220302F41B
+- expected_values:
+    S4_PQ35_ODO: 193564
+  response: 77E0662220302F41C

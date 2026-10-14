@@ -1,8 +1,17 @@
 command_id: 713.77D.222B1D
 test_cases:
 - expected_values:
+    S4_TIRE_RL_SPD_713: 35.8
+  response: 77D05622B1D0166
+- expected_values:
     S4_TIRE_RL_SPD_713: 37.8
   response: 77D05622B1D017A
 - expected_values:
+    S4_TIRE_RL_SPD_713: 39.3
+  response: 77D05622B1D0189
+- expected_values:
     S4_TIRE_RL_SPD_713: 63.3
   response: 77D05622B1D0279
+- expected_values:
+    S4_TIRE_RL_SPD_713: 205
+  response: 77D05622B1D0802
