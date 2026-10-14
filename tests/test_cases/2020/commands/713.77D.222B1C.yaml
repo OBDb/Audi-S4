@@ -4,5 +4,14 @@ test_cases:
     S4_TIRE_FR_SPD_713: 38.2
   response: 77D05622B1C017E
 - expected_values:
+    S4_TIRE_FR_SPD_713: 38.6
+  response: 77D05622B1C0182
+- expected_values:
+    S4_TIRE_FR_SPD_713: 39.2
+  response: 77D05622B1C0188
+- expected_values:
     S4_TIRE_FR_SPD_713: 64.1
   response: 77D05622B1C0281
+- expected_values:
+    S4_TIRE_FR_SPD_713: 205.1
+  response: 77D05622B1C0803

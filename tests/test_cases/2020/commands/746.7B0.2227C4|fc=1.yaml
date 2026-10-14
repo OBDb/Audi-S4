@@ -1,8 +1,14 @@
 command_id: 746.7B0.2227C4|fc=1
 test_cases:
 - expected_values:
+    S4_WINDSHIELD_T: 28.592
+  response: 7B0076227C475801D80
+- expected_values:
     S4_WINDSHIELD_T: 29.168
   response: 7B0076227C476801FC0
 - expected_values:
     S4_WINDSHIELD_T: 29.744
   response: 7B0076227C477001F80
+- expected_values:
+    S4_WINDSHIELD_T: 29.744
+  response: 7B0076227C477402040
