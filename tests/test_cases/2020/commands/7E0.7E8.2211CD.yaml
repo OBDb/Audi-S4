@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.2211CD
 test_cases:
 - expected_values:
-    S4_TCO_1_SYS: -14
+    S4_TCO_1_SYS: 26.14062
   response: 7E8056211CD1A24
 - expected_values:
-    S4_TCO_1_SYS: -10
+    S4_TCO_1_SYS: 30.39844
   response: 7E8056211CD1E66
 - expected_values:
-    S4_TCO_1_SYS: -10
+    S4_TCO_1_SYS: 30.62109
   response: 7E8056211CD1E9F

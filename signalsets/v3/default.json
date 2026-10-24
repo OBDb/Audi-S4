@@ -1385,9 +1385,13 @@
   "signals": [
     {"id": "S4_PQ35_OIL_LVL_CRIT", "path": "Engine", "fmt": { "len": 16, "max": 131.068, "min": -131.072, "div": 250, "sign": true, "unit": "millimeters" }, "name": "Critical engine oil level"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "filter": { "to": 2012, "from": 2017 }, "dbgfilter": { "to": 2017, "years": [2019, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "filter": { "years": [2020] },
   "signals": [
-    {"id": "S4_PQ35_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Oil temperature variant"}
+    {"id": "S4_PQ35_OIL_T_2", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -273.1, "unit": "celsius" }, "name": "Oil temperature variant"}
+  ]},
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BE"}, "freq": 5, "filter": { "to": 2012, "years": [2017, 2018, 2019], "from": 2021 }, "dbgfilter": { "to": 2017, "years": [2019, 2022], "from": 2024 },
+  "signals": [
+    {"id": "S4_PQ35_OIL_T_2_RAW", "path": "Engine", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "unknown" }, "name": "Oil temperature variant, raw count"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11BF"}, "freq": 1, "filter": { "to": 2008, "from": 2012 }, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
@@ -1423,7 +1427,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "11CD"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
-    {"id": "S4_TCO_1_SYS", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "TCO_1_SYS"}
+    {"id": "S4_TCO_1_SYS", "path": "Engine", "fmt": { "len": 16, "max": 255.99609375, "div": 256, "unit": "celsius" }, "name": "TCO_1_SYS"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "11CE"}, "freq": 1,
   "signals": [
@@ -1867,7 +1871,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "13F2"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
-    {"id": "S4_IGA_CYL_KNK_0", "path": "Engine", "fmt": { "len": 8, "max": 47.625, "min": -48, "mul": 3, "div": 8, "add": -48, "unit": "degrees" }, "name": "IGA_CYL_KNK, 0"}
+    {"id": "S4_IGA_CYL_KNK_0", "path": "Engine", "fmt": { "len": 32, "max": 4294967295, "unit": "unknown" }, "name": "IGA_CYL_KNK, 0"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "13F3"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
@@ -2227,7 +2231,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "1626"}, "freq": 5, "filter": { "to": 2008, "from": 2012 }, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
-    {"id": "S4_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "unit": "celsius" }, "name": "Radiator output coolant temp: actual"}
+    {"id": "S4_PQ35_RADIATOR_OUTPUT_COOLANT_T_ACTUAL", "path": "Engine", "fmt": { "len": 16, "max": 6280.4, "min": -273.1, "div": 10, "add": -273.1, "nullmin": -40, "unit": "celsius" }, "name": "Radiator output coolant temp: actual"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "din": "03", "cmd": {"22": "1628"}, "freq": 5, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
