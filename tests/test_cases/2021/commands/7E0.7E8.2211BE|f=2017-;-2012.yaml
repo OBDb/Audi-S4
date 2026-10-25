@@ -1,28 +1,28 @@
-command_id: 7E0.7E8.2211BE|f=2021-;-2012;2017;2018;2019
+command_id: 7E0.7E8.2211BE|f=2017-;-2012
 test_cases:
 - expected_values:
-    S4_PQ35_OIL_T_2_RAW: 17
+    S4_PQ35_OIL_T_2: null
   response: "2211BE1\n7E8 05 62 11 BE 00 11 "
 - expected_values:
-    S4_PQ35_OIL_T_2_RAW: 9
+    S4_PQ35_OIL_T_2: null
   response: '7E8 05 62 11 BE 00 09 '
 - expected_values:
-    S4_PQ35_OIL_T_2_RAW: 16
+    S4_PQ35_OIL_T_2: null
   response: '7E8 05 62 11 BE 00 10 '
 - expected_values:
-    S4_PQ35_OIL_T_2_RAW: -3
+    S4_PQ35_OIL_T_2: null
   response: '7E8 05 62 11 BE FF FD '
 - expected_values:
-    S4_PQ35_OIL_T_2_RAW: 0
+    S4_PQ35_OIL_T_2: null
   response: 7E8056211BE0000
 - expected_values:
-    S4_PQ35_OIL_T_2_RAW: 3
+    S4_PQ35_OIL_T_2: null
   response: |-
     7E8056211BE0003
     7E803411134
 - expected_values:
-    S4_PQ35_OIL_T_2_RAW: -9
+    S4_PQ35_OIL_T_2: null
   response: 7E8056211BEFFF7
 - expected_values:
-    S4_PQ35_OIL_T_2_RAW: -1
+    S4_PQ35_OIL_T_2: null
   response: 7E8056211BEFFFF
