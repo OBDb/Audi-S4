@@ -4,5 +4,8 @@ test_cases:
     S4_VSS: 0
   response: 7E80462F40D00
 - expected_values:
-    S4_VSS: 255
+    S4_VSS: 186
+  response: 7E80462F40DBA
+- expected_values:
+    S4_VSS: null
   response: 7E80462F40DFF
