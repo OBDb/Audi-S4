@@ -1,4 +1,4 @@
-command_id: 7E1.7E9.222131|f=2012-;-2008
+command_id: 7E1.7E9.222131
 test_cases:
 - expected_values:
     S4_TORQUE_CONVERTER_SLIP_TCM: 5
