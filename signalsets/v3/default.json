@@ -5012,15 +5012,15 @@
   ]},
 { "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E33"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
-    {"id": "S4_BMS_CELL_V_MAX",      "path": "Battery", "fmt": {           "len": 16, "max": 6.5535, "div": 10000, "unit": "volts"  }, "name": "Cell voltage max, value"},
-    {"id": "S4_BMS_CELL_V_MAX_IDX",  "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "Cell voltage max, index"},
-    {"id": "S4_HVBAT_CELL_V_MAX_NO", "path": "Battery", "fmt": {"bix": 24, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "HV battery highest cell"}
+    {"id": "S4_BMS_CELL_V_MAX",      "path": "Battery", "fmt": {           "len": 16, "max": 65.535, "div": 1000, "unit": "volts"  }, "name": "Cell voltage max, value"},
+    {"id": "S4_BMS_CELL_V_MAX_IDX",  "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                 "unit": "scalar" }, "name": "Cell voltage max, index"},
+    {"id": "S4_HVBAT_CELL_V_MAX_NO", "path": "Battery", "fmt": {"bix": 24, "len": 8,  "max": 255,                 "unit": "scalar" }, "name": "HV battery highest cell"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E34"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
-    {"id": "S4_BMS_CELL_V_MIN",      "path": "Battery", "fmt": {           "len": 16, "max": 6.5535, "div": 10000, "unit": "volts"  }, "name": "Cell voltage min, value"},
-    {"id": "S4_BMS_CELL_V_MIN_IDX",  "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "Cell voltage min, index"},
-    {"id": "S4_HVBAT_CELL_V_MIN_NO", "path": "Battery", "fmt": {"bix": 24, "len": 8,  "max": 255,                  "unit": "scalar" }, "name": "HV battery lowest cell"}
+    {"id": "S4_BMS_CELL_V_MIN",      "path": "Battery", "fmt": {           "len": 16, "max": 65.535, "div": 1000, "unit": "volts"  }, "name": "Cell voltage min, value"},
+    {"id": "S4_BMS_CELL_V_MIN_IDX",  "path": "Battery", "fmt": {"bix": 16, "len": 8,  "max": 255,                 "unit": "scalar" }, "name": "Cell voltage min, index"},
+    {"id": "S4_HVBAT_CELL_V_MIN_NO", "path": "Battery", "fmt": {"bix": 24, "len": 8,  "max": 255,                 "unit": "scalar" }, "name": "HV battery lowest cell"}
   ]},
 { "hdr": "7E5", "rax": "7ED", "din": "03", "cmd": {"22": "1E3B"}, "freq": 1, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [

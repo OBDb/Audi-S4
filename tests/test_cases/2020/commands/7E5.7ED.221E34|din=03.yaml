@@ -1,32 +1,32 @@
 command_id: 7E5.7ED.221E34|din=03
 test_cases:
 - expected_values:
-    S4_BMS_CELL_V_MIN: 0.3519
+    S4_BMS_CELL_V_MIN: 3.519
     S4_BMS_CELL_V_MIN_IDX: 0
     S4_HVBAT_CELL_V_MIN_NO: 8
   response: 7ED07621E340DBF0008
 - expected_values:
-    S4_BMS_CELL_V_MIN: 0.3583
+    S4_BMS_CELL_V_MIN: 3.583
     S4_BMS_CELL_V_MIN_IDX: 0
     S4_HVBAT_CELL_V_MIN_NO: 10
   response: 7ED07621E340DFF000A
 - expected_values:
-    S4_BMS_CELL_V_MIN: 0.3584
+    S4_BMS_CELL_V_MIN: 3.584
     S4_BMS_CELL_V_MIN_IDX: 0
     S4_HVBAT_CELL_V_MIN_NO: 8
   response: 7ED07621E340E000008
 - expected_values:
-    S4_BMS_CELL_V_MIN: 0.3612
+    S4_BMS_CELL_V_MIN: 3.612
     S4_BMS_CELL_V_MIN_IDX: 0
     S4_HVBAT_CELL_V_MIN_NO: 1
   response: 7ED07621E340E1C0001
 - expected_values:
-    S4_BMS_CELL_V_MIN: 0.3639
+    S4_BMS_CELL_V_MIN: 3.639
     S4_BMS_CELL_V_MIN_IDX: 0
     S4_HVBAT_CELL_V_MIN_NO: 12
   response: 7ED07621E340E37000C
 - expected_values:
-    S4_BMS_CELL_V_MIN: 0.3855
+    S4_BMS_CELL_V_MIN: 3.855
     S4_BMS_CELL_V_MIN_IDX: 0
     S4_HVBAT_CELL_V_MIN_NO: 3
   response: 7ED07621E340F0F0003
