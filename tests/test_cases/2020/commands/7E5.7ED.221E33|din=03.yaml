@@ -1,27 +1,27 @@
 command_id: 7E5.7ED.221E33|din=03
 test_cases:
 - expected_values:
-    S4_BMS_CELL_V_MAX: 0.3525
+    S4_BMS_CELL_V_MAX: 3.525
     S4_BMS_CELL_V_MAX_IDX: 0
     S4_HVBAT_CELL_V_MAX_NO: 13
   response: 7ED07621E330DC5000D
 - expected_values:
-    S4_BMS_CELL_V_MAX: 0.3582
+    S4_BMS_CELL_V_MAX: 3.582
     S4_BMS_CELL_V_MAX_IDX: 0
     S4_HVBAT_CELL_V_MAX_NO: 13
   response: 7ED07621E330DFE000D
 - expected_values:
-    S4_BMS_CELL_V_MAX: 0.359
+    S4_BMS_CELL_V_MAX: 3.59
     S4_BMS_CELL_V_MAX_IDX: 0
     S4_HVBAT_CELL_V_MAX_NO: 13
   response: 7ED07621E330E06000D
 - expected_values:
-    S4_BMS_CELL_V_MAX: 0.3651
+    S4_BMS_CELL_V_MAX: 3.651
     S4_BMS_CELL_V_MAX_IDX: 0
     S4_HVBAT_CELL_V_MAX_NO: 1
   response: 7ED07621E330E430001
 - expected_values:
-    S4_BMS_CELL_V_MAX: 0.3847
+    S4_BMS_CELL_V_MAX: 3.847
     S4_BMS_CELL_V_MAX_IDX: 0
     S4_HVBAT_CELL_V_MAX_NO: 13
   response: 7ED07621E330F07000D
