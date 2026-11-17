@@ -857,7 +857,7 @@
   "signals": [
     {"id": "S4_PQ35_INJ_2_RAIL_P_3", "path": "Engine", "fmt": { "len": 16, "max": 1.63, "min": -1.6384, "div": 20000, "sign": true, "unit": "milliseconds" }, "name": "Injector 2 rail pressure calibration point 3"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10E0"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2022], "from": 2024 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10E0"}, "freq": 5, "filter": { "to": 2008, "from": 2017 }, "dbgfilter": { "to": 2017, "years": [2019, 2020, 2022], "from": 2024 },
   "signals": [
     {"id": "S4_ODO", "path": "Trips", "fmt": { "len": 32, "max": 4294967295, "nullmax": 2147483647, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
@@ -3918,7 +3918,7 @@
   "signals": [
     {"id": "S4_PQ35_CLUTCH_2_ADAPT_END_POS_CLOSED", "path": "Transmission", "fmt": { "len": 16, "blsb": true, "max": 327.67, "min": -327.68, "div": 100, "sign": true, "unit": "bars" }, "name": "Clutch 2 adaptation end position closed"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1077"}, "freq": 1, "filter": { "to": 2008, "from": 2012 },
+{ "hdr": "7E1", "rax": "7E9", "dbg": true, "cmd": {"22": "1077"}, "freq": 1,
   "signals": [
     {"id": "S4_MQB_DQ200_CLUTCH_2_FRICTION_VALUE_CORRECTION_FACTOR", "path": "Transmission", "fmt": { "len": 16, "max": 100, "mul": 0.09766, "sign": true, "unit": "percent" }, "name": "Clutch 2 friction value correction factor"}
   ]},
@@ -4078,15 +4078,15 @@
   "signals": [
     {"id": "S4_ADPT_CNT_PF_LOCKUP", "path": "Transmission", "fmt": { "len": 16, "max": 65535, "unit": "scalar" }, "name": "Adaptation counter PF lockup clutch"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "110A"}, "freq": 3600, "filter": { "to": 2008, "from": 2012 }, "dbgfilter": { "to": 2019, "from": 2022 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "110A"}, "freq": 3600, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
     {"id": "S4_MQB_DQ250_LOWER_ADAPTED_COUPLING_POINT_K2_FROM_MICRO_SLIP_PATH_ADAPT", "path": "Engine", "fmt": { "len": 8, "max": 1275, "mul": 5, "unit": "milliamps" }, "name": "Lower adapted coupling point K2 from micro-slip path adaptation"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "110B"}, "freq": 3600, "filter": { "to": 2008, "from": 2012 }, "dbgfilter": { "to": 2019, "from": 2022 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "110B"}, "freq": 3600, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
     {"id": "S4_MQB_DQ250_UPPER_ADAPTED_COUPLING_POINT_K1_FROM_MACRO_SLIP_PATH_ADAPT", "path": "Engine", "fmt": { "len": 8, "max": 1275, "mul": 5, "unit": "milliamps" }, "name": "Upper adapted coupling point K1 from macro slip path adaptation"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "110C"}, "freq": 3600, "filter": { "to": 2008, "from": 2012 }, "dbgfilter": { "to": 2019, "from": 2022 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "110C"}, "freq": 3600, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
     {"id": "S4_MQB_DQ250_UPPER_ADAPTED_COUPLING_POINT_K2_FROM_MACRO_SLIP_PATH_ADAPT", "path": "Engine", "fmt": { "len": 8, "max": 1275, "mul": 5, "unit": "milliamps" }, "name": "Upper adapted coupling point K2 from macro slip path adaptation"}
   ]},
@@ -4471,7 +4471,7 @@
   "signals": [
     {"id": "S4_TQ_CONV", "path": "Transmission", "fmt": { "len": 8, "max": 2.55, "div": 100, "unit": "scalar" }, "name": "Torque converter amplification"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2131"}, "freq": 0.25, "filter": { "to": 2008, "from": 2012 }, "dbgfilter": { "to": 2019, "from": 2022 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "2131"}, "freq": 0.25, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
     {"id": "S4_TORQUE_CONVERTER_SLIP_TCM", "path": "ECU", "fmt": { "len": 16, "max": 32767, "min": -32768, "sign": true, "unit": "rpm" }, "name": "Torque converter slip"}
   ]},
@@ -4839,7 +4839,7 @@
   "signals": [
     {"id": "S4_MQB_TCM_ENG_TORQUE", "path": "Engine", "fmt": { "len": 16, "max": 65535, "unit": "newtonMeters" }, "name": "Engine torque"}
   ]},
-{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "7078"}, "freq": 0.25, "filter": { "to": 2008, "from": 2012 }, "dbgfilter": { "to": 2019, "from": 2022 },
+{ "hdr": "7E1", "rax": "7E9", "cmd": {"22": "7078"}, "freq": 0.25, "dbgfilter": { "to": 2019, "from": 2022 },
   "signals": [
     {"id": "S4_MQB_TCM_TORQUE_CONVERTER_LOCKUP_CLUTCH_STATUS", "path": "Transmission", "fmt": { "len": 8, "max": 255, "unit": "scalar" }, "name": "Torque converter lockup clutch status"}
   ]},
